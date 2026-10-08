@@ -1,0 +1,15 @@
+{
+  "IDs": [
+    "entity_model_features"
+  ],
+  "hash": "fc551f0a284a5864fbc1a11fde5e27ab0ac95f43",
+  "version": "3.3.11",
+  "deps": [
+    "minecraft",
+    "entity_texture_features",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "entity_model_features",
+  "services": []
+}

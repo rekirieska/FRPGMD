@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "chunky"
+  ],
+  "hash": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+  "version": "1.4.23",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "chunky",
+  "services": []
+}

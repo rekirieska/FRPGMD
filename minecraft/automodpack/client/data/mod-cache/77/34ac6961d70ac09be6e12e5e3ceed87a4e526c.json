@@ -1,0 +1,19 @@
+{
+  "IDs": [
+    "automodpack"
+  ],
+  "hash": "7734ac6961d70ac09be6e12e5e3ceed87a4e526c",
+  "version": "5.0.0-rc.2",
+  "deps": [],
+  "nestedMods": [],
+  "id": "automodpack",
+  "services": [
+    "META-INF/services/net.minecraftforge.forgespi.locating.IDependencyLocator",
+    "META-INF/services/net.minecraftforge.forgespi.locating.IModLocator",
+    "META-INF/services/net.neoforged.neoforgespi.locating.IDependencyLocator",
+    "META-INF/services/net.neoforged.neoforgespi.earlywindow.GraphicsBootstrapper",
+    "META-INF/services/net.neoforged.neoforgespi.locating.IModFileCandidateLocator",
+    "META-INF/services/net.neoforged.neoforgespi.coremod.ICoreMod",
+    "META-INF/services/cpw.mods.modlauncher.api.ITransformationService"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "IDs": [
+    "inventoryessentials"
+  ],
+  "hash": "7a3d6c52ae45491581a97bf09053cd0bd14d4a82",
+  "version": "21.1.20",
+  "deps": [
+    "minecraft",
+    "neoforge",
+    "balm"
+  ],
+  "nestedMods": [],
+  "id": "inventoryessentials",
+  "services": []
+}

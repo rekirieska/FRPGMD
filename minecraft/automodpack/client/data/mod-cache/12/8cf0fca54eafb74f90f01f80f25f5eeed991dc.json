@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "obe"
+  ],
+  "hash": "128cf0fca54eafb74f90f01f80f25f5eeed991dc",
+  "version": "1.1.45",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "obe",
+  "services": []
+}

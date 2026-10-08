@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "cherishedworlds"
+  ],
+  "hash": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c",
+  "version": "10.1.1+1.21.1",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "cherishedworlds",
+  "services": []
+}

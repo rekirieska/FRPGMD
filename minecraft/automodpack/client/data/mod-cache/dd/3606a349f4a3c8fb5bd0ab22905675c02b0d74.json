@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "balm"
+  ],
+  "hash": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+  "version": "21.0.66",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "balm",
+  "services": []
+}

@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "ixeris_dummy"
+  ],
+  "hash": "48c842b9a0b5c7d3c6ff85bb82a274f4bf1f2165",
+  "version": "4.6.8+1.21.1-neoforge",
+  "deps": [],
+  "nestedMods": [],
+  "id": "ixeris_dummy",
+  "services": [
+    "META-INF/services/net.neoforged.neoforgespi.locating.IDependencyLocator",
+    "META-INF/services/net.neoforged.neoforgespi.earlywindow.GraphicsBootstrapper"
+  ]
+}

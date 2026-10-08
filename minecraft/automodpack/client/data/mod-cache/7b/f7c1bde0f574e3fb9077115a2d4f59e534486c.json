@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "treechop"
+  ],
+  "hash": "7bf7c1bde0f574e3fb9077115a2d4f59e534486c",
+  "version": "0.19.3",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "treechop",
+  "services": []
+}

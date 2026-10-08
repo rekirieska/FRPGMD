@@ -1,0 +1,20 @@
+{
+  "IDs": [
+    "asynclogger"
+  ],
+  "hash": "7375313a17917e93c3ef7f4325c5e862d5acbffe",
+  "version": "2.2.2+1.21.1-neoforge",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "asynclogger",
+  "services": [
+    "META-INF/services/net.neoforged.neoforgespi.locating.IDependencyLocator",
+    "META-INF/services/cpw.mods.modlauncher.api.ITransformationService",
+    "META-INF/services/net.neoforged.neoforgespi.earlywindow.GraphicsBootstrapper",
+    "META-INF/services/net.minecraftforge.forgespi.locating.IModLocator",
+    "META-INF/services/net.minecraftforge.forgespi.locating.IDependencyLocator"
+  ]
+}

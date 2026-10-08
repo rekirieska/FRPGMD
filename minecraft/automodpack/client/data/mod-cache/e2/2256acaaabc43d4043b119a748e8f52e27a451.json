@@ -1,0 +1,15 @@
+{
+  "IDs": [
+    "emf_compat_core"
+  ],
+  "hash": "e22256acaaabc43d4043b119a748e8f52e27a451",
+  "version": "2.0.0",
+  "deps": [
+    "minecraft",
+    "entity_model_features",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "emf_compat_core",
+  "services": []
+}

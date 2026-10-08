@@ -1,0 +1,20 @@
+{
+  "IDs": [
+    "jasione"
+  ],
+  "hash": "f732be9c32a896c76934949b891a115d8cd83c73",
+  "version": "1.0.9+1.21.1-neoforge",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "jasione",
+  "services": [
+    "META-INF/services/net.neoforged.neoforgespi.locating.IDependencyLocator",
+    "META-INF/services/cpw.mods.modlauncher.api.ITransformationService",
+    "META-INF/services/net.neoforged.neoforgespi.transformation.ClassProcessor",
+    "META-INF/services/net.minecraftforge.forgespi.locating.IModLocator",
+    "META-INF/services/net.minecraftforge.forgespi.locating.IDependencyLocator"
+  ]
+}

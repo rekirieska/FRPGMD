@@ -1,0 +1,21 @@
+filename = 'AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar'
+name = 'AmbientSounds'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '6.3.10'
+
+[download]
+hash = '4cc8e10a28f346cd4d08831a95f0225473f1377777cbc490300315d99a8cdb35f42135c388d5d041c633e354fc1bba985c59f6ac4a52cb9c2f947f904090cdd9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fM515JnW/versions/P48d3fOf/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'fM515JnW'
+version = 'P48d3fOf'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OsZiaDHq'
+type = 'REQUIRED'

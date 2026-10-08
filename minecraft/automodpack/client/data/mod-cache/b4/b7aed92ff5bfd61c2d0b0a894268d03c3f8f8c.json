@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "fragmentum"
+  ],
+  "hash": "b4b7aed92ff5bfd61c2d0b0a894268d03c3f8f8c",
+  "version": "5.2.0",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "fragmentum",
+  "services": []
+}

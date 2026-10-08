@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "fancytoasts"
+  ],
+  "hash": "ea6d91fa5bc3398cf73fb4e2d614eff8ad40a83e",
+  "version": "1.5.1",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "fancytoasts",
+  "services": []
+}

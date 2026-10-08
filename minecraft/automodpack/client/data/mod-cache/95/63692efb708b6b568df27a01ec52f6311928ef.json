@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "ferritecore"
+  ],
+  "hash": "9563692efb708b6b568df27a01ec52f6311928ef",
+  "version": "7.0.3",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "ferritecore",
+  "services": []
+}

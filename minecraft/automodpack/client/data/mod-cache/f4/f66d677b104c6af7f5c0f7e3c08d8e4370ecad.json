@@ -1,0 +1,15 @@
+{
+  "IDs": [
+    "octolib"
+  ],
+  "hash": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+  "version": "0.6.2",
+  "deps": [
+    "minecraft",
+    "architectury",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "octolib",
+  "services": []
+}

@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "yungsapi"
+  ],
+  "hash": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+  "version": "1.21.1-NeoForge-5.1.9",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "yungsapi",
+  "services": []
+}

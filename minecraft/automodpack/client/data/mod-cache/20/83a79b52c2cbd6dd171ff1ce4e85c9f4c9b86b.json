@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "creativecore"
+  ],
+  "hash": "2083a79b52c2cbd6dd171ff1ce4e85c9f4c9b86b",
+  "version": "2.13.50",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "creativecore",
+  "services": []
+}

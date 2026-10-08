@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "neo_language_reload"
+  ],
+  "hash": "6e98066515853318d1b760bed021045884d5c9ca",
+  "version": "1.0.0",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "neo_language_reload",
+  "services": []
+}

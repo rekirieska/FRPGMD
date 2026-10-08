@@ -1,0 +1,15 @@
+{
+  "IDs": [
+    "controlling"
+  ],
+  "hash": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+  "version": "19.0.5",
+  "deps": [
+    "minecraft",
+    "neoforge",
+    "searchables"
+  ],
+  "nestedMods": [],
+  "id": "controlling",
+  "services": []
+}

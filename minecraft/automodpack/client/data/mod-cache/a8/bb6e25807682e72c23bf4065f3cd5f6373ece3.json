@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "packetfixer"
+  ],
+  "hash": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
+  "version": "3.3.1",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "packetfixer",
+  "services": []
+}

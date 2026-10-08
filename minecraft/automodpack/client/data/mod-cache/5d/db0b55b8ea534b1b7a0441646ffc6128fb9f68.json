@@ -1,0 +1,17 @@
+{
+  "IDs": [
+    "emf_compat_not_enough_animations"
+  ],
+  "hash": "5ddb0b55b8ea534b1b7a0441646ffc6128fb9f68",
+  "version": "1.2.0",
+  "deps": [
+    "minecraft",
+    "entity_model_features",
+    "emf_compat_core",
+    "notenoughanimations",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "emf_compat_not_enough_animations",
+  "services": []
+}

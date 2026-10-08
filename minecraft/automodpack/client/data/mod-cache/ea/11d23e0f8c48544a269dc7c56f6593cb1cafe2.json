@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "alltheleaks"
+  ],
+  "hash": "ea11d23e0f8c48544a269dc7c56f6593cb1cafe2",
+  "version": "1.1.13+1.21.1-neoforge",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "alltheleaks",
+  "services": []
+}

@@ -1,0 +1,33 @@
+filename = 'emf_compat_not_enough_animations_1.21.1_1.2.0.jar'
+name = 'EMF Compat: Not Enough Animations'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '2af018ff1a24d32a64f5729270ab1091fa1d1375a371a8b4047026382de6020420ccd026ff6d52b4ac5c02b5d407e7c37a924233faa5a3eb9c3d8ee6a490c1c1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IGCrWfL7/versions/2PAaJs7w/emf_compat_not_enough_animations_1.21.1_1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'IGCrWfL7'
+version = '2PAaJs7w'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MPCX6s5C'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hbGct5uU'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BVzZfTc1'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'REQUIRED'

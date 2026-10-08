@@ -1,0 +1,14 @@
+{
+  "IDs": [
+    "notenoughanimations"
+  ],
+  "hash": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
+  "version": "1.12.6",
+  "deps": [
+    "minecraft",
+    "neoforge"
+  ],
+  "nestedMods": [],
+  "id": "notenoughanimations",
+  "services": []
+}

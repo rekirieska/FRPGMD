@@ -1,0 +1,18 @@
+filename = 'packed_packs-neoforge-2.3.1+1.21.1.jar'
+name = 'Packed Packs'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3.1+1.21.1'
+
+[download]
+hash = '5712ca22095cf4a8eb52723ed3594e8a1744cf58aa12f33e39a224055f58453a4716cbb6704c6eb219b9aea6afa722b416178daccd2b847c791c5fc7a87f02a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8Pq6Exn2/versions/2AeJ4zF8/packed_packs-neoforge-2.3.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8Pq6Exn2'
+version = '2AeJ4zF8'
