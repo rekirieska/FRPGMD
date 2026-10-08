@@ -11,8 +11,8 @@
       "opacity": 1.0,
       "beepSound": "enhancedvisuals:ringing",
       "dust": {
-        "disabled": false,
-        "opacity": 1.0,
+        "disabled": true,
+        "opacity": 0.0,
         "animationSpeed": 0,
         "scale": {
           "min": 0.2,
