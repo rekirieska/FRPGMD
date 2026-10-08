@@ -1,0 +1,18 @@
+filename = 'packforge-neoforge-1.4.1-beta.1-mc1.21.1.jar'
+name = 'PackForge - Optimized Resource Pack Loading Time'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.4.1-beta.1'
+
+[download]
+hash = 'c036a3b64c4c147f911b7d341aa1dd2c5434633cd5c2136f58bea3b1007ba511c8c7fcba7341da45220cbf168eb75c253e631e1795f09cdb306d242cd29f714e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NimDX7iQ/versions/4t0oVKd3/packforge-neoforge-1.4.1-beta.1-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'NimDX7iQ'
+version = '4t0oVKd3'
