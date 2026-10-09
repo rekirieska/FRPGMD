@@ -16,5 +16,6 @@ minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/mods/*.disabled
 minecraft/bivrik/
+minecraft/locale/
 -minecraft/mods/.index/
 
