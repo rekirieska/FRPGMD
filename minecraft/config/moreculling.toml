@@ -20,4 +20,6 @@ beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+visualworkbench = true
+treechop = true
 minecraft = true
