@@ -49,7 +49,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 # 
 threadPoolPriorityPreset = "default"
 # ================================================================
-# (Default: 3) Configures the parallelism of global executor
+# (Default: 5) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 [fixes]
@@ -118,6 +118,8 @@ globalExecutorParallelism = "default"
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)
 	# 
+	# Set to false for the following reasons: 
+	# Incompatible with biolith@3.0.14 (*) (defined in c2me) 
 	useEndBiomeCache = "default"
 	# ================================================================
 	# (Default: true) Whether to enable StructureWeightSampler optimizations to accelerate world generation
@@ -243,7 +245,7 @@ globalExecutorParallelism = "default"
 
 [noTickViewDistance]
 	# ================================================================
-	# (Default: 9) No-tick view distance max concurrent chunk loads 
+	# (Default: 15) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = 6
 	# ================================================================

@@ -10,7 +10,10 @@
     "additionalFolders": [],
     "foldersModuleByDefault": false,
     "rememberLastViewedProfile": false,
-    "profileOrder": []
+    "lastViewedProfile": "Default",
+    "profileOrder": [
+      "Default"
+    ]
   },
   "datapacks": {
     "replaceOriginal": true,

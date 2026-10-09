@@ -19,5 +19,10 @@ minecraft/bivrik/
 minecraft/local/
 minecraft/.mixin.out/
 minecraft/command_history.txt
+minecraft/.cache/
+minecraft/config/spark/
+minecraft/.qmenu_opened.marker
+minecraft/fabricloader.log
+minecraft/options.txt
+minecraft/configureddefaults/README.md
 -minecraft/mods/.index/
-
