@@ -1,5 +1,5 @@
 # FRPGMD
-F - не помньб
+F - fantasy
 R - role
 P - play
 G - game
