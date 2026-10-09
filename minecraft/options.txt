@@ -23,7 +23,7 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 renderDistance:12
-simulationDistance:12
+simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -135,6 +135,9 @@ key_key.inventoryessentials.dump_to_container:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.corpse.death_history:key.keyboard.u
 key_key.handycam.toggle_effects:key.keyboard.f10
+key_key.kubejs.kubedex:key.keyboard.k
+key_key.interactic.pickup_item:key.keyboard.unknown
+key_key.takeaseat.sit:key.keyboard.x
 key_key.shouldersurfing.adjust_camera_left:key.keyboard.left
 key_key.shouldersurfing.adjust_camera_right:key.keyboard.right
 key_key.shouldersurfing.adjust_camera_in:key.keyboard.up
@@ -154,6 +157,7 @@ key_key.shouldersurfing.enter_first_person:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
+key_key.atmospherics.open:key.keyboard.b
 key_gnetum.config.keyMapping:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.4906132125934796

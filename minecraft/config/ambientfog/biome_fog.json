@@ -283,7 +283,7 @@
     "minecraft:plains": {
       "enabled": true,
       "fogColor": 2142207,
-      "skyColor": 3315199,
+      "skyColor": 25034,
       "cloudColor": 16777215,
       "nightSkyColor": 0,
       "nightFogColor": 263201,
