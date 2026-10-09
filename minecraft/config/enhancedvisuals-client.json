@@ -37,8 +37,8 @@
         "maxValue": 200
       },
       "blur": {
-        "disabled": true,
-        "opacity": 1.0
+        "disabled": false,
+        "opacity": 0.5147929
       },
       "maxBlur": {
         "min": 0,

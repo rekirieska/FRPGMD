@@ -1,0 +1,21 @@
+filename = 'twod_projectiles-neoforge-1.1.1.jar'
+name = '2D Projectiles ➵'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = '943403660f952aa93af60db64b1d8c17ec18d3dc6fc297160fcd31dd4643e62fafb246484970b9ac425d788e84ca47f151951dc6fd72893391e874da387357f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W2K5WNdH/versions/xd9GF7rd/twod_projectiles-neoforge-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'W2K5WNdH'
+version = 'xd9GF7rd'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

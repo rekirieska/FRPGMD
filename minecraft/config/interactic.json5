@@ -3,7 +3,7 @@
 	// Whether players can pick up items by clicking them. This also affects the keybind
 	"rightClickPickup": true,
 	// Whether players can throw items farther than normal by holding down the drop key
-	"itemThrowing": true,
+	"itemThrowing": false,
 	// Whether the Item Filter should be loaded
 	"itemFilterEnabled": true,
 	// Whether items that have damage modifiers should also deal damage when thrown
