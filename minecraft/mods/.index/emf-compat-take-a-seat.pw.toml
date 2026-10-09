@@ -1,0 +1,33 @@
+filename = 'emf_compat_takeaseat_1.21.1_2.0.0.jar'
+name = 'EMF Compat: Take a Seat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = 'b30be52988da7238409a1dcae8d7a24a45085077ef1b230acb99ff74794a649d8a646335f0c022a29553435a7f5e0c8bb8e6ad8c46d758cc0a424b1c4e0b2180'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/npIU8sEo/versions/rmSTlNBS/emf_compat_takeaseat_1.21.1_2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'npIU8sEo'
+version = 'rmSTlNBS'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hbGct5uU'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BVzZfTc1'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Gg7qMzxE'
+type = 'REQUIRED'
