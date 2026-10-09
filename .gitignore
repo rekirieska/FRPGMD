@@ -15,5 +15,6 @@ minecraft/texturepacks/
 minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/mods/*.disabled
--minecraft/mods/.index/
 minecraft/bivrik/
+-minecraft/mods/.index/
+
