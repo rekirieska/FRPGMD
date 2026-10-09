@@ -18,5 +18,6 @@ minecraft/mods/*.disabled
 minecraft/bivrik/
 minecraft/local/
 minecraft/.mixin.out/
+minecraft/command_history.txt
 -minecraft/mods/.index/
 

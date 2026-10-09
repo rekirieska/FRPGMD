@@ -1,9 +1,0 @@
-/time set day
-/time set night
-/
-/time set day
-/time set night
-/time set day
-/weather rain
-/weather thunder
-/weather clear
