@@ -1,9 +1,9 @@
 {
-  "enabled": false,
+  "enabled": true,
   "renderF5": true,
   "refreshRateScaling": true,
   "depthBlur": true,
-  "motionBlurStrength": 1.0,
+  "motionBlurStrength": 0.5,
   "blurAlgorithm": "BACKWARDS",
   "toggleKey": "key.keyboard.b"
 }
