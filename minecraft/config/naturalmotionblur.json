@@ -2,8 +2,8 @@
   "enabled": true,
   "renderF5": true,
   "refreshRateScaling": true,
-  "depthBlur": true,
-  "motionBlurStrength": 0.5,
+  "depthBlur": false,
+  "motionBlurStrength": 0.3,
   "blurAlgorithm": "BACKWARDS",
   "toggleKey": "key.keyboard.b"
 }

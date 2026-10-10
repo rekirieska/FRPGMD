@@ -1,0 +1,18 @@
+filename = 'gbf-1.21.1-1.0.2.jar'
+name = 'GeckolibBetterFPS'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = 'b80ce5fc7a04308884b9e93d184c77adfe1f177593ce6b088ebf55aea0ff05b12f13d88a01ec8791584e35155bfbe8212ed10623ed1ca1d2ec8d68f75b074e2d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CZyWdBUo/versions/cqGqtGak/gbf-1.21.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'CZyWdBUo'
+version = 'cqGqtGak'

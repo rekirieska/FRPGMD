@@ -126,6 +126,10 @@ key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.corpse.death_history:key.keyboard.u
 key_accessories.key.open_accessories_screen:key.keyboard.h
+key_key.hackersandslashers.parry:key.mouse.right
+key_key.hackersandslashers.roll:key.keyboard.left.alt
+key_key.hackersandslashers.dash:key.keyboard.x
+key_key.hackersandslashers.ultimate:key.keyboard.r
 key_key.punchy.open_main_menu:key.keyboard.f8
 key_key.punchy.inspect:key.keyboard.i
 key_key.takeaseat.sit:key.keyboard.x
@@ -148,6 +152,15 @@ key_key.shouldersurfing.enter_first_person:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_front:key.keyboard.unknown
 key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
+key_key.icys-better-horses.call:key.keyboard.p
+key_key.icys-better-horses.radial:key.keyboard.r
+key_key.icys-better-horses.manage:key.keyboard.g
+key_key.icys-better-horses.gear:key.keyboard.v
+key_key.icys-better-horses.rear:key.keyboard.h
+key_key.icys-better-horses.free_look:key.keyboard.left.control
+key_key.icys-better-horses.cart_menu:key.keyboard.left.alt
+key_key.icys-better-horses.rider_panel:key.keyboard.e:CONTROL
+key_key.icys-better-horses.charge:key.keyboard.b
 key_key.atmospherics.open:key.keyboard.b
 key_gnetum.config.keyMapping:key.keyboard.end
 key_key.weaponmaster_ydm.opengui:key.keyboard.v
@@ -202,8 +215,8 @@ key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
+key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 soundCategory_master:0.4906132125934796
 soundCategory_music:1.0
 soundCategory_record:1.0
