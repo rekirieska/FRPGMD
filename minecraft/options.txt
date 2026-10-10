@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod/punchy:resourcepacks/punchy","fabric","mod_resources","file/JustExpressions_v1.2.1.zip","file/FA+Player-v1.1.zip","generated/fragmentum_layer","mod/atmospherics:resourcepacks/atmospherics_pack"]
-incompatibleResourcePacks:[]
+resourcePacks:["mod/punchy:resourcepacks/punchy","vanilla","fabric","generated/fragmentum_layer","mod_resources","mod/atmospherics:resourcepacks/atmospherics_pack","file/JustExpressions_v1.2.1.zip","file/FA+Player-v1.1.zip","file/Ashen_16x.zip","file/Ashen - Corpse Compat.zip","file/rainbows-foliage-polytone-edition-v2.1-[1.20.1].zip"]
+incompatibleResourcePacks:["file/rainbows-foliage-polytone-edition-v2.1-[1.20.1].zip"]
 lastServer:
 lang:ru_ru
 chatVisibility:0
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -126,10 +126,6 @@ key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.corpse.death_history:key.keyboard.u
 key_accessories.key.open_accessories_screen:key.keyboard.h
-key_key.hackersandslashers.parry:key.mouse.right
-key_key.hackersandslashers.roll:key.keyboard.left.alt
-key_key.hackersandslashers.dash:key.keyboard.caps.lock
-key_key.hackersandslashers.ultimate:key.keyboard.r
 key_key.punchy.open_main_menu:key.keyboard.f8
 key_key.punchy.inspect:key.keyboard.i
 key_key.takeaseat.sit:key.keyboard.x
@@ -220,8 +216,8 @@ key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
+key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 soundCategory_master:0.4906132125934796
 soundCategory_music:1.0
 soundCategory_record:1.0

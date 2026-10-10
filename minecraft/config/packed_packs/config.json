@@ -6,11 +6,10 @@
   "resourcepacks": {
     "applyOnClose": true,
     "replaceOriginal": true,
-    "hideIncompatibleWarnings": false,
+    "hideIncompatibleWarnings": true,
     "additionalFolders": [],
     "foldersModuleByDefault": false,
     "rememberLastViewedProfile": false,
-    "lastViewedProfile": "Default",
     "profileOrder": [
       "Default"
     ]
