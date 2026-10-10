@@ -1,26 +1,21 @@
-filename = 'interactic-0.2.2+1.21.1.jar'
+filename = 'interactic-renewed-neoforge-0.2.3+1.21.1.jar'
 name = 'Interactic Renewed'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.2.2+1.21.1'
+x-prismlauncher-version-number = '0.2.3+1.21.1'
 
 [download]
-hash = '4be5773214cf7c3839c636bd78a3d05b6a08edf510fecb252bbe8c9fee45737c9a0464caea4e66a4305847611ca92c464a0772c9bcf8d73562f86e7beec900db'
+hash = 'b16231f41ffd8ca725ee5e24c0ee9bd7e349570c52434f1fd591d4c6af4049db194ca51eb87ba35c19cf9e95dfddaab86f586f1b5156712f846f4c342d61110d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/BM12h14f/versions/W05MzXWJ/interactic-0.2.2%2B1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/BM12h14f/versions/b0a48VF8/interactic-renewed-neoforge-0.2.3%2B1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'BM12h14f'
-version = 'W05MzXWJ'
+version = 'b0a48VF8'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'mOgUt4GM'
 type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ccKDOlHs'
-type = 'REQUIRED'
-version = 'NMCHU6DZ'
