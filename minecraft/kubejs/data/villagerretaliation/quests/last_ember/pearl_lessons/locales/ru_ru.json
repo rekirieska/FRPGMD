@@ -1,0 +1,68 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.pearl_lessons.description": "Начните линию Последнего уголька с изучения эндер-жемчуга, не принимая страх за мудрость.",
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.label": "О жемчуге",
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.lines": [
+      "Жемчуг и бумага. Начало небольшое, но любой последний путь начинается с первой записи."
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.response.complete.label": "Запишите урок.",
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Первая запись говорит: страх – это информация, а не хозяин."
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для урока всё ещё нужны жемчуг и книга."
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда материалы, прежде чем мы что-нибудь запишем."
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу завершить урок о жемчуге."
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.leave.lines": [
+      "Страница остаётся открытой. Не позволяйте ей слишком долго смотреть в ответ."
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.ui.tracker_text": "Вернитесь с материалами для изучения жемчуга.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.label": "Жемчуг",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.lines": [
+      "Некоторые вещи заставляют крестьян говорить тише, потому что старый страх научил их осторожности.",
+      "Эндер-жемчуг как раз из таких вещей. Принесите 2 жемчуга и книгу. Мы изучим то, что нас пугает, не склоняясь перед страхом."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.response.accept.label": "Я принесу жемчуг.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.label": "О жемчуге",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.lines": [
+      "Принесите 2 эндер-жемчуга и книгу. Мы пишем записи, а не предзнаменования."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.response.details.label": "Напомните урок.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_book.tracker.complete_text": "Книга для исследования готова.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_book.tracker.text": "Принесите 1 книгу для первых записей.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_ender_pearls.tracker.complete_text": "Эндер-жемчуг готов.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_ender_pearls.tracker.text": "Принесите 2 эндер-жемчуга для изучения.",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.decline.lines": [
+      "Хорошо. Урок о страхе не должен начинаться с испытания на смелость."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.leave.lines": [
+      "Не бросайте жемчуг, если не готовы объяснить, куда собираетесь приземлиться."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 2 эндер-жемчуга и 1 книгу для первого урока Последнего уголька."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.reminder_details.action.remind.lines.unavailable": [
+      "Урок о жемчуге сейчас не засчитывается."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.start_quest.action.start.lines.already_completed": [
+      "Первый урок о жемчуге уже записан."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.start_quest.action.start.lines.started": [
+      "Принесите 2 эндер-жемчуга и 1 книгу. Не отводите взгляд, если из-за жемчуга вам покажется, что за комнатой кто-то наблюдает."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.start_quest.action.start.lines.unavailable": [
+      "Этот урок сейчас не готов к началу."
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.ui.tracker_text": "Принесите 2 эндер-жемчуга и 1 книгу.",
+    "quest.last_ember.pearl_lessons.title": "Жемчуг"
+  }
+}

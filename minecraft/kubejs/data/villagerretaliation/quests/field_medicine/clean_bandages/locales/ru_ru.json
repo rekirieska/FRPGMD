@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.field_medicine.clean_bandages.description": "Помоги подготовить простые медицинские припасы до следующей травмы в деревне.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.label": "Бинты",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.lines": [
+      "Стоит кому-то пострадать, и все внезапно вспоминают о подготовке.",
+      "Я предпочитаю подготовиться до криков. Сначала принеси чистую шерсть и нить; даже грубые руки могут работать аккуратно."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.response.accept.label": "Я соберу ткань.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.label": "О бинтах",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.lines": [
+      "Сначала чистая ткань. Скучная работа, пока однажды она не становится самым важным."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.response.details.label": "Повтори список для ткани.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.response.leave.label": "Я принесу всё.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_string.tracker.complete_text": "Нить для перевязок готова.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_string.tracker.text": "Принеси 6 нитей для шин и повязок.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_wool.tracker.complete_text": "Чистая ткань готова.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_wool.tracker.text": "Принеси 8 блоков белой шерсти для чистых бинтов.",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.decline.lines": [
+      "Тогда я продолжу складывать то немногое, что у нас есть, и надеяться, что оно не понадобится."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.leave.lines": [
+      "Постарайся сохранить всё чистым. Грязь всегда приходит без приглашения."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 8 блоков белой шерсти и 6 нитей для чистых бинтов."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.reminder_details.action.remind.lines.unavailable": [
+      "Набор бинтов сейчас не готов к этой работе."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.start_quest.action.start.lines.already_completed": [
+      "Набор бинтов уже подготовлен."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.start_quest.action.start.lines.started": [
+      "Принеси 8 блоков белой шерсти и 6 нитей. Тихие припасы экономят громкие минуты."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.start_quest.action.start.lines.unavailable": [
+      "Медицинский набор сейчас не готов просить о помощи."
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.ui.tracker_text": "Принеси 8 блоков белой шерсти и 6 нитей.",
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.label": "О бинтах",
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.lines": [
+      "Чистая ткань, тугие повязки, закрытые бутылочки. Такое милосердие помещается на одной полке."
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.response.complete.label": "Пополнить полевой медицинский набор.",
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Никто не станет радоваться полному медицинскому набору, и меня это устраивает."
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Прежде чем закрыть набор, всё ещё нужны ткань, нить, мёд или чистые бутылочки."
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси сюда медицинские припасы, чтобы я мог спокойно их пересчитать."
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу закрыть медицинский набор."
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.leave.lines": [
+      "Недоделанная забота обычно даёт о себе знать в самый неподходящий момент."
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.ui.tracker_text": "Вернись с припасами для полевой медицины.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.label": "О бинтах",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.lines": [
+      "Повязки готовы. Теперь нужны закрытые бутылочки и мёд, простое лекарство, о котором никто не вспоминает, пока снова не сможет спокойно дышать."
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.response.details.label": "Повтори список бутылочек.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.response.leave.label": "Я принесу всё.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_glass_bottles.tracker.complete_text": "Чистые бутылочки готовы.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_glass_bottles.tracker.text": "Принеси 4 бутылочки для чистых смесей.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_honey.tracker.complete_text": "Бутылочки мёда готовы.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_honey.tracker.text": "Принеси 2 бутылочки мёда для полевого набора.",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.scene.leave.lines": [
+      "Если придётся, подпиши бутылочки по памяти, но одной памяти не доверяй."
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 2 бутылочки мёда и 4 бутылочки для полевого набора."
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.scene.reminder_details.action.remind.lines.unavailable": [
+      "Бутылочки могут подождать, пока не будут готовы ткань и нить."
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.ui.tracker_text": "Принеси 2 бутылочки мёда и 4 бутылочки.",
+    "quest.field_medicine.clean_bandages.title": "Бинты"
+  }
+}

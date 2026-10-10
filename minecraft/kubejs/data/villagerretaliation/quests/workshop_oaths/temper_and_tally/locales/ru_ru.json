@@ -1,0 +1,86 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.workshop_oaths.temper_and_tally.description": "Принеси более тяжёлые материалы, которые нужны мастерской, прежде чем инструментам можно будет доверять под нагрузкой.",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.label": "О Закалке",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.lines": [
+      "Железа и жара достаточно, чтобы начать. Теперь принеси точило, чтобы закончить работу как следует."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.response.details.label": "Повтори список для завершения.",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.response.leave.label": "Я принесу всё.",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.objective.bring_grindstone.tracker.complete_text": "Точило готово.",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.objective.bring_grindstone.tracker.text": "Принеси 1 точило, чтобы закончить кромку в мастерской.",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.scene.leave.lines": [
+      "Грубая кромка всего лишь честно признаётся, что её ещё не закончили."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 1 точило, чтобы закончить заказ мастерской."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.scene.reminder_details.action.remind.lines.unavailable": [
+      "Точило может подождать, пока не будут готовы железо и уголь."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.ui.tracker_text": "Принеси 1 точило.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.label": "Закалка",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.lines": [
+      "С мелкими деталями разобрались. Теперь наступает момент, когда инструмент либо учится дисциплине, либо становится жалобой с рукоятью.",
+      "Принеси железо и топливо. Потом точило, чтобы закончить работу, а не любоваться горячим металлом."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.response.accept.label": "Я принесу запас для кузницы.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.response.decline.label": "В другой раз.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.label": "О Закалке",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.lines": [
+      "Сначала железо и уголь. Жар без материалов лишь помогает потеть в помещении."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.response.details.label": "Повтори список для кузницы.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.response.leave.label": "Я принесу всё.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_coal.tracker.complete_text": "Топливо для кузницы готово.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_coal.tracker.text": "Принеси 12 единиц угля для ровного жара.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_iron.tracker.complete_text": "Запас железа готов.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_iron.tracker.text": "Принеси 8 железных слитков для ремонта и креплений.",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.decline.lines": [
+      "Кузница может подождать. Плохие инструменты не могут, хотя делают вид, что могут."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.leave.lines": [
+      "Сначала уголь, потом гордость. Гордость горит плохо."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 8 железных слитков и 12 единиц угля для учёта кузницы."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.reminder_details.action.remind.lines.unavailable": [
+      "Кузница сейчас не готова к этой работе."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.start_quest.action.start.lines.already_completed": [
+      "Учёт кузницы уже закрыт."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.start_quest.action.start.lines.started": [
+      "Принеси 8 железных слитков и 12 единиц угля. Хорошая работа начинается до первого удара молота."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.start_quest.action.start.lines.unavailable": [
+      "Кузница сейчас не готова просить о такой помощи."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.ui.tracker_text": "Принеси 8 железных слитков и 12 единиц угля.",
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.label": "О Закалке",
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.lines": [
+      "Железо, жар и чистая отделка. Такая мастерская может давать обещания и не краснеть."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.response.complete.label": "Закрыть учёт кузницы.",
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Инструменты из этих материалов должны ломаться тише. В идеале, вообще не ломаться."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Прежде чем я закрою учёт кузницы, всё ещё нужны железо, уголь или точило."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси сюда запас для кузницы, прежде чем я внесу его в учёт."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу закрыть учёт кузницы."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.leave.lines": [
+      "Учёт подождёт. Металл терпеливее людей."
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.ui.tracker_text": "Вернись с запасом для кузницы.",
+    "quest.workshop_oaths.temper_and_tally.title": "Закалка"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.eye_of_the_last_room.description": {
+      "lines": [
+        "Следуйте по атласу к крепости и вернитесь с направлением, подтверждённым оком Эндера."
+      ]
+    },
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.label": "О последней комнате",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.lines": [
+      "Вы нашли комнату, где Энд скрыт за кругом портала. Покажите мне направление."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.response.complete.label": "Передать направление к последней комнате",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Направление к последней комнате нанесено. Теперь атлас умеет указывать на порог, не принимая его за конец пути."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для страницы всё ещё нужны направление к крепости, око Эндера и эндер-жемчуг."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Возьмите с собой око Эндера, прежде чем я поверю отметке последней комнаты."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Око должно подтверждаться направлением к крепости."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для направления к последней комнате всё ещё нужно доказательство, прежде чем я смогу завершить страницу."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.leave.lines": [
+      "Круг портала подождёт, пока вы не будете готовы."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.ui.tracker_text": "Вернитесь к картографу с направлением к последней комнате.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.label": "Око крепости",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.lines": [
+      "Линия Незера остыла и превратилась в стрелку. Она указывает на комнату, которую обычно ищут, бросая ока и надеясь на удачу.",
+      "Найдите крепость, возьмите с собой око Эндера и принесите жемчуг, чтобы атлас запомнил последнюю комнату и не потерялся сам."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.response.accept.label": "Найти последнюю комнату",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.label": "О последней комнате",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.lines": [
+      "Для страницы последней комнаты всё ещё нужны направление к крепости, око Эндера и эндер-жемчуг."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.bring_pearls.tracker.complete_text": "Эндер-жемчуг готов.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.bring_pearls.tracker.text": "Принесите 4 эндер-жемчуга, чтобы закрепить направление.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.carry_eye.tracker.complete_text": "Направление по оку готово.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.carry_eye.tracker.text": "Возьмите с собой 1 око Эндера как доказательство нахождения последней комнаты.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.visit_stronghold.tracker.complete_text": "Направление к последней комнате записано.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.visit_stronghold.tracker.text": "Доберитесь до крепости возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.decline.lines": [
+      "Последняя комната умеет ждать так, что мне это совсем не нравится."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.leave.lines": [
+      "Не бросайте все ока сразу."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Крепость возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Доберитесь до неё, возьмите с собой око Эндера и принесите 4 эндер-жемчуга."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас страница последней комнаты для вас не открыта."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Направление к последней комнате уже нанесено."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Сегодня последняя комната не желает показываться на карте."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Отметка крепости находится возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Возьмите с собой око Эндера и принесите 4 эндер-жемчуга."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Атласу нужен меридиан Незера, прежде чем он сможет прочитать последнюю комнату."
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.ui.tracker_text": "Доберитесь до крепости возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.eye_of_the_last_room.title": {
+      "lines": [
+        "Око крепости"
+      ]
+    },
+    "quest.cartographers_atlas.eye_of_the_last_room.tracker.title": {
+      "lines": [
+        "Око крепости"
+      ]
+    }
+  }
+}

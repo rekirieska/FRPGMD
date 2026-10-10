@@ -1,0 +1,123 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.blank_map_promise.description": {
+      "lines": [
+        "Соберите первый пустой лист атласа из бумаги и чернил, задав направление компасом."
+      ]
+    },
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.label": "Об обещании пустой карты",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.lines": [
+      "Бумаги достаточно. Теперь листу нужны компас и чернила, чтобы пустая страница знала, где север."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.response.details.label": "Повторите список",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_compass.tracker.complete_text": "Направление по компасу готово.",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_compass.tracker.text": "Принесите 1 компас, чтобы атлас знал, где север.",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_ink.tracker.complete_text": "Чернила для переплёта готовы.",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_ink.tracker.text": "Принесите 3 чернильных мешка для первого листа атласа.",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_confirm.lines": [
+      "Пока отложить пустой лист?"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_confirm.response.cancel.label": "Оставить лист",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Я оставлю обложки лежать ровно, пока вы не будете готовы начать снова."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас у вас в руках нет листа атласа."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.leave.lines": [
+      "Пустое место умеет ждать."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.reminder_details.action.remind.lines.reminder": [
+      "Для листа всё ещё нужны 1 компас и 3 чернильных мешка."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас пустой лист для вас не открыт."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.ui.tracker_text": "Принесите 1 компас и 3 чернильных мешка для переплёта листа.",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.label": "Обещание пустой карты",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.lines": [
+      "Каждый атлас начинается с обещания: достаточно бумаги, чтобы вместить мир, и достаточно чернил, чтобы признать, какие места нам пока неизвестны.",
+      "Принесите мне бумагу, компас и чернильные мешки. Я соберу первый лист, а вы решите, превратится ли пустое место в дорогу."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.response.accept.label": "Начать атлас",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.label": "Об обещании пустой карты",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.lines": [
+      "Сначала пустому листу нужна бумага – без неё компас ничего не значит."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.response.details.label": "Повторите список",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.objective.bring_paper.tracker.complete_text": "Бумага для листа готова.",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.objective.bring_paper.tracker.text": "Принесите 24 единицы бумаги для первого листа атласа.",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_confirm.lines": [
+      "Пока отложить пустой лист?"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_confirm.response.cancel.label": "Оставить лист",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Я оставлю обложки лежать ровно, пока вы не будете готовы начать снова."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас у вас в руках нет листа атласа."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.decline.lines": [
+      "Тогда карта останется пустой. Так безопаснее, но гораздо менее полезно."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.leave.lines": [
+      "Пустое место умеет ждать."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.reminder_details.action.remind.lines.reminder": [
+      "Сначала принесите 24 единицы бумаги. Затем добавьте к листу 1 компас и 3 чернильных мешка, чтобы задать направление."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас пустой лист для вас не открыт."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.start_quest.action.start.lines.already_completed": [
+      "Первый лист уже собран."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.start_quest.action.start.lines.started": [
+      "Хорошо. Начните с 24 единиц бумаги: тонкий атлас не переживёт первого дождя."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.start_quest.action.start.lines.unavailable": [
+      "Столу картографа нужно немного времени, прежде чем он сможет принять новое обещание."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.ui.tracker_text": "Принесите 24 единицы бумаги для первого листа атласа.",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.label": "Об обещании пустой карты",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.lines": [
+      "Бумага, компас, чернила. Этого достаточно для начала."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.response.complete.label": "Собрать первый лист",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Готово. Первый лист собран. Атлас всё ещё почти пуст, но теперь он знает, с чего начинать."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для переплёта всё ещё не хватает материалов. Принесите недостающие бумагу, компас или чернила, прежде чем я сошью обложку."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите материалы сюда, и я смогу собрать их как следует."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для листа всё ещё нужны бумага, компас и чернила, прежде чем я смогу завершить его."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.leave.lines": [
+      "Не сгибайте бумагу, пока на ней ещё нет дороги."
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.ui.tracker_text": "Вернитесь к картографу с материалами для листа.",
+    "quest.cartographers_atlas.blank_map_promise.title": {
+      "lines": [
+        "Обещание пустой карты"
+      ]
+    },
+    "quest.cartographers_atlas.blank_map_promise.tracker.title": {
+      "lines": [
+        "Обещание пустой карты"
+      ]
+    }
+  }
+}

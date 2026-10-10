@@ -1,0 +1,143 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.end_survey.choose_a_star.description": "Выберите для исследования тропу хоруса или свет города Энда.",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.metadata.title": "Выбор звезды Энда",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.step.chorus_charge.data.text": "Тропа хоруса. Нанесите на карту живой фиолетовый маршрут, даже если его плоды не согласны с обычным расстоянием.",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.step.city_charge.data.text": "Свет города. Нанесите на карту бледные башни, пустоту между ними и каждый панцирь, притворяющийся камнем.",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.step.mark_the_star.data.text": "Одна точка света Энда отмечена в журнале исследований. Дальнейший маршрут зависит от вашего выбора.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.label": "Выбор звезды",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.lines": [
+      "Внешние острова предлагают два ориентира: рощи хоруса у земли или стержни Энда высоко в городе.",
+      "Этот выбор закроет другое исследование. Хорус безопаснее и даёт редкий шанс получить эндер-сундук, а город сложнее, зато только на этом пути повышен шанс получить элитры."
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.chorus.action.notification.text": "Вы выбрали тропу хоруса по внешнему Энду.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.chorus.label": "Следовать за хорусом",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.chorus.text": "Тропа хоруса. Будьте готовы к тому, что плод внезапно решит, где вам следует находиться.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.city.action.notification.text": "Вы выбрали огни города Энда.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.city.label": "Следовать за огнями города",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.city.text": "Свет города. Следите за башнями, пустотой между ними и каждым панцирем, притворяющимся блоком.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.label": "О выборе звезды",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.lines": [
+      "Внешние острова предлагают два ориентира: рощи хоруса у земли или стержни Энда высоко в городе.",
+      "Этот выбор закроет другое исследование. Хорус безопаснее и даёт редкий шанс получить эндер-сундук, а город сложнее, зато только на этом пути повышен шанс получить элитры."
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.chorus.action.notification.text": "Вы выбрали тропу хоруса по внешнему Энду.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.chorus.label": "Следовать за хорусом",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.chorus.text": "Тропа хоруса. Будьте готовы к тому, что плод внезапно решит, где вам следует находиться.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.city.action.notification.text": "Вы выбрали огни города Энда.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.city.label": "Следовать за огнями города",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.city.text": "Свет города. Следите за башнями, пустотой между ними и каждым панцирем, притворяющимся блоком.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.decline.label": "Ещё нет.",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.details.label": "Напомните выбор.",
+    "quest.end_survey.choose_a_star.stage.choose.objective.choose_route.tracker.complete_text": "Выбранный путь: {objective_choice_value}.",
+    "quest.end_survey.choose_a_star.stage.choose.objective.choose_route.tracker.text": "Выберите путь у выдавшего задание.",
+    "quest.end_survey.choose_a_star.stage.choose.scene.decline.lines": [
+      "Тогда оба ориентира Энда пока останутся за пределами нашей карты."
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "Внешние острова предлагают два ориентира: рощи хоруса у земли или стержни Энда высоко в городе.",
+      "Этот выбор закроет другое исследование. Хорус безопаснее и даёт редкий шанс получить эндер-сундук, а город сложнее, зато только на этом пути повышен шанс получить элитры."
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот выбор недоступен."
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.ui.tracker_text": "Выберите путь.",
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.label": "О выборе звезды",
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.lines": [
+      "Все плоды собраны на одном маршруте, хотя сами они будто не согласны, где именно он проходил.",
+      "Тропа хоруса отмечена. Заключительная часть экспедиции пройдёт вдоль живых фиолетовых ветвей."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Тропа хоруса отмечена. Заключительная часть экспедиции пройдёт вдоль живых фиолетовых ветвей.",
+      "Все плоды собраны на одном маршруте, хотя сами они будто не согласны, где именно он проходил."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Устраните 5 эндерменов с тропы и принесите 32 плода хоруса."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.label": "О выборе звезды",
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.lines": [
+      "Устраните 5 эндерменов с тропы и принесите 32 плода хоруса.",
+      "Тропа хоруса. Будьте готовы к тому, что плод внезапно решит, где вам следует находиться."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.bring_chorus.tracker.complete_text": "Образцы плодов хоруса готовы.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.bring_chorus.tracker.text": "Принесите 32 плода хоруса.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.clear_endermen.tracker.complete_text": "Тропа хоруса очищена.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.clear_endermen.tracker.text": "Одолейте 5 эндерменов на тропе хоруса.",
+    "quest.end_survey.choose_a_star.stage.chorus_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Устраните 5 эндерменов с тропы и принесите 32 плода хоруса.",
+      "Тропа хоруса. Будьте готовы к тому, что плод внезапно решит, где вам следует находиться."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.ui.tracker_text": "Устраните 5 эндерменов с тропы и принесите 32 плода хоруса.",
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.label": "О выборе звезды",
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.lines": [
+      "Направление к городу подтверждено, даже если его лестницы будто презирают землю.",
+      "Свет города отмечен. Заключительная часть экспедиции пройдёт по бледным башням."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Свет города отмечен. Заключительная часть экспедиции пройдёт по бледным башням.",
+      "Направление к городу подтверждено, даже если его лестницы будто презирают землю."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Доберитесь до городского ориентира, устраните 3 шалкеров и принесите 1 панцирь."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.label": "О выборе звезды",
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.lines": [
+      "Доберитесь до городского ориентира, устраните 3 шалкеров и принесите 1 панцирь.",
+      "Свет города. Следите за башнями, пустотой между ними и каждым панцирем, притворяющимся блоком."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.bring_shell.tracker.complete_text": "Панцирь шалкера готов.",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.bring_shell.tracker.text": "Принесите 1 панцирь шалкера.",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.clear_shulkers.tracker.complete_text": "3 шалкера устранены.",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.clear_shulkers.tracker.text": "Одолейте 3 шалкеров.",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.visit_city.tracker.complete_text": "Свет города Энда отмечен.",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.visit_city.tracker.text": "Доберитесь до отмеченного города Энда.",
+    "quest.end_survey.choose_a_star.stage.city_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Доберитесь до городского ориентира, устраните 3 шалкеров и принесите 1 панцирь.",
+      "Свет города. Следите за башнями, пустотой между ними и каждым панцирем, притворяющимся блоком."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.ui.tracker_text": "Доберитесь до городского ориентира, устраните 3 шалкеров и принесите 1 панцирь.",
+    "quest.end_survey.choose_a_star.title": "Выбор звезды"
+  }
+}

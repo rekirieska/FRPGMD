@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.deep_delvers.timber_brace.description": "Укрепите деревянную ветку шахты и очистите нижние крепи от пауков.",
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.label": "О деревянной крепи",
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.lines": [
+      "Свод спокоен, паутина убрана, и деревянную ветку можно продолжать глубже.",
+      "Крепкие опоры и никакого щёлканья в темноте. Вот это безопасная шахта.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Свод спокоен, паутина убрана, и деревянную ветку можно продолжать глубже.",
+      "Крепкие опоры и никакого щёлканья в темноте. Вот это безопасная шахта."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Деревянная крепь сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.turn_in_wait.lines": [
+      "24 поперечные крепи, 4 пещерных паука и 8 нитей.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.label": "Деревянная крепь",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.lines": [
+      "Крепи держатся, но паутина тянет нижние опоры, а за ней щёлкает что-то маленькое.",
+      "Установите поперечные крепи, устраните пещерных пауков и принесите нити в подтверждение того, что гнёзда очищены.",
+      "Разместите 24 секции забора в качестве крепей, одолейте 4 пещерных пауков и принесите 8 нитей."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.label": "О деревянной крепи",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.lines": [
+      "24 поперечные крепи, 4 пещерных паука и 8 нитей.",
+      "Разместите 24 секции забора в качестве крепей, одолейте 4 пещерных пауков и принесите 8 нитей.",
+      "Установите поперечные крепи, устраните пещерных пауков и принесите нити в подтверждение того, что гнёзда очищены."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.deep_delvers.timber_brace.stage.work.objective.bring_string.tracker.complete_text": "Нити в качестве доказательства готовы.",
+    "quest.deep_delvers.timber_brace.stage.work.objective.bring_string.tracker.text": "Принесите 8 нитей из нижней части шахты.",
+    "quest.deep_delvers.timber_brace.stage.work.objective.clear_spiders.tracker.complete_text": "Пещерные пауки устранены.",
+    "quest.deep_delvers.timber_brace.stage.work.objective.clear_spiders.tracker.text": "Одолейте 4 пещерных пауков возле крепей.",
+    "quest.deep_delvers.timber_brace.stage.work.objective.set_cross_braces.tracker.complete_text": "Поперечные крепи установлены.",
+    "quest.deep_delvers.timber_brace.stage.work.objective.set_cross_braces.tracker.text": "Разместите 24 секции забора в качестве поперечных крепей.",
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_confirm.lines": [
+      "Отложить деревянную крепь?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Деревянная крепь сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.decline.lines": [
+      "Тогда не спускайтесь ниже последнего фонаря. Всё дальше уже заняли пауки."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.leave.lines": [
+      "24 поперечные крепи, 4 пещерных паука и 8 нитей.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "24 поперечные крепи, 4 пещерных паука и 8 нитей.",
+      "Разместите 24 секции забора в качестве крепей, одолейте 4 пещерных пауков и принесите 8 нитей.",
+      "Установите поперечные крепи, устраните пещерных пауков и принесите нити в подтверждение того, что гнёзда очищены."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Деревянная крепь сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С деревянной крепью пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.started": [
+      "Сначала устанавливайте крепь, и только потом срезайте паутину рядом. Сначала свод, потом героизм.",
+      "Разместите 24 секции забора в качестве крепей, одолейте 4 пещерных пауков и принесите 8 нитей."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Деревянная крепь сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.ui.tracker_text": "Разместите 24 секции забора в качестве крепей, одолейте 4 пещерных пауков и принесите 8 нитей.",
+    "quest.deep_delvers.timber_brace.title": "Деревянная крепь"
+  }
+}

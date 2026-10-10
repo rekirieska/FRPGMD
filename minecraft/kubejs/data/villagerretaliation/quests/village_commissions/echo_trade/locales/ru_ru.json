@@ -1,0 +1,115 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.echo_trade.description": "Вернитесь в древний город и добудьте осколки эха для архива.",
+    "quest.village_commissions.echo_trade.stage.return.dialogue.turn_in.label": "Об отголосках",
+    "quest.village_commissions.echo_trade.stage.return.dialogue.turn_in.lines": [
+      "Даже завёрнутые в шерсть, эти осколки звучат так, будто комната вспоминает саму себя.",
+      "Архив получил свои отголоски. Вы заслужили более громкую награду.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.village_commissions.echo_trade.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.village_commissions.echo_trade.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Даже завёрнутые в шерсть, эти осколки звучат так, будто комната вспоминает саму себя.",
+      "Архив получил свои отголоски. Вы заслужили более громкую награду.",
+      "С этим всё. Деревне это пригодится."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Чего-то всё ещё не хватает. Проверь журнал, прежде чем я закрою запись.",
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Отголоски сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.scene.turn_in_wait.lines": [
+      "2 осколка эха из отмеченного города. Если темнота начнёт прислушиваться, не двигайтесь.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.village_commissions.echo_trade.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.offer.label": "Отголоски",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.offer.lines": [
+      "В архиве есть один осколок эха и слишком много вопросов к нему.",
+      "Вернитесь в древний город, ступайте тихо и принесите ещё две частицы его памяти.",
+      "Доберитесь до отмеченного древнего города и принесите 2 осколка эха. Награда будет стоить этих усилий."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.reminder.label": "Об отголосках",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.reminder.lines": [
+      "2 осколка эха из отмеченного города. Если темнота начнёт прислушиваться, не двигайтесь.",
+      "Доберитесь до отмеченного древнего города и принесите 2 осколка эха.",
+      "Вернитесь в древний город, ступайте тихо и принесите ещё две частицы его памяти."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.village_commissions.echo_trade.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.village_commissions.echo_trade.stage.work.objective.bring_echoes.tracker.complete_text": "Осколки эха упакованы.",
+    "quest.village_commissions.echo_trade.stage.work.objective.bring_echoes.tracker.text": "Принесите 2 осколка эха.",
+    "quest.village_commissions.echo_trade.stage.work.objective.visit_city.tracker.complete_text": "Древний город исследован повторно.",
+    "quest.village_commissions.echo_trade.stage.work.objective.visit_city.tracker.text": "Доберитесь до отмеченного древнего города.",
+    "quest.village_commissions.echo_trade.stage.work.scene.abandon_confirm.lines": [
+      "Отложить отголоски?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.village_commissions.echo_trade.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.village_commissions.echo_trade.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Отголоски сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.decline.lines": [
+      "Хорошо. Страх полезен, если благодаря ему тихие места остаются тихими.",
+      "Эту работу может взять кто-то другой, или ты сможешь спросить снова позже."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.leave.lines": [
+      "2 осколка эха из отмеченного города. Если темнота начнёт прислушиваться, не двигайтесь.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "2 осколка эха из отмеченного города. Если темнота начнёт прислушиваться, не двигайтесь.",
+      "Доберитесь до отмеченного древнего города и принесите 2 осколка эха.",
+      "Вернитесь в древний город, ступайте тихо и принесите ещё две частицы его памяти."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Отголоски сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С отголосками пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.start_quest.action.start.lines.started": [
+      "Шерсть под ногами. Никаких колоколов, стрел и хвастливых речей под землёй.",
+      "Доберитесь до отмеченного древнего города и принесите 2 осколка эха.",
+      "Хорошо. Я оставлю свободное место для того, что ты принесёшь."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Отголоски сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.echo_trade.stage.work.ui.tracker_text": "Доберитесь до отмеченного древнего города и принесите 2 осколка эха.",
+    "quest.village_commissions.echo_trade.title": "Отголоски"
+  }
+}

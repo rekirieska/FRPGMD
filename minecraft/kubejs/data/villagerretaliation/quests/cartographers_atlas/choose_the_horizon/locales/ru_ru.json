@@ -1,0 +1,139 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.choose_the_horizon.description": {
+      "lines": [
+        "Выберите и подготовьте первый большой маршрут атласа по обычному миру."
+      ]
+    },
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.metadata.title": "Выбор горизонта атласа",
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.step.coast_charge.data.text": "Затонувшее побережье получает чернила обычного мира. Подготовьте набор для разведки; сам монумент – следующий шаг.",
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.step.dark_roof_charge.data.text": "Путь под тёмным пологом получает чернила обычного мира. Подготовьте набор для разведки; сам особняк – следующий шаг.",
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.step.set_the_atlas_down.data.text": "Атлас раскрыт между вами. На странице обычного мира ждёт первый большой маршрут, который вы выбрали.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.label": "О горизонте",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.lines": [
+      "Набор для затонувшего побережья готов. Атлас может указать на свой первый большой маршрут по обычному миру."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.response.complete.label": "Выбрать горизонт затонувшего побережья",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.complete_coast.action.turn_in.lines.completed": [
+      "Готово. Атлас выбрал свой первый горизонт обычного мира. Теперь можно исследовать монумент."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.complete_coast.action.turn_in.lines.missing_objectives": [
+      "Для набора побережья всё ещё нужны подзорная труба, лодка и припасы."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.complete_coast.action.turn_in.lines.unavailable": [
+      "Я не смогу закрепить горизонт побережья, пока не будет готов маршрутный набор."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.leave.lines": [
+      "Побережье будет шуметь, пока мы не закончим."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.ui.tracker_text": "Вернитесь к картографу, чтобы закрепить горизонт затонувшего побережья.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.label": "О горизонте",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.lines": [
+      "Прежде чем откроется страница затонувшего побережья, подготовьте подзорную трубу, лодку и достаточно припасов для исследования монумента."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.response.details.label": "Повторить список снаряжения",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.bring_provisions.tracker.complete_text": "Припасы для побережья собраны.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.bring_provisions.tracker.text": "Принесите 16 единиц жареной трески для экспедиции к побережью.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_boat.tracker.complete_text": "Лодка для побережья готова.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_boat.tracker.text": "Возьмите 1 дубовую лодку для маршрута затонувшего побережья.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_spyglass.tracker.complete_text": "Подзорная труба для разведки готова.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_spyglass.tracker.text": "Возьмите 1 подзорную трубу для разведки затонувшего побережья.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.scene.leave.lines": [
+      "Прилив может подождать, но не вечно."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.scene.reminder_details.action.remind.lines.reminder": [
+      "Возьмите 1 подзорную трубу и 1 дубовую лодку, затем принесите 16 единиц жареной трески для экспедиции к затонувшему побережью."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас страница горизонта для вас не открыта."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.ui.tracker_text": "Подготовьте подзорную трубу, лодку и припасы для затонувшего побережья.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.label": "О горизонте",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.lines": [
+      "Набор для пути под тёмным пологом готов. Атлас может указать на свой первый большой маршрут по обычному миру."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.response.complete.label": "Выбрать горизонт тёмного полога",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.complete_dark_roof.action.turn_in.lines.completed": [
+      "Готово. Атлас выбрал свой первый горизонт обычного мира. Теперь можно исследовать особняк."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.complete_dark_roof.action.turn_in.lines.missing_objectives": [
+      "Для набора пути под тёмным пологом всё ещё нужны щит, арбалет и факелы."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.complete_dark_roof.action.turn_in.lines.unavailable": [
+      "Я не смогу закрепить горизонт тёмного полога, пока не будет готов маршрутный набор."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.leave.lines": [
+      "Под тёмным пологом останется темно, пока мы не закончим."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.ui.tracker_text": "Вернитесь к картографу, чтобы закрепить горизонт тёмного полога.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.label": "О горизонте",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.lines": [
+      "Прежде чем откроется страница тёмного полога, подготовьте щит, арбалет и достаточно факелов для исследования особняка."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.response.details.label": "Повторить список снаряжения",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.bring_torches.tracker.complete_text": "Факелы для тёмного полога собраны.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.bring_torches.tracker.text": "Принесите 32 факела для экспедиции под тёмный полог.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_crossbow.tracker.complete_text": "Арбалет для маршрута готов.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_crossbow.tracker.text": "Возьмите 1 арбалет для дороги к особняку.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_shield.tracker.complete_text": "Щит для разведки готов.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_shield.tracker.text": "Возьмите 1 щит для разведки тёмного полога.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.scene.leave.lines": [
+      "Без нашей помощи под пологом так и останется темно."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.scene.reminder_details.action.remind.lines.reminder": [
+      "Возьмите 1 щит и 1 арбалет, затем принесите 32 факела для экспедиции под тёмный полог."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас страница горизонта для вас не открыта."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.ui.tracker_text": "Подготовьте щит, арбалет и факелы для пути под тёмным пологом.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.label": "Выбор горизонта",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.lines": [
+      "В атласе уже есть бумага, направления, полевые доказательства, память и понимание. Теперь ему нужен первый большой горизонт.",
+      "Этот выбор окончателен и закроет второй маршрут обычного мира. Набор побережья готовит к исследованию монумента; набор тёмного полога – к исследованию особняка."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.coast.action.notification.text": "Вы выбрали затонувшее побережье. Подготовьте подзорную трубу, лодку и припасы перед исследованием монумента.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.coast.label": "Выбрать затонувшее побережье",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.coast.text": "Тогда выбираем побережье. Смотрите в сторону затонувшего камня и не доверяйте тихой воде.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.dark_roof.action.notification.text": "Вы выбрали путь под тёмным пологом. Подготовьте щит, арбалет и факелы перед исследованием особняка.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.dark_roof.label": "Выбрать путь под тёмным пологом",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.dark_roof.text": "Тогда выбираем путь под тёмным пологом. Если дом смотрит на вас, смотрите в ответ ещё пристальнее.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.label": "О горизонте",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.lines": [
+      "Эта окончательная развилка обычного мира закрывает второй маршрут: побережье ведёт к исследованию монумента, тёмный полог – к исследованию особняка."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.response.details.label": "Повторить варианты",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.response.leave.label": "Я выберу",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.objective.choose_route.tracker.complete_text": "Вы выбрали горизонт {objective_choice_value}.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.objective.choose_route.tracker.text": "Выберите горизонт обычного мира для атласа вместе с картографом.",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.decline.lines": [
+      "Тогда горизонт останется невыбранным. Это тоже ответ, но пользы от него мало."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.leave.lines": [
+      "Выбирайте с открытыми глазами."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.reminder_details.action.remind.lines.reminder": [
+      "Этот выбор закроет второй горизонт обычного мира. Для побережья нужны подзорная труба, лодка и припасы; для тёмного полога – щит, арбалет и факелы."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас страница горизонта для вас не открыта."
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.ui.tracker_text": "Выберите горизонт обычного мира для атласа в диалоге с картографом.",
+    "quest.cartographers_atlas.choose_the_horizon.title": {
+      "lines": [
+        "Выбор горизонта"
+      ]
+    },
+    "quest.cartographers_atlas.choose_the_horizon.tracker.title": {
+      "lines": [
+        "Выбор горизонта"
+      ]
+    }
+  }
+}

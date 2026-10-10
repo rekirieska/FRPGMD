@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.workshop_oaths.honed_handles.description": "Помоги деревенской мастерской восстановить рукояти, хваты и обвязки, от которых зависят инструменты.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.label": "О Рукоятях",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.lines": [
+      "С хватами разобрались. Теперь принеси кремень и медь, мелкие детали для мелких поломок, пока они не стали большими."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.response.details.label": "Повтори список деталей.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_copper.tracker.complete_text": "Медные детали готовы.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_copper.tracker.text": "Принеси 4 медных слитка для штифтов и креплений.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_flint.tracker.complete_text": "Кремень готов.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_flint.tracker.text": "Принеси 6 единиц кремня для запасных кромок и скребков.",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.scene.leave.lines": [
+      "Самая маленькая деталь всегда оказывается той, которую все винят после поломки."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 6 единиц кремня и 4 медных слитка для кромок и креплений мастерской."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.scene.reminder_details.action.remind.lines.unavailable": [
+      "Кромки и крепления могут подождать, пока не будут готовы хваты."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.ui.tracker_text": "Принеси 6 единиц кремня и 4 медных слитка.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.label": "Рукояти",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.lines": [
+      "Все просят острое железо. Рукоять замечают гораздо реже, пока она не сломается.",
+      "Сначала помоги пополнить самые обычные детали: палки для рукоятей, нить для обвязок и кремень для кромок, которые не стоят железа."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.response.accept.label": "Я помогу мастерской.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.label": "О Рукоятях",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.lines": [
+      "Мастерской всё ещё нужны детали, о которых никто не сочиняет песен."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.response.details.label": "Повтори список для рукоятей.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_sticks.tracker.complete_text": "Запас рукоятей готов.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_sticks.tracker.text": "Принеси 24 палки для рукоятей и хватов инструментов.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_string.tracker.complete_text": "Обвязки готовы.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_string.tracker.text": "Принеси 8 нитей для обвязок и намоток.",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.decline.lines": [
+      "Тогда я продолжу шлифовать треснувшие рукояти и делать вид, что куча становится меньше."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.leave.lines": [
+      "Сухие палки. Чистая нить. Звучит просто именно потому, что это важно."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 24 палки и 8 нитей для рукоятей и обвязок мастерской."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.reminder_details.action.remind.lines.unavailable": [
+      "Мастерская сейчас не готова к этой работе."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.start_quest.action.start.lines.already_completed": [
+      "Стойка с рукоятями уже пополнена."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.start_quest.action.start.lines.started": [
+      "Сначала принеси 24 палки и 8 нитей. Хороший инструмент начинается там, где его держит рука."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.start_quest.action.start.lines.unavailable": [
+      "Мастерская сейчас не готова просить о такой помощи."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.ui.tracker_text": "Принеси 24 палки и 8 нитей.",
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.label": "О Рукоятях",
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.lines": [
+      "Целая полка обычных вещей, которые предотвратят немало совсем не обычных бед."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.response.complete.label": "Пополнить мастерскую.",
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Следующий инструмент, который не развалится, будет обязан тебе больше, чем знает тот, кто им пользуется."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для заказа мастерской всё ещё нужны рукояти, обвязки, кремень или медные крепления."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси сюда запас мастерской, прежде чем я внесу его в журнал."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу закрыть заказ на рукояти."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.leave.lines": [
+      "На стойке есть пустые места. У пустых мест бывают последствия."
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.ui.tracker_text": "Вернись с припасами для рукоятей мастерской.",
+    "quest.workshop_oaths.honed_handles.title": "Рукояти"
+  }
+}

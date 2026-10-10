@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.nether_candle.description": "Продолжите исследование Последнего уголька на материалах Незера и узнайте, какой огонь заслуживает уважения.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.label": "О незерской свече",
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.lines": [
+      "Стержни подтверждают огонь. Теперь принесите огненный порошок и светокаменную пыль, чтобы сохранить урок и не сжечь страницу."
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.response.details.label": "Напомните работу с бутылочкой.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.response.leave.label": "Я принесу это.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_blaze_powder.tracker.complete_text": "Огненный порошок готов.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_blaze_powder.tracker.text": "Принесите 4 огненных порошка для управляемого пламени.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_glowstone.tracker.complete_text": "Светокаменная пыль готова.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_glowstone.tracker.text": "Принесите 8 светокаменной пыли, чтобы урок сохранил свой свет.",
+    "quest.last_ember.nether_candle.stage.bottle_heat.scene.leave.lines": [
+      "Порошок в бутылочке – всё ещё огонь, просто терпеливый."
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 4 огненных порошка и 8 светокаменной пыли для незерской свечи."
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.scene.reminder_details.action.remind.lines.unavailable": [
+      "Пламя в бутылочке может подождать, пока работа со всполохами не будет закончена."
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.ui.tracker_text": "Принесите 4 огненных порошка и 8 светокаменной пыли.",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.label": "Незерская свеча",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.lines": [
+      "Жемчуг научил нас отводить взгляд. Огонь преподаёт урок менее вежливо.",
+      "Принесите огненные стержни и доказательство того, что встретились с теми, кто их оставил. После этого осторожно сохраним урок в бутылочке."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.response.accept.label": "Я принесу огонь Незера.",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.label": "О незерской свече",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.lines": [
+      "Одолейте всполохов и принесите стержни. Для урока нужен огонь, добытый честно, а не украденный из сундука."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.response.details.label": "Напомните работу с огнём.",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.response.leave.label": "Я разберусь.",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.bring_blaze_rods.tracker.complete_text": "Огненные стержни готовы.",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.bring_blaze_rods.tracker.text": "Принесите 2 огненных стержня как огонь, который можно посчитать.",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.defeat_blazes.tracker.complete_text": "Угроза всполохов измерена.",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.defeat_blazes.tracker.text": "Одолейте 3 всполохов для исследования незерской свечи.",
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.decline.lines": [
+      "Хорошо. Работу в Незере никогда не стоит начинать только потому, что кто-то торопится."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.leave.lines": [
+      "Постарайтесь вернуться с бровями."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.reminder_details.action.remind.lines.reminder": [
+      "Одолейте 3 всполохов и принесите 2 огненных стержня для незерской свечи."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.reminder_details.action.remind.lines.unavailable": [
+      "Урок незерской свечи сейчас недоступен."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.start_quest.action.start.lines.already_completed": [
+      "Урок незерской свечи уже записан."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.start_quest.action.start.lines.started": [
+      "Одолейте 3 всполохов и принесите 2 огненных стержня. Уважайте огонь, но не льстите ему."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.start_quest.action.start.lines.unavailable": [
+      "Урок незерской свечи сейчас не готов."
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.ui.tracker_text": "Одолейте 3 всполохов и принесите 2 огненных стержня.",
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.label": "О незерской свече",
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.lines": [
+      "Это пламя, которому можно дать имя. Опасное, но понятное."
+    ],
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.response.complete.label": "Запишите урок незерской свечи.",
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Вторая запись говорит: один огонь указывает путь, другой пожирает, а мудрость начинается с умения различать их."
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "В уроке незерской свечи всё ещё чего-то не хватает."
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда материалы Незера, прежде чем мы запечатаем урок."
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу завершить незерскую свечу."
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.leave.lines": [
+      "Держите порошок запечатанным. Уроки лучше, когда не пытаются сбежать."
+    ],
+    "quest.last_ember.nether_candle.stage.return.ui.tracker_text": "Вернитесь с материалами для незерской свечи.",
+    "quest.last_ember.nether_candle.title": "Незерская свеча"
+  }
+}

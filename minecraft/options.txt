@@ -128,7 +128,7 @@ key_key.corpse.death_history:key.keyboard.u
 key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.hackersandslashers.parry:key.mouse.right
 key_key.hackersandslashers.roll:key.keyboard.left.alt
-key_key.hackersandslashers.dash:key.keyboard.x
+key_key.hackersandslashers.dash:key.keyboard.caps.lock
 key_key.hackersandslashers.ultimate:key.keyboard.r
 key_key.punchy.open_main_menu:key.keyboard.f8
 key_key.punchy.inspect:key.keyboard.i
@@ -183,6 +183,11 @@ key_key.kubejsstudio.properties:key.keyboard.unknown
 key_key.kubejsstudio.create:key.keyboard.unknown
 key_key.kubejsstudio.files:key.keyboard.unknown
 key_key.interactic.pickup_item:key.keyboard.unknown
+key_key.villagerretaliation.open_quest_journal:key.keyboard.j
+key_key.villagerretaliation.toggle_quest_tracker:key.keyboard.k
+key_key.villagerretaliation.toggle_blueprint_placement_lock:key.keyboard.unknown
+key_key.villagerretaliation.toggle_villager_name_tags:key.keyboard.unknown
+key_key.villagerretaliation.quick_command:key.keyboard.left.alt
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
@@ -215,8 +220,8 @@ key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
 key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
+key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
 soundCategory_master:0.4906132125934796
 soundCategory_music:1.0
 soundCategory_record:1.0

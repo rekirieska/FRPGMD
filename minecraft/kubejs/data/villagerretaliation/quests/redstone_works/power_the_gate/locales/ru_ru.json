@@ -1,0 +1,137 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.redstone_works.power_the_gate.description": "Выберите дневной свет или скалк для управления деревенскими воротами.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.label": "Питание ворот",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.lines": [
+      "Ворота могут следовать за дневным светом или слушать шаги через скалк. Оба варианта работают, но ломаются по-разному.",
+      "Этот выбор закроет другой проект. Дневной свет останется местным решением с умеренной наградой, а скалк отправит следующее задание в древний город, где награда и репутация выше."
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.sunlight.action.notification.text": "Для деревенских ворот выбрана схема с датчиками дневного света.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.sunlight.label": "Следовать за солнцем",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.sunlight.text": "Значит, солнечный свет. Ворота будут работать по понятному расписанию, и их логику легко проверить.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.whisper.action.notification.text": "Для деревенских ворот выбрана скалковая схема.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.whisper.label": "Слушать через скалк",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.whisper.text": "Значит, скалк. Ворота будут слушать, а шерсть научит их игнорировать лишние звуки.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.label": "О питании ворот",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.lines": [
+      "Ворота могут следовать за дневным светом или слушать шаги через скалк. Оба варианта работают, но ломаются по-разному.",
+      "Этот выбор закроет другой проект. Дневной свет останется местным решением с умеренной наградой, а скалк отправит следующее задание в древний город, где награда и репутация выше."
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.decline.label": "Ещё нет.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.details.label": "Напомните выбор.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.sunlight.action.notification.text": "Для деревенских ворот выбрана схема с датчиками дневного света.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.sunlight.label": "Следовать за солнцем",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.sunlight.text": "Значит, солнечный свет. Ворота будут работать по понятному расписанию, и их логику легко проверить.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.whisper.action.notification.text": "Для деревенских ворот выбрана скалковая схема.",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.whisper.label": "Слушать через скалк",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.whisper.text": "Значит, скалк. Ворота будут слушать, а шерсть научит их игнорировать лишние звуки.",
+    "quest.redstone_works.power_the_gate.stage.choose.objective.choose_route.tracker.complete_text": "Выбранный путь: {objective_choice_value}.",
+    "quest.redstone_works.power_the_gate.stage.choose.objective.choose_route.tracker.text": "Выберите путь у выдавшего задание.",
+    "quest.redstone_works.power_the_gate.stage.choose.scene.decline.lines": [
+      "Тогда у ворот останется один надёжный элемент: крестьянин, стоящий рядом."
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "Ворота могут следовать за дневным светом или слушать шаги через скалк. Оба варианта работают, но ломаются по-разному.",
+      "Этот выбор закроет другой проект. Дневной свет останется местным решением с умеренной наградой, а скалк отправит следующее задание в древний город, где награда и репутация выше."
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот выбор недоступен."
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.ui.tracker_text": "Выберите путь.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.label": "О питании ворот",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.lines": [
+      "Фонари точно следуют за небом. Всем видно, когда ворота считают, что наступила ночь.",
+      "Схема дневного света работает. Следующий урок ворота получат от солнца."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Схема дневного света работает. Следующий урок ворота получат от солнца.",
+      "Фонари точно следуют за небом. Всем видно, когда ворота считают, что наступила ночь."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "2 датчика дневного света и 4 редстоуновых фонаря для схемы ворот."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.label": "О питании ворот",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.lines": [
+      "2 датчика дневного света и 4 редстоуновых фонаря для схемы ворот.",
+      "Значит, солнечный свет. Ворота будут работать по понятному расписанию, и их логику легко проверить."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_detectors.tracker.complete_text": "Датчики дневного света готовы.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_detectors.tracker.text": "Принесите 2 датчика дневного света.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_lamps.tracker.complete_text": "Редстоуновые фонари готовы.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_lamps.tracker.text": "Принесите 4 редстоуновых фонаря.",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.scene.reminder_details.action.remind.lines.reminder": [
+      "2 датчика дневного света и 4 редстоуновых фонаря для схемы ворот.",
+      "Значит, солнечный свет. Ворота будут работать по понятному расписанию, и их логику легко проверить."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.ui.tracker_text": "2 датчика дневного света и 4 редстоуновых фонаря для схемы ворот.",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.label": "О питании ворот",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.lines": [
+      "Сенсор слышит тропу и игнорирует мастерскую. Умно и немного тревожно.",
+      "Слушающая схема работает. Следующий урок ворота получат от шёпота."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Слушающая схема работает. Следующий урок ворота получат от шёпота.",
+      "Сенсор слышит тропу и игнорирует мастерскую. Умно и немного тревожно."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "2 скалк-сенсора и 16 белой шерсти, чтобы заглушить ненужные шаги."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.label": "О питании ворот",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.lines": [
+      "2 скалк-сенсора и 16 белой шерсти, чтобы заглушить ненужные шаги.",
+      "Значит, скалк. Ворота будут слушать, а шерсть научит их игнорировать лишние звуки."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_sensors.tracker.complete_text": "Скалк-сенсоры готовы.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_sensors.tracker.text": "Принесите 2 скалк-сенсора.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_wool.tracker.complete_text": "Шерстяная изоляция готова.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_wool.tracker.text": "Принесите 16 белой шерсти для защиты от вибраций.",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.scene.reminder_details.action.remind.lines.reminder": [
+      "2 скалк-сенсора и 16 белой шерсти, чтобы заглушить ненужные шаги.",
+      "Значит, скалк. Ворота будут слушать, а шерсть научит их игнорировать лишние звуки."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.ui.tracker_text": "2 скалк-сенсора и 16 белой шерсти, чтобы заглушить ненужные шаги.",
+    "quest.redstone_works.power_the_gate.title": "Питание ворот"
+  }
+}

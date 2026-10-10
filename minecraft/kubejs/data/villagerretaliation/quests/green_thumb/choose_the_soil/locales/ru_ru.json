@@ -1,0 +1,137 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.green_thumb.choose_the_soil.description": "Выберите, что станет основой нового поля: каналы или компост.",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.label": "О выборе почвы",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.lines": [
+      "Края каналов держатся. Вода доходит до каждого ряда и не размывает дорожку.",
+      "Первый канал открыт. Теперь развитие поля пойдёт по пути орошения."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Первый канал открыт. Теперь развитие поля пойдёт по пути орошения.",
+      "Края каналов держатся. Вода доходит до каждого ряда и не размывает дорожку."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Разместите 12 каменных кирпичей для канала, затем принесите на поле ведро воды."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.label": "О выборе почвы",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.lines": [
+      "Разместите 12 каменных кирпичей для канала, затем принесите на поле ведро воды.",
+      "Значит, каналы. Сделайте воде ровные каменные края и не оставляйте места для разлива."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.carry_water.tracker.complete_text": "Ведро воды готово.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.carry_water.tracker.text": "Принесите ведро воды, чтобы наполнить канал.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.lay_canal.tracker.complete_text": "Стенки канала выложены.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.lay_canal.tracker.text": "Разместите 12 каменных кирпичей для стенок канала.",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Разместите 12 каменных кирпичей для канала, затем принесите на поле ведро воды.",
+      "Значит, каналы. Сделайте воде ровные каменные края и не оставляйте места для разлива."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.ui.tracker_text": "Разместите 12 каменных кирпичей для канала, затем принесите на поле ведро воды.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.label": "Выбор почвы",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.lines": [
+      "Для поля нужно выбрать один постоянный план: путь каналов вознаграждает средствами для орошения, а путь компоста – восстанавливающей едой.",
+      "Каналы требуют много материалов, но работают стабильно. Компост возобновляемый, однако требует больше постоянного труда. Выбор одного пути закроет другой."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.canal.action.notification.text": "Для нового поля выбраны каналы.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.canal.label": "Построить каналы",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.canal.text": "Значит, каналы. Сделайте воде ровные каменные края и не оставляйте места для разлива.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.compost.action.notification.text": "Для нового поля выбран компост.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.compost.label": "Удобрить почву",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.compost.text": "Значит, компост. Сначала сделаем почву плодородной, а уже потом будем ждать от неё урожая.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.label": "О выборе почвы",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.lines": [
+      "Для поля нужно выбрать один постоянный план: путь каналов вознаграждает средствами для орошения, а путь компоста – восстанавливающей едой.",
+      "Каналы требуют много материалов, но работают стабильно. Компост возобновляемый, однако требует больше постоянного труда. Выбор одного пути закроет другой."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.canal.action.notification.text": "Для нового поля выбраны каналы.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.canal.label": "Построить каналы",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.canal.text": "Значит, каналы. Сделайте воде ровные каменные края и не оставляйте места для разлива.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.compost.action.notification.text": "Для нового поля выбран компост.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.compost.label": "Удобрить почву",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.compost.text": "Значит, компост. Сначала сделаем почву плодородной, а уже потом будем ждать от неё урожая.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.decline.label": "Ещё нет.",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.details.label": "Напомните выбор.",
+    "quest.green_thumb.choose_the_soil.stage.choose.objective.choose_route.tracker.complete_text": "Выбранный путь: {objective_choice_value}.",
+    "quest.green_thumb.choose_the_soil.stage.choose.objective.choose_route.tracker.text": "Выберите путь у выдавшего задание.",
+    "quest.green_thumb.choose_the_soil.stage.choose.scene.decline.lines": [
+      "Тогда с почвой пока ничего не решено, а на такой земле лучше всего растут сорняки."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "Для поля нужно выбрать один постоянный план: путь каналов вознаграждает средствами для орошения, а путь компоста – восстанавливающей едой.",
+      "Каналы требуют много материалов, но работают стабильно. Компост возобновляемый, однако требует больше постоянного труда. Выбор одного пути закроет другой."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот выбор недоступен."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.ui.tracker_text": "Выберите путь.",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.label": "О выборе почвы",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.lines": [
+      "Почва тёмная, рыхлая и готовая. Пахнет ужасно, а это хороший знак.",
+      "Первая грядка удобрена. Теперь развитие поля пойдёт по пути компоста."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Первая грядка удобрена. Теперь развитие поля пойдёт по пути компоста.",
+      "Почва тёмная, рыхлая и готовая. Пахнет ужасно, а это хороший знак."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Поработайте с компостницей 5 раз и принесите 16 костной муки для первых рядов."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.label": "О выборе почвы",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.lines": [
+      "Поработайте с компостницей 5 раз и принесите 16 костной муки для первых рядов.",
+      "Значит, компост. Сначала сделаем почву плодородной, а уже потом будем ждать от неё урожая."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.bring_bone_meal.tracker.complete_text": "Костная мука готова.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.bring_bone_meal.tracker.text": "Принесите 16 костной муки для первых рядов.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.work_composter.tracker.complete_text": "Компост подготовлен.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.work_composter.tracker.text": "Поработайте с компостницей 5 раз.",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Поработайте с компостницей 5 раз и принесите 16 костной муки для первых рядов.",
+      "Значит, компост. Сначала сделаем почву плодородной, а уже потом будем ждать от неё урожая."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.ui.tracker_text": "Поработайте с компостницей 5 раз и принесите 16 костной муки для первых рядов.",
+    "quest.green_thumb.choose_the_soil.title": "Выбор почвы"
+  }
+}

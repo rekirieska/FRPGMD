@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.interaction",
+      "scope.global",
+      "section.messages",
+      "feature.study"
+    ],
+    "topic": "global.study"
+  },
+  "messages": [
+    {
+      "key": "interaction.study.busy",
+      "lines": [
+        "Сейчас я занят учёбой. Навык: {skill}.",
+        "Дай мне минутку. Сейчас изучаю навык {skill}.",
+        "Я ещё не закончил изучать навык {skill}.",
+        "Не сейчас. Я занимаюсь навыком {skill}.",
+        "Не хочу сбиваться. Сейчас изучаю навык {skill}.",
+        "Мне нужно дочитать эту главу. Тема: {skill}.",
+        "Сейчас всё внимание на навыке {skill}.",
+        "Вернись позже. Я изучаю навык {skill}.",
+        "Мне ещё нужно закончить изучать навык {skill}.",
+        "Сначала дай мне закончить изучать навык {skill}."
+      ],
+      "weight": 10,
+      "id": "global.messages.26_study.messages.interaction.study.busy.000"
+    },
+    {
+      "key": "interaction.study.started",
+      "lines": [
+        "Начну изучать навык {skill}."
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.started.001"
+    },
+    {
+      "key": "interaction.study.cooldown",
+      "lines": [
+        "Я смогу снова учиться через {study_cooldown}."
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.cooldown.002"
+    },
+    {
+      "key": "interaction.study.maxed",
+      "lines": [
+        "Навык {skill} уже развит до предела."
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.maxed.003"
+    },
+    {
+      "key": "interaction.study.unavailable",
+      "lines": [
+        "Сейчас я не могу начать обучение."
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.unavailable.004"
+    },
+    {
+      "key": "interaction.study.low_reputation",
+      "lines": [
+        "Я недостаточно тебе доверяю, чтобы учиться по твоему указанию."
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.low_reputation.005"
+    }
+  ]
+}

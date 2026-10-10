@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.bastion_line.description": "Обезопасьте путь к бастиону и установите прочные метки из чернита.",
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.label": "О разбитом золоте",
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.lines": [
+      "Путь к бастиону размечен, снабжён припасами и выглядит достаточно дорого, чтобы внушать уважение.",
+      "Теперь дорога через разбитое золото ведёт обратно в деревню.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Путь к бастиону размечен, снабжён припасами и выглядит достаточно дорого, чтобы внушать уважение.",
+      "Теперь дорога через разбитое золото ведёт обратно в деревню."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Разбитое золото сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.turn_in_wait.lines": [
+      "3 брутальных пиглина, 32 чернита и 2 золотых блока для тайников.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.nether_routes.bastion_line.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.label": "Разбитое золото",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.lines": [
+      "Направление к бастиону верное, но брутальные пиглины воспринимают каждую метку как вызов.",
+      "Очистите маршрут, установите метки из чернита и оставьте золото там, где застрявшие путники смогут обменяться с пиглинами.",
+      "Одолейте 3 брутальных пиглинов и принесите 32 чернита и 2 золотых блока."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.label": "О разбитом золоте",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.lines": [
+      "3 брутальных пиглина, 32 чернита и 2 золотых блока для тайников.",
+      "Одолейте 3 брутальных пиглинов и принесите 32 чернита и 2 золотых блока.",
+      "Очистите маршрут, установите метки из чернита и оставьте золото там, где застрявшие путники смогут обменяться с пиглинами."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_blackstone.tracker.complete_text": "Метки из чернита готовы.",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_blackstone.tracker.text": "Принесите 32 чернита для меток маршрута.",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_gold.tracker.complete_text": "Золотые блоки готовы.",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_gold.tracker.text": "Принесите 2 золотых блока для тайников безопасного маршрута.",
+    "quest.nether_routes.bastion_line.stage.work.objective.clear_brutes.tracker.complete_text": "Патруль бастиона устранён.",
+    "quest.nether_routes.bastion_line.stage.work.objective.clear_brutes.tracker.text": "Одолейте 3 брутальных пиглинов на маршруте.",
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_confirm.lines": [
+      "Отложить разбитое золото?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Разбитое золото сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.decline.lines": [
+      "Тогда бастион пока сохранит и стены, и своё мнение."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.leave.lines": [
+      "3 брутальных пиглина, 32 чернита и 2 золотых блока для тайников.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "3 брутальных пиглина, 32 чернита и 2 золотых блока для тайников.",
+      "Одолейте 3 брутальных пиглинов и принесите 32 чернита и 2 золотых блока.",
+      "Очистите маршрут, установите метки из чернита и оставьте золото там, где застрявшие путники смогут обменяться с пиглинами."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Разбитое золото сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С разбитым золотом пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.started": [
+      "Наденьте хотя бы одну золотую вещь. Брутальных пиглинов это не впечатлит, но остальные хотя бы задумаются.",
+      "Одолейте 3 брутальных пиглинов и принесите 32 чернита и 2 золотых блока."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Разбитое золото сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.bastion_line.stage.work.ui.tracker_text": "Одолейте 3 брутальных пиглинов и принесите 32 чернита и 2 золотых блока.",
+    "quest.nether_routes.bastion_line.title": "Разбитое золото"
+  }
+}

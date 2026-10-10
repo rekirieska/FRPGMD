@@ -1,0 +1,104 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.chart_the_drowned_coast.description": {
+      "lines": [
+        "Следуйте вдоль побережья к океанскому монументу и принесите осколки призмарина в качестве доказательства."
+      ]
+    },
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.label": "О затонувшем побережье",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.lines": [
+      "От вас пахнет солью и упрямым камнем. Покажите, что нашли на побережье."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.response.complete.label": "Передать записи о призмарине",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Затонувшее побережье нанесено на карту. Теперь атлас знает, как волны могут скрыть дорогу, не стирая её."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для страницы побережья всё ещё нужны океанский монумент, три стража и призмарин."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите осколки призмарина, прежде чем я поверю отметке побережья."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Сначала нужно нанести направление к монументу, и только потом осколки призмарина что-то докажут."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для побережья всё ещё нужно доказательство, прежде чем я смогу завершить страницу."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.leave.lines": [
+      "Держите осколки завёрнутыми. Мокрые чернила не лгут, но оставляют грязь."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.ui.tracker_text": "Вернитесь к картографу с осколками призмарина.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.label": "Затонувшее побережье",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.lines": [
+      "Вы выбрали побережье, и теперь атлас ищет затонувший камень.",
+      "Океанский монумент проступает сквозь чернила. Нанесите его на карту, переживите встречу со стражами и принесите призмарин."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.response.accept.label": "Нанести побережье",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.label": "О затонувшем побережье",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.lines": [
+      "Для маршрута побережья всё ещё нужны направление к монументу, доказательство победы над стражами и осколки призмарина."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.bring_prismarine.tracker.complete_text": "Осколки призмарина готовы.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.bring_prismarine.tracker.text": "Принесите 8 осколков призмарина с затонувшего побережья.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.defeat_guardians.tracker.complete_text": "Счёт стражей записан.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.defeat_guardians.tracker.text": "Победите 3 стражей возле маршрута затонувшего побережья.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.visit_monument.tracker.complete_text": "Океанский монумент затонувшего побережья нанесён на карту.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.visit_monument.tracker.text": "Доберитесь до океанского монумента возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_confirm.lines": [
+      "Пока позволить затонувшему побережью снова скрыться под чернилами?"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_confirm.response.cancel.label": "Продолжить картографирование",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Пока я дам странице побережья высохнуть. Позже прилив снова поднимется."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я дам странице побережья высохнуть день, прежде чем снова открою её."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас маршрут затонувшего побережья не активен."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.decline.lines": [
+      "Тогда ещё немного поберегите сапоги от воды."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.leave.lines": [
+      "Следите за линией воды."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Океанский монумент возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Нанесите его на карту, победите 3 стражей и принесите 8 осколков призмарина."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас страница затонувшего побережья для вас не открыта."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Затонувшее побережье уже нанесено на карту."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Сегодня от побережья на странице слишком сильный блик. Лучше подождать, чем дать вам ложную отметку монумента."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Отметка монумента находится возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Нанесите его на карту, переживите встречу со стражами и принесите осколки призмарина."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Прежде чем открыть этот маршрут, атлас должен выбрать горизонт побережья."
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.ui.tracker_text": "Доберитесь до океанского монумента возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.chart_the_drowned_coast.title": {
+      "lines": [
+        "Нанести затонувшее побережье"
+      ]
+    },
+    "quest.cartographers_atlas.chart_the_drowned_coast.tracker.title": {
+      "lines": [
+        "Нанести затонувшее побережье"
+      ]
+    }
+  }
+}

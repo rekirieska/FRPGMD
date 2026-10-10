@@ -1,0 +1,89 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.breath_after_the_roar.description": "Завершите линию Последнего уголька, вернувшись из Энда с доказательством того, что деревня готова услышать о драконе.",
+    "quest.last_ember.breath_after_the_roar.scene.last_ember_charge.metadata.title": "Поручение Последнего уголька",
+    "quest.last_ember.breath_after_the_roar.scene.last_ember_charge.step.final_charge.data.text": "Соберите драконье дыхание в бутылочку, пока ещё звучит рёв. Затем вернитесь домой с камнем и историей, которая всё ещё принадлежит вам.",
+    "quest.last_ember.breath_after_the_roar.scene.last_ember_charge.step.first_charge.data.text": "Последний уголёк заканчивается за вратами, но участие деревни на этом не заканчивается.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.label": "После рёва",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.lines": [
+      "Записи Последнего уголька заканчиваются там, где я уже не могу сделать звук безопасным.",
+      "Если пройдёте через врата, соберите драконье дыхание в бутылочку, пока оно ещё падает, прекратите рёв и вернитесь с доказательством того, что тишина принадлежит живым."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.response.accept.label": "Я встречусь с драконом.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.label": "О времени после рёва",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.lines": [
+      "Для этого этапа нет мягких слов. Соберите драконье дыхание в бутылочку, пока оно ещё падает, встретьтесь с драконом и вернитесь достаточно живым, чтобы спорить о записях."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.response.details.label": "Напомните поручение.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.response.leave.label": "Я вернусь.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.bring_dragon_breath.tracker.complete_text": "Драконье дыхание готово.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.bring_dragon_breath.tracker.text": "Принесите 1 драконье дыхание как доказательство рёва.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.defeat_dragon.tracker.complete_text": "Рёв прекратился.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.defeat_dragon.tracker.text": "Соберите 1 драконье дыхание в бутылочку, пока дракон жив, затем одолейте Эндер-дракона.",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.decline.lines": [
+      "Хорошо. Энд ждал дольше любого из нас. Подождёт, пока вы сами не решите."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.leave.lines": [
+      "Вернитесь, сохранив свою историю своей."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.reminder_details.action.remind.lines.reminder": [
+      "Соберите 1 драконье дыхание в бутылочку, пока Эндер-дракон жив, одолейте его, затем принесите в деревню 16 эндерняка."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.reminder_details.action.remind.lines.unavailable": [
+      "Ответ дракона сейчас недоступен."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.start_quest.action.start.lines.already_completed": [
+      "Последний уголёк уже принесён домой."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.start_quest.action.start.lines.started": [
+      "Соберите драконье дыхание в бутылочку, пока оно ещё падает, затем одолейте Эндер-дракона. Простые слова оставляют больше места для осторожных решений."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.start_quest.action.start.lines.unavailable": [
+      "Последний уголёк сейчас не готов просить вас об этом."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.ui.tracker_text": "Соберите 1 драконье дыхание в бутылочку, пока дракон жив, затем одолейте Эндер-дракона.",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.label": "О времени после рёва",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.lines": [
+      "Рёв прекратился. Принесите эндерняк, чтобы деревня могла положить что-то твёрдое рядом с дыханием в бутылочке."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.response.details.label": "Напомните, какое нужно доказательство.",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.response.leave.label": "Я принесу это.",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.objective.bring_end_stone.tracker.complete_text": "Эндерняк готов.",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.objective.bring_end_stone.tracker.text": "Принесите 16 эндерняка, чтобы у этого урока появилась твёрдая основа.",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.scene.leave.lines": [
+      "Доказательства бывают тяжелее камня совсем по другим причинам."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.scene.reminder_details.action.remind.lines.reminder": [
+      "Теперь, когда дракон побеждён, принесите 16 эндерняка. Дыхание в бутылочке уже учтено."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.scene.reminder_details.action.remind.lines.unavailable": [
+      "Доказательство может подождать, пока дракон не будет повержен."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.ui.tracker_text": "Принесите 16 эндерняка, чтобы завершить доказательство.",
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.label": "О времени после рёва",
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.lines": [
+      "Вы здесь. Это первое доказательство. Остальное можно положить на стол."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.response.complete.label": "Завершите Последний уголёк.",
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Последняя запись говорит следующее: мир может быть огромным и жестоким, но всё же способен вернуть кого-то домой. Деревня запомнит это, не пытаясь сделать мир меньше."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Последнему угольку всё ещё нужно доказательство."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда драконье дыхание и эндерняк, прежде чем мы закончим записи."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу завершить Последний уголёк."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.leave.lines": [
+      "Последняя страница подождёт. Она заслужила терпение."
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.ui.tracker_text": "Вернитесь с доказательством для Последнего уголька.",
+    "quest.last_ember.breath_after_the_roar.title": "После рёва"
+  }
+}

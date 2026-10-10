@@ -1,0 +1,24 @@
+{
+  "forms": [
+    {"id": "one", "count_pattern": "(?<!1)\\d*1", "format": "{count} {item}"},
+    {"id": "few", "count_pattern": "(?<!1)\\d*[234]", "format": "{count} {item}"},
+    {"id": "many", "format": "{count} {item}"}
+  ],
+  "currency": {"one": "изумруд", "few": "изумруда", "many": "изумрудов"},
+  "items": {
+    "minecraft:bread": {"one": "хлеб", "few": "хлеба", "many": "хлеба"},
+    "minecraft:charcoal": {"one": "древесный уголь", "few": "древесного угля", "many": "древесного угля"},
+    "minecraft:clay_ball": {"one": "комок глины", "few": "комка глины", "many": "комков глины"},
+    "minecraft:coal": {"one": "уголь", "few": "угля", "many": "угля"},
+    "minecraft:cod": {"one": "сырая треска", "few": "сырые трески", "many": "сырых тресок"},
+    "minecraft:flint": {"one": "кремень", "few": "кремня", "many": "кремня"},
+    "minecraft:glass": {"one": "стекло", "few": "стекла", "many": "стекла"},
+    "minecraft:gunpowder": {"one": "порох", "few": "пороха", "many": "пороха"},
+    "minecraft:leather": {"one": "кожа", "few": "кожи", "many": "кожи"},
+    "minecraft:mutton": {"one": "сырая баранина", "few": "сырой баранины", "many": "сырой баранины"},
+    "minecraft:paper": {"one": "бумага", "few": "бумаги", "many": "бумаги"},
+    "minecraft:salmon": {"one": "сырой лосось", "few": "сырых лосося", "many": "сырых лососей"},
+    "minecraft:string": {"one": "нить", "few": "нити", "many": "нитей"},
+    "minecraft:wheat": {"one": "пшеница", "few": "пшеницы", "many": "пшеницы"}
+  }
+}

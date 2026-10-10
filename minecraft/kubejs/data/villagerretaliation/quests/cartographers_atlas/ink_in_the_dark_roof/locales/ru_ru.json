@@ -1,0 +1,106 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.ink_in_the_dark_roof.description": {
+      "lines": [
+        "Следуйте по пути под тёмным пологом к лесному особняку и вернитесь с похищенными записями."
+      ]
+    },
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.label": "О пути под тёмным пологом",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.lines": [
+      "Тёмный полог оставил на вас чернила. Покажите, что удалось вынести."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.response.complete.label": "Передать записи из особняка",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Путь под тёмным пологом нанесён на карту. Теперь атлас знает, что некоторые дома – это предупреждения, притворяющиеся пунктами назначения."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для страницы тёмного полога всё ещё нужны особняк, отметка патруля и записи."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите доказательство из особняка, прежде чем я поверю отметке тёмного полога."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Сначала нужно нанести направление к особняку, и только потом книги что-то докажут."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для пути под тёмным пологом всё ещё нужно доказательство, прежде чем я смогу завершить страницу."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.leave.lines": [
+      "Не открывайте записи, пока не сможем безопасно их прочитать."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.ui.tracker_text": "Вернитесь к картографу с записями из особняка.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.label": "Путь под тёмным пологом",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.lines": [
+      "Вы выбрали тёмный полог, и теперь атлас прислушивается к дереву, в котором гнездятся старые беды.",
+      "Лесной особняк тянет чернила за край страницы. Нанесите его на карту, разберитесь с патрулём и принесите книги, которые там держали не в тех руках."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.response.accept.label": "Нанести тёмный полог",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.label": "О пути под тёмным пологом",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.lines": [
+      "Для пути под тёмным пологом всё ещё нужны направление к особняку, доказательство победы над его обитателями и похищенные записи."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.bring_books.tracker.complete_text": "Записи тёмного полога готовы.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.bring_books.tracker.text": "Принесите 12 книг с полок особняка.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.carry_totem.tracker.complete_text": "Тотем бессмертия готов.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.carry_totem.tracker.text": "Возьмите 1 тотем бессмертия как доказательство с пути под тёмным пологом.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.defeat_illagers.tracker.complete_text": "Патруль тёмного полога отмечен.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.defeat_illagers.tracker.text": "Победите 4 поборников или заклинателей на пути под тёмным пологом.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.visit_mansion.tracker.complete_text": "Путь под тёмным пологом нанесён на карту.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.visit_mansion.tracker.text": "Доберитесь до лесного особняка возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_confirm.lines": [
+      "Пока закрыть путь под тёмным пологом?"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_confirm.response.cancel.label": "Продолжить картографирование",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Пока я закрою страницу тёмного полога."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я закрою страницу тёмного полога на день. Пусть чернила перестанут за нами наблюдать."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас путь под тёмным пологом не активен."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.decline.lines": [
+      "Разумно. Иногда темнота под пологом вполне оправданна."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.leave.lines": [
+      "Не доверяйте тихому коридору."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Лесной особняк возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Нанесите его на карту, победите 4 поборников или заклинателей и принесите 12 книг."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас страница тёмного полога для вас не открыта."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Путь под тёмным пологом уже нанесён на карту."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Сегодня особняк слишком хорошо прячется. Лучше подождать, чем отправить вас за ложной отметкой."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Отметка особняка находится возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Нанесите его на карту, разберитесь с патрулём и принесите книги."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Прежде чем открыть этот маршрут, атлас должен выбрать горизонт тёмного полога."
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.ui.tracker_text": "Доберитесь до лесного особняка возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.title": {
+      "lines": [
+        "Чернила тёмного полога"
+      ]
+    },
+    "quest.cartographers_atlas.ink_in_the_dark_roof.tracker.title": {
+      "lines": [
+        "Чернила тёмного полога"
+      ]
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.lost_civilization.tales_of_a_lost_civilization.description": {
+      "lines": [
+        "Следуйте слуху картографа к Древнему городу и вернитесь с осколком эха."
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.objective.recover_echo_shard.complete_text": {
+      "lines": [
+        "Получено: {objective_item}."
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.objective.recover_echo_shard.text": {
+      "lines": [
+        "Добудьте {objective_item} как доказательство путешествия."
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.label": "О потерянной цивилизации",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.lines": [
+      "О старом городе? Я могу снова отметить дорогу или сложить карту, если вы больше не хотите её носить.",
+      "Карта всё ещё указывает вам путь. Снова попросите отметку или я могу убрать маршрут."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.response.directions.label": "Напомните, куда идти",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.response.never_mind.label": "Неважно",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.label": "О потерянной цивилизации",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.lines": [
+      "Вы вернулись, будто принесли с собой тишину. Скажите, что дошли до центра, а не только до тени этого места.",
+      "Такой взгляд бывает не после обычной пещеры. Это место старше. Вы принесли доказательство?"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.response.abandon.label": "Отказаться от задания",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.response.complete.label": "Показать осколок эха",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.response.never_mind.label": "Неважно",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_cancel.lines": [
+      "Хорошо. Сложенная карта помнит меньше, чем та, что была в дороге.",
+      "Тогда оставьте отметку. Некоторые истории наказывают за промедление, но эта вознаграждает осторожность."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_confirm.lines": [
+      "Если сложить эту карту, след на время остынет. Вы уверены?",
+      "Я могу убрать старую отметку, но не стану притворяться, будто место перестанет ждать."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_confirm.response.cancel.label": "Оставить задание активным",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_confirm.response.confirm.label": "Убрать карту",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Тогда я уберу маршрут. Если старый город снова позовёт, вернитесь, и мы отметим его заново.",
+      "Готово. Пока карта отдохнёт."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Тогда я уберу маршрут на день. Дайте чернилам высохнуть, прежде чем снова просить меня поставить отметку.",
+      "Готово. Позже можно будет вернуться к отметке, когда карта успокоится."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.abandoned_forever": [
+      "Тогда я закрою эту запись.",
+      "Готово. Больше я не буду предлагать этот маршрут."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас этой карты у вас нет.",
+      "Сейчас здесь нет активного маршрута, который я мог бы убрать."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.active_cancel.lines": [
+      "Тогда держите карту при себе, пока дорога снова не заговорит.",
+      "Справедливо. Некоторые карты лучше носить молча."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Значит, истории всё-таки были не просто чернилами. Не забывайте, что узнали, и расскажите деревне, что ходили туда, где сама тишина хранит записи.",
+      "Вы нашли центр и принесли доказательство. Карта на такое не способна. Деревня запомнит ваше имя рядом с этим потерянным местом.",
+      "Осколок эха из самого сердца {target}. Я вам верю. За некоторые истории стоит платить до того, как их начнут пересказывать."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Значит, вы видели это место. Принесите мне {proof_item}, и историю можно будет считать завершённой.",
+      "Путешествию нужен вещественный знак. Найдите {proof_item} в этих глубинах и принесите его."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Одного осколка недостаточно. Нужно побывать в самом центре {target}, а не только в его коридорах.",
+      "Доказательство – лишь половина истории. Вторая половина – само место: центр города возле {target_x}, {target_z}."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "В истории всё ещё не хватает одной части.",
+      "В этой истории чего-то не хватает."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.reminder_details.action.remind.lines.reminder": [
+      "Место находится {direction}, примерно в {distance} блоках отсюда, возле {target_x}, {target_z}. Доберитесь до центра {target}, затем принесите мне {proof_item}.",
+      "Не дайте внешним коридорам вас обмануть. Мне нужен именно центр города. Моя отметка была возле {target_x}, {target_z}, в направлении {direction}, а {proof_item} станет нужным доказательством.",
+      "Старая отметка не изменилась: {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Сначала центр, затем {proof_item}, после этого возвращайтесь."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас карта даёт другой ответ.",
+      "Если отметка сместилась, вернитесь, когда чернила успокоятся."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.turn_in_wait.lines": [
+      "Тогда берегите это, пока не будете готовы позволить деревне помнить вместе с вами.",
+      "Не нужно заставлять себя говорить. Расскажете, когда мысли улягутся."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.label": "Потерянная цивилизация",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.lines": [
+      "Есть старые карты, которые отказываются лежать смирно. Одна из них снова и снова складывается под чернилами в один и тот же рисунок.",
+      "Я нашёл отметку, которая не принадлежит ни одной известной мне дороге. Она указывает под землю, к городу, имя которого люди перестали произносить."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.response.accept.label": "Скажите, куда идти",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.label": "О потерянной цивилизации",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.lines": [
+      "О старом городе? Я могу снова отметить дорогу или сложить карту, если вы больше не хотите её носить.",
+      "Карта всё ещё указывает вам путь. Снова попросите отметку или я могу убрать маршрут."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.response.directions.label": "Напомните, куда идти",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.response.never_mind.label": "Неважно",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.objective.visit_city_center.tracker.complete_text": "Вы добрались до сердца старого города.",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.objective.visit_city_center.tracker.text": "Доберитесь до центра Древнего города возле {target_x}, {target_z}.",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_cancel.lines": [
+      "Хорошо. Сложенная карта помнит меньше, чем та, что была в дороге.",
+      "Тогда оставьте отметку. Некоторые истории наказывают за промедление, но эта вознаграждает осторожность."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_confirm.lines": [
+      "Если сложить эту карту, след на время остынет. Вы уверены?",
+      "Я могу убрать старую отметку, но не стану притворяться, будто место перестанет ждать."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_confirm.response.cancel.label": "Оставить задание активным",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_confirm.response.confirm.label": "Убрать карту",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Тогда я уберу маршрут. Если старый город снова позовёт, вернитесь, и мы отметим его заново.",
+      "Готово. Пока карта отдохнёт."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Тогда я уберу маршрут на день. Дайте чернилам высохнуть, прежде чем снова просить меня поставить отметку.",
+      "Готово. Позже можно будет вернуться к отметке, когда карта успокоится."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_forever": [
+      "Тогда я закрою эту запись.",
+      "Готово. Больше я не буду предлагать этот маршрут."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас этой карты у вас нет.",
+      "Сейчас здесь нет активного маршрута, который я мог бы убрать."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.active_cancel.lines": [
+      "Тогда держите карту при себе, пока дорога снова не заговорит.",
+      "Справедливо. Некоторые карты лучше носить молча."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.decline.lines": [
+      "Тогда пусть карта останется сложенной. Некоторые места умеют ждать лучше людей.",
+      "Справедливо. Город, который научился хранить молчание, может подождать ещё немного."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Место находится {direction}, примерно в {distance} блоках отсюда, возле {target_x}, {target_z}. Доберитесь до центра {target}, затем принесите мне {proof_item}.",
+      "Не дайте внешним коридорам вас обмануть. Мне нужен именно центр города. Моя отметка была возле {target_x}, {target_z}, в направлении {direction}, а {proof_item} станет нужным доказательством.",
+      "Старая отметка не изменилась: {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Сначала центр, затем {proof_item}, после этого возвращайтесь."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас карта даёт другой ответ.",
+      "Если отметка сместилась, вернитесь, когда чернила успокоятся."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Этот потерянный город уже дал нам ответ.",
+      "Теперь эта история у нас есть. Я всё ещё решаю, сколько из неё стоит произносить вслух."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Сегодня стол картографа не может закрепить отметку этого города. Лучше подождать, чем отправить вас по неверной отметке.",
+      "Я чувствую старую дорогу под чернилами, но недостаточно ясно, чтобы отправить вас туда."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Одна отметка указывает {direction}, примерно в {distance} блоках отсюда, возле {target_x}, {target_z}. Если действительно хотите узнать историю, найдите сердце {target} и принесите {proof_item}.",
+      "Я перерисовал эту отметку трижды, и каждая копия снова сползает в одно место: {target_x}, {target_z}, в направлении {direction}. Идите осторожно. Важен центр {target}, а {proof_item} докажет, что вы там были.",
+      "Тогда слушайте внимательно: идите {direction}, примерно {distance} блоков, к {target_x}, {target_z}. Встаньте в центре города, а не на окраине, и вернитесь с {proof_item}."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Пока нет. Для этой истории нужен тот, кто увереннее обращается с картами.",
+      "Есть отметки, которые я не показываю, пока не доверяю и самой карте, и тому, кто её читает."
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.title": {
+      "lines": [
+        "Потерянная цивилизация"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.proof.text": {
+      "lines": [
+        "Добудьте {proof_item} как доказательство путешествия."
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.return.text": {
+      "lines": [
+        "Вернитесь к картографу с {proof_item}."
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.title": {
+      "lines": [
+        "Потерянная цивилизация"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.travel.text": {
+      "lines": [
+        "Доберитесь до центра Древнего города возле {target_x}, {target_z}."
+      ]
+    }
+  }
+}

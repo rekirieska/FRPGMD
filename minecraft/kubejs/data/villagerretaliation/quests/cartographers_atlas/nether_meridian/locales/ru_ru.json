@@ -1,0 +1,89 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.nether_meridian.description": {
+      "lines": [
+        "Вынесите атлас за пределы обычного мира и нанесите направление к крепости Незера."
+      ]
+    },
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.label": "О меридиане Незера",
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.lines": [
+      "Чернила исказились, но линия сохранилась. Покажите доказательство меридиана."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.response.complete.label": "Передать меридиан Незера",
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Меридиан Незера нанесён. Теперь у нас есть дорога сквозь жар."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для меридиана всё ещё нужны направление к крепости, огненные стержни и незерский нарост."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите огненные стержни с маршрута крепости, прежде чем я поверю меридиану."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Припасы должны подтверждаться направлением к крепости."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для меридиана Незера всё ещё нужно доказательство, прежде чем я смогу завершить страницу."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.leave.lines": [
+      "Держите горячие чернила подальше от края атласа."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.ui.tracker_text": "Вернитесь к картографу с меридианом Незера.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.label": "Меридиан Незера",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.lines": [
+      "Атлас пережил горизонт обычного мира. Теперь узнаем, способны ли его линии пересечь огонь.",
+      "Найдите крепость Незера, принесите огненные стержни и незерский нарост и не дайте карте научиться гореть."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.response.accept.label": "Нанести меридиан Незера",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.label": "О меридиане Незера",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.lines": [
+      "Для страницы Незера всё ещё нужны направление к крепости, огненные стержни и незерский нарост."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_blaze_rods.tracker.complete_text": "Огненные стержни для меридиана готовы.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_blaze_rods.tracker.text": "Принесите 3 огненных стержня для жаростойкой разметки.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_nether_wart.tracker.complete_text": "Незерский нарост упакован для изучения.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_nether_wart.tracker.text": "Принесите 8 незерского нароста с маршрута крепости.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.visit_fortress.tracker.complete_text": "Направление к крепости Незера записано.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.visit_fortress.tracker.text": "Доберитесь до крепости Незера возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.decline.lines": [
+      "Разумно. Незер наказывает за беспечное любопытство."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.leave.lines": [
+      "Держите страницу подальше от искр."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Крепость Незера возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}, измерение {target_dimension}. Принесите 3 огненных стержня и 8 незерского нароста."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас меридиан Незера для вас не открыт."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Меридиан Незера уже нанесён."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда отметка Незера не хочет закрепляться на карте."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Отметка крепости находится возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}, измерение {target_dimension}. Принесите огненные стержни и незерский нарост."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Атласу нужна хотя бы одна завершённая страница горизонта, прежде чем его чернила смогут пережить Незер."
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.ui.tracker_text": "Доберитесь до крепости Незера возле {target_x}, {target_z}, измерение {target_dimension}.",
+    "quest.cartographers_atlas.nether_meridian.title": {
+      "lines": [
+        "Меридиан Незера"
+      ]
+    },
+    "quest.cartographers_atlas.nether_meridian.tracker.title": {
+      "lines": [
+        "Меридиан Незера"
+      ]
+    }
+  }
+}

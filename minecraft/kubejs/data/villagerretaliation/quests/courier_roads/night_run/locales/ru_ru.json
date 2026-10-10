@@ -1,0 +1,91 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.courier_roads.night_run.description": "Докажите, что курьерский путь выдержит опасности между домами и деревнями.",
+    "quest.courier_roads.night_run.scene.night_run_attack.metadata.title": "Нападение на ночном рейсе",
+    "quest.courier_roads.night_run.scene.night_run_attack.step.mark_the_road.data.text": "Опасный участок очищен. Принесите фонари и таблички, чтобы следующему курьеру требовалось меньше смелости.",
+    "quest.courier_roads.night_run.scene.night_run_attack.step.route_warning.data.text": "Я отметил перекрытый участок за фонарями: паутина в живой изгороди и скелеты, стерегущие дорогу.",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.label": "Ночной рейс",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.lines": [
+      "Маршрут нельзя считать настоящим, пока по нему нельзя пройти после заката.",
+      "Очистите самый опасный участок ночной дороги, затем принесите фонари и таблички. Смелый курьер полезен, но хорошо размеченная дорога надёжнее."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.response.accept.label": "Я проверю ночную дорогу.",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.response.decline.label": "Не сегодня ночью.",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.label": "О ночном рейсе",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.lines": [
+      "Очистите маршрут от пауков и скелетов. Чтобы доставить письмо, не должна требоваться броня."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.response.details.label": "Напомните об опасности.",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.response.leave.label": "Я разберусь.",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_skeletons.tracker.complete_text": "Участок под обстрелом стал безопаснее.",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_skeletons.tracker.text": "Одолейте 2 скелетов, пока курьерам не пришлось идти под их стрелами.",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_spiders.tracker.complete_text": "Участок с паутиной стал безопаснее.",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_spiders.tracker.text": "Одолейте 3 пауков на ночном маршруте.",
+    "quest.courier_roads.night_run.stage.clear_road.scene.decline.lines": [
+      "Тогда запечатанные пакеты пока будут доставлять только при свете дня."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.leave.lines": [
+      "Не соревнуйтесь с темнотой только ради храбрости."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.reminder_details.action.remind.lines.reminder": [
+      "Одолейте 3 пауков и 2 скелетов на ночном маршруте."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.reminder_details.action.remind.lines.unavailable": [
+      "Ночная дорога сейчас не готова к этой работе."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.start_quest.action.start.lines.already_completed": [
+      "Ночной рейс уже испытан."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.start_quest.action.start.lines.started": [
+      "Одолейте 3 пауков и 2 скелетов. Сделайте так, чтобы дорога перестала казаться смертельной ловушкой."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.start_quest.action.start.lines.unavailable": [
+      "Ночной маршрут сейчас не готов к запросу о помощи."
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.ui.tracker_text": "Одолейте 3 пауков и 2 скелетов.",
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.label": "О ночном рейсе",
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.lines": [
+      "Опасный участок стал спокойнее. Теперь разметьте его, чтобы следующему путнику не пришлось полагаться на удачу."
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.response.details.label": "Напомните, что нужно для разметки.",
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_lanterns.tracker.complete_text": "Фонари для дороги готовы.",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_lanterns.tracker.text": "Принесите 3 фонаря для разметки ночной дороги.",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_oak_signs.tracker.complete_text": "Таблички для маршрута готовы.",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_oak_signs.tracker.text": "Принесите 3 дубовые таблички, чтобы уставшим курьерам не приходилось угадывать, где свернуть.",
+    "quest.courier_roads.night_run.stage.mark_way.scene.leave.lines": [
+      "Размеченная дорога – обещание безопасности незнакомцам."
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 3 фонаря и 3 дубовые таблички для ночной дороги."
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.scene.reminder_details.action.remind.lines.unavailable": [
+      "С разметкой дороги можно подождать, пока опасный участок не будет очищен."
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.ui.tracker_text": "Принесите 3 фонаря и 3 дубовые таблички.",
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.label": "О ночном рейсе",
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.lines": [
+      "Вы принесли доказательства и всё для разметки. Именно этим настоящая дорога отличается от рискованной выходки."
+    ],
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.response.complete.label": "Разметьте ночной маршрут.",
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Первый ночной курьер всё равно будет нервничать, но теперь ему хотя бы будет за какими фонарями идти."
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "На ночной дороге ещё нужно разобраться с угрозами и установить фонари с табличками."
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда всё для разметки, чтобы маршрут можно было нанести на карту."
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу завершить подготовку ночного маршрута."
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.leave.lines": [
+      "Наполовину размеченная дорога может быть хуже дороги без разметки."
+    ],
+    "quest.courier_roads.night_run.stage.return.ui.tracker_text": "Вернитесь с доказательствами и всем необходимым для разметки дороги.",
+    "quest.courier_roads.night_run.title": "Ночной рейс"
+  }
+}

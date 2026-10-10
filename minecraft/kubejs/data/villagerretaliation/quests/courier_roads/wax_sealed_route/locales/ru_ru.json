@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.courier_roads.wax_sealed_route.description": "Подготовьте бумагу, кожу и воск, необходимые деревенскому курьеру для безопасной доставки писем.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.label": "Курьерский пакет",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.lines": [
+      "Письмо кажется мелочью, пока не теряется по дороге. Тогда вместо него приходят слухи, паника или ссора.",
+      "Помогите подготовить курьерский маршрут: нужна кожа для сумки, бумага для чистых копий и пчелиные соты для печатей, по которым будет видно, если кто-то вскрывал письмо."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.response.accept.label": "Я подготовлю маршрут.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.label": "О курьерском пакете",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.lines": [
+      "Сначала курьеру нужны сумка и бумага, и только потом можно думать о печатях."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.response.details.label": "Напомните, что нужно для сумки.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_leather.tracker.complete_text": "Кожа для курьерской сумки готова.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_leather.tracker.text": "Принесите 4 кожи для курьерской сумки.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_paper.tracker.complete_text": "Бумага для маршрута готова.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_paper.tracker.text": "Принесите 12 бумаги для путевых заметок и копий.",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.decline.lines": [
+      "Тогда письма пока останутся сложенными здесь, а всем придётся делать вид, что ожидание – это план."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.leave.lines": [
+      "Берегите бумагу от воды. Плохие новости и без расплывшихся чернил распространяются достаточно быстро."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 4 кожи и 12 бумаги для курьерского маршрута."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.reminder_details.action.remind.lines.unavailable": [
+      "Курьерский пакет сейчас не готов к этой работе."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.start_quest.action.start.lines.already_completed": [
+      "Маршрут с восковыми печатями уже подготовлен."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.start_quest.action.start.lines.started": [
+      "Сначала принесите 4 кожи и 12 бумаги. Курьер с россыпью листов мало чем отличается от ветра на ногах."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.start_quest.action.start.lines.unavailable": [
+      "Курьерский маршрут сейчас не готов к запросу о помощи."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.ui.tracker_text": "Принесите 4 кожи и 12 бумаги.",
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.label": "О курьерском пакете",
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.lines": [
+      "Так новости будут приходить именно новостями, а не слухами, еле добравшимися до места."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.response.complete.label": "Подготовьте печати для маршрута.",
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Надёжный маршрут похож на незаметный мост. Вы помогли построить такой мост."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для курьерского пакета всё ещё не хватает кожи, бумаги, пчелиных сот или компаса."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда припасы для маршрута, прежде чем я запечатаю пакет."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу завершить подготовку курьерского маршрута."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.leave.lines": [
+      "Пакет останется незапечатанным, пока маршрут не будет готов."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.ui.tracker_text": "Вернитесь с припасами для курьерского маршрута.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.label": "О курьерском пакете",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.lines": [
+      "Сумку теперь можно подготовить. Принесите пчелиные соты и возьмите с собой компас, чтобы у маршрута были и защита писем, и верное направление."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.response.details.label": "Напомните, что нужно для печатей.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_compass.tracker.complete_text": "Компас для маршрута готов.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_compass.tracker.text": "Возьмите с собой 1 компас для прокладки курьерского маршрута.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_honeycomb.tracker.complete_text": "Восковые печати готовы.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_honeycomb.tracker.text": "Принесите 3 пчелиные соты для восковых печатей.",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.scene.leave.lines": [
+      "Запечатанное письмо позволяет доверию добраться дальше, чем крику."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 3 пчелиные соты и возьмите с собой 1 компас для курьерского маршрута."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.scene.reminder_details.action.remind.lines.unavailable": [
+      "Письма нельзя запечатать, пока не готова курьерская сумка."
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.ui.tracker_text": "Принесите 3 пчелиные соты и возьмите с собой 1 компас.",
+    "quest.courier_roads.wax_sealed_route.title": "Курьерский пакет"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.the_atlas_test.description": {
+      "lines": [
+        "Выберите более безопасный маршрут снабжения или более рискованный боевой маршрут, чтобы доказать, что атлас помогает принимать реальные решения."
+      ]
+    },
+    "quest.cartographers_atlas.the_atlas_test.scene.atlas_risky_patrol.metadata.title": "Рискованный патруль атласа",
+    "quest.cartographers_atlas.the_atlas_test.scene.atlas_risky_patrol.step.patrol_cleared.data.text": "С патрулём покончено. Оставьте себе один из их арбалетов – он станет доказательством рискованного маршрута.",
+    "quest.cartographers_atlas.the_atlas_test.scene.atlas_risky_patrol.step.patrol_warning.data.text": "Рискованный путь уже дал ответ. На карте отмечен движущийся патруль разбойников.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.label": "Испытание атласа",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.lines": [
+      "У атласа уже есть страницы, отметки и память. Теперь ему нужно научиться выбирать.",
+      "Выберите постоянный маршрут испытания: безопасный требует 4 фонаря и 8 буханок хлеба; рискованный сразу вызывает засаду из 3 разбойников, гарантирует арбалет как доказательство и даёт большую боевую награду."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.risky.action.notification.text": "Вы выбрали рискованное испытание атласа. Победите патруль и принесите арбалет.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.risky.label": "Выбрать рискованный путь",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.risky.text": "Значит, рискованный путь. Вернитесь с доказательством, что опасность была реальной, а не придуманной в тёплой комнате.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.safe.action.notification.text": "Вы выбрали безопасное испытание атласа. Принесите фонари и хлеб для дорожного набора.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.safe.label": "Выбрать безопасный путь",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.safe.text": "Хорошо. Безопасный путь – не более слабое испытание; он просто проверяет, способен ли атлас оставить людей сытыми и не дать им идти в темноте.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.label": "Об испытании атласа",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.lines": [
+      "Этот выбор постоянен. Безопасный путь требует сдачи припасов; рискованный сразу запускает засаду из 3 разбойников, гарантирует арбалет и даёт большую награду."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.response.details.label": "Повторить условия испытания",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.response.leave.label": "Я выберу",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.objective.choose_test_route.tracker.complete_text": "Вы выбрали {objective_choice_value} испытание атласа.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.objective.choose_test_route.tracker.text": "Выберите маршрут испытания атласа вместе с картографом.",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.decline.lines": [
+      "Тогда атлас продолжит изучать варианты вместо того, чтобы решиться."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.leave.lines": [
+      "Испытание полезно только тогда, когда вы выбираете честно."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.reminder_details.action.remind.lines.reminder": [
+      "Этот выбор постоянен: безопасный путь требует 4 фонаря и 8 буханок хлеба; рискованный выпускает 3 разбойников, гарантирует арбалет как доказательство и даёт большую награду."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас это испытание не активно."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.ui.tracker_text": "Выберите безопасный или рискованный маршрут испытания атласа.",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.label": "Об испытании атласа",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.lines": [
+      "Для рискованного пути нужно доказательство, что опасность не была выдумана за безопасным столом."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.response.details.label": "Повторить условия патруля",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.bring_crossbow.tracker.complete_text": "Доказательство патруля готово.",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.bring_crossbow.tracker.text": "Возьмите 1 арбалет как доказательство победы над рискованным патрулём.",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.kill_pillagers.tracker.complete_text": "Рискованный путь защищён.",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.kill_pillagers.tracker.text": "Победите 3 разбойников, чтобы доказать, что рискованный путь можно защитить.",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.scene.leave.lines": [
+      "Риск не становится смелостью, пока кто-то не вернётся и не расскажет о нём."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.scene.reminder_details.action.remind.lines.reminder": [
+      "Победите 3 разбойников и принесите арбалет как доказательство прохождения рискованного маршрута."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас это испытание не активно."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.ui.tracker_text": "Победите 3 разбойников и принесите арбалет для испытания рискованного маршрута.",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.label": "Об испытании атласа",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.lines": [
+      "Вы выбрали рискованный путь и вернулись с доказательством. Эту часть атлас подделать не может."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.response.complete.label": "Завершить рискованное испытание",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.complete_risky.action.turn_in.lines.completed": [
+      "Рискованное испытание пройдено. Теперь атлас знает, что опасность можно измерять, не преклоняясь перед ней."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.complete_risky.action.turn_in.lines.missing_objectives": [
+      "Для рискованного испытания всё ещё нужно доказательство."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.complete_risky.action.turn_in.lines.unavailable": [
+      "Мне всё ещё нужно доказательство победы над патрулём, прежде чем считать испытание пройденным."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.leave.lines": [
+      "Принесите доказательство, когда будете готовы."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.ui.tracker_text": "Вернитесь к картографу после рискованного патруля.",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.label": "Об испытании атласа",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.lines": [
+      "Безопасный путь со светом и едой. Не слишком эффектно – именно поэтому полезно."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.response.complete.label": "Завершить безопасное испытание",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.complete_safe.action.turn_in.lines.completed": [
+      "Безопасное испытание пройдено. Теперь атлас знает, что милосердие тоже может быть маршрутом."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.complete_safe.action.turn_in.lines.missing_objectives": [
+      "В наборе безопасного пути всё ещё не хватает предметов."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.complete_safe.action.turn_in.lines.unavailable": [
+      "Мне всё ещё нужен набор безопасного пути, прежде чем считать испытание пройденным."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.leave.lines": [
+      "Принесите набор, когда будете готовы."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.ui.tracker_text": "Вернитесь к картографу с набором безопасного пути.",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.label": "Об испытании атласа",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.lines": [
+      "Безопасному пути тоже нужно доказательство. Принесите фонари и хлеб – то, что путник замечает лишь тогда, когда этого не хватает."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.response.details.label": "Повторить список снаряжения",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_bread.tracker.complete_text": "Запас еды готов.",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_bread.tracker.text": "Принесите 8 буханок хлеба для набора безопасного пути.",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_lanterns.tracker.complete_text": "Фонари готовы.",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_lanterns.tracker.text": "Принесите 4 фонаря, чтобы осветить маршрут, которым можно пользоваться снова и снова.",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.scene.leave.lines": [
+      "Безопасный путь тоже заслуживает уважения."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 4 фонаря и 8 буханок хлеба для испытания безопасного маршрута."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас это испытание не активно."
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.ui.tracker_text": "Принесите 4 фонаря и 8 буханок хлеба для испытания безопасного маршрута.",
+    "quest.cartographers_atlas.the_atlas_test.title": {
+      "lines": [
+        "Испытание атласа"
+      ]
+    },
+    "quest.cartographers_atlas.the_atlas_test.tracker.title": {
+      "lines": [
+        "Испытание атласа"
+      ]
+    }
+  }
+}

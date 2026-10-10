@@ -1,0 +1,115 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.first_far_marker.description": {
+      "lines": [
+        "Следуйте к первой отметке атласа, доберитесь до руин тропы и закрепите маршрут медью."
+      ]
+    },
+    "quest.cartographers_atlas.first_far_marker.event.roads_principle_kit.action.notification.text": "Принцип дороги: первая экспедиция добавляет компас и железный дорожный набор.",
+    "quest.cartographers_atlas.first_far_marker.event.wonders_principle_kit.action.notification.text": "Принцип чудес: первая экспедиция добавляет подзорную трубу и аметистовый набор для разведки.",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.label": "О первой дальней отметке",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.lines": [
+      "Руины тропы возле {target_x}, {target_z}. Принесите кисть и медь, чтобы атлас больше не гадал."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.label": "О первой дальней отметке",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.lines": [
+      "Вы добрались до старой отметки? Тогда покажите, что оставила после себя дорога."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.response.complete.label": "Передать полевые записи",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Первая дальняя отметка нанесена чернилами. Теперь у атласа есть доказательство, что его дороги касаются настоящей пыли."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для маршрута всё ещё нужно посетить руины, подготовить кисть и принести медь для пластин отметки."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Возьмите кисть и принесите медь, прежде чем я отмечу маршрут."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Сначала доберитесь до руин тропы. Кисть без пыли – просто инструмент."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для этой отметки всё ещё нужны полевые доказательства, прежде чем я смогу завершить её."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.leave.lines": [
+      "Берегите поля страницы."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.reminder_details.action.remind.lines.reminder": [
+      "Руины тропы возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Доберитесь до руин, возьмите кисть и принесите 8 медных слитков."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас эта отметка для вас не открыта."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.ui.tracker_text": "Вернитесь к картографу с полевыми записями и медью.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.label": "Первая дальняя отметка",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.lines": [
+      "Первый лист нашёл под чернилами старую дорогу. Если стол не ошибается, это руины тропы.",
+      "Доберитесь до руин, возьмите кисть и принесите медь для пластин отметки. Атлас должен понять, что путешествие – не всегда прямая линия."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.response.accept.label": "Отметить маршрут",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.label": "О первой дальней отметке",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.lines": [
+      "Первая отметка всё ещё ждёт в поле."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.bring_copper.tracker.complete_text": "Медные пластины для отметки готовы.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.bring_copper.tracker.text": "Принесите 8 медных слитков для пластин отметки.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.carry_brush.tracker.complete_text": "Кисть для полевых записей готова.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.carry_brush.tracker.text": "Возьмите кисть, чтобы исследовать руины, не разрушая их.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.visit_ruins.tracker.complete_text": "Первая дальняя отметка посещена.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.visit_ruins.tracker.text": "Доберитесь до руин тропы возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_confirm.lines": [
+      "Пока убрать первую дальнюю отметку?"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_confirm.response.cancel.label": "Оставить задание активным",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Пока я уберу эту отметку."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас нет активного маршрута, который можно убрать."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.decline.lines": [
+      "Старые дороги умеют ждать. Обычно."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.leave.lines": [
+      "Берегите поля страницы."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Руины тропы возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}. Доберитесь до руин, возьмите кисть и принесите 8 медных слитков."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас эта отметка для вас не открыта."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Первая дальняя отметка уже нанесена."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Сегодня старая дорога не хочет лежать смирно на столе."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Руины находятся примерно в {distance} блоках в направлении {direction}, возле {target_x}, {target_z}. Доберитесь до них, возьмите кисть и принесите обратно 8 медных слитков."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Атласу сначала нужны бумага и направления, иначе эта отметка ничего не значит."
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.ui.tracker_text": "Доберитесь до руин тропы возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.first_far_marker.title": {
+      "lines": [
+        "Первая дальняя отметка"
+      ]
+    },
+    "quest.cartographers_atlas.first_far_marker.tracker.title": {
+      "lines": [
+        "Первая дальняя отметка"
+      ]
+    }
+  }
+}

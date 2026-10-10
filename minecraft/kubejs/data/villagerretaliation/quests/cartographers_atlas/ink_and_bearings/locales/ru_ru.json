@@ -1,0 +1,133 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.ink_and_bearings.description": {
+      "lines": [
+        "Подготовьте указатель атласа и решите, чему будет отдан его первый принцип: дорогам или чудесам."
+      ]
+    },
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.label": "О чернилах и направлениях",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.lines": [
+      "Указатель готов. Этот принцип выбирается навсегда: дороги дадут в первой экспедиции практичные припасы для навигации, а чудеса – редкие инструменты для разведки."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.response.details.label": "Повторить выбор",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.response.leave.label": "Я выберу",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.objective.choose_principle.tracker.complete_text": "Выбран принцип атласа: {objective_choice_value}.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.objective.choose_principle.tracker.text": "Выберите принцип атласа вместе с картографом.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.roads.action.notification.text": "Атлас будет отдавать предпочтение надёжным дорогам.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.roads.label": "Выбрать надёжные дороги",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.roads.text": "Выбран принцип атласа: дороги.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.wonders.action.notification.text": "Атлас будет отдавать предпочтение необычным чудесам.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.wonders.label": "Выбрать необычные чудеса",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.wonders.text": "Выбран принцип атласа: чудеса.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.scene.leave.lines": [
+      "Выберите то, чему готовы следовать дальше."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.scene.reminder_details.action.remind.lines.reminder": [
+      "Выберите дороги, чтобы получить набор экспедиции с компасом и железом, или чудеса, чтобы получить набор с подзорной трубой и аметистом. Этот принцип выбирается навсегда."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот принцип атласа не активен."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.ui.tracker_text": "Выберите принцип атласа в диалоге с картографом.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.label": "Чернила и направления",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.lines": [
+      "Пустой атлас может стать дневником, предупреждением или полкой для трофеев. Нам стоит выбрать для него что-то лучше.",
+      "Принесите перья для письма и стекло для указателя. Затем сделайте постоянный выбор атласа: дороги подготовят маршрутный набор с компасом и железом, а чудеса – набор для разведки с подзорной трубой и аметистом для первой экспедиции."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.response.accept.label": "Подготовить указатель",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.label": "О чернилах и направлениях",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.lines": [
+      "Прежде чем выбрать первое правило атласа, для его указателя всё ещё нужны хорошие перья и стеклянные панели."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.response.details.label": "Повторите список",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_feathers.tracker.complete_text": "Перья для карт готовы.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_feathers.tracker.text": "Принесите 2 пера для картографических записей.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_glass.tracker.complete_text": "Стеклянные панели для указателя готовы.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_glass.tracker.text": "Принесите 6 стеклянных панелей, чтобы защитить страницы указателя.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_confirm.lines": [
+      "Пока отложить указатель атласа?"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_confirm.response.cancel.label": "Оставить указатель",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Я оставлю указатель несшитым, пока вы не вернётесь."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас указатель атласа не открыт."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.decline.lines": [
+      "Тогда атлас может подождать, прежде чем обзаводиться собственными предпочтениями."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.leave.lines": [
+      "Хорошее направление не потеряется из-за паузы."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 2 пера и 6 стеклянных панелей. Когда указатель будет готов, решите, чему атлас отдаст предпочтение: дорогам или чудесам."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас указатель атласа для вас не открыт."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.start_quest.action.start.lines.already_completed": [
+      "Первый принцип атласа уже выбран."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.start_quest.action.start.lines.started": [
+      "Принесите 2 пера и 6 стеклянных панелей. Хорошим картам нужны чёткие линии и ещё более ясные намерения."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.start_quest.action.start.lines.unavailable": [
+      "Сначала нужно собрать первый лист атласа, иначе указатель не имеет смысла."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.ui.tracker_text": "Принесите 2 пера и 6 стеклянных панелей для указателя атласа.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.label": "О чернилах и направлениях",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.lines": [
+      "Значит, дороги. Карта прежде всего должна помогать людям возвращаться домой."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.response.complete.label": "Выбрать принцип дорог",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.complete_quest.action.turn_in.lines.completed": [
+      "Я вписал дороги в указатель. Теперь атлас сначала будет искать путь назад, а уже потом – славу."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Сначала выберите принцип атласа, и только потом я закреплю указатель."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для указателя всё ещё нужно доказательство, о котором мы договорились."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.leave.lines": [
+      "Хорошая дорога ждёт с обоих концов."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.ui.tracker_text": "Вернитесь к картографу, чтобы закрепить принцип дорог.",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.label": "О чернилах и направлениях",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.lines": [
+      "Значит, чудеса. На карте должно оставаться место для невозможного."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.response.complete.label": "Выбрать принцип чудес",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.complete_quest.action.turn_in.lines.completed": [
+      "Я вписал чудеса в указатель. Теперь атлас не примет трудную дорогу за пустое место."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Сначала выберите принцип атласа, и только потом я закреплю указатель."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для указателя всё ещё нужно доказательство, о котором мы договорились."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.leave.lines": [
+      "Чудо кажется невозможным лишь до тех пор, пока кто-нибудь его не запишет."
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.ui.tracker_text": "Вернитесь к картографу, чтобы закрепить принцип чудес.",
+    "quest.cartographers_atlas.ink_and_bearings.title": {
+      "lines": [
+        "Чернила и направления"
+      ]
+    },
+    "quest.cartographers_atlas.ink_and_bearings.tracker.title": {
+      "lines": [
+        "Чернила и направления"
+      ]
+    }
+  }
+}

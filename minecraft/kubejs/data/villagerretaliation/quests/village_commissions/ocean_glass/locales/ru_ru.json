@@ -1,0 +1,117 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.ocean_glass.description": "Исследуйте океанский монумент и добудьте светящиеся призмариновые материалы.",
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.label": "О свете в глубине",
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.lines": [
+      "Холодный свет из морских глубин. Стол картографа ещё никогда не выглядел так ярко.",
+      "Море сохранило свой монумент, но теперь у нас есть его координаты и частица его света.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Холодный свет из морских глубин. Стол картографа ещё никогда не выглядел так ярко.",
+      "Море сохранило свой монумент, но теперь у нас есть его координаты и частица его света.",
+      "С этим всё. Деревне это пригодится."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Чего-то всё ещё не хватает. Проверь журнал, прежде чем я закрою запись.",
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Свет в глубине сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.turn_in_wait.lines": [
+      "Отметка монумента, 12 кристаллов призмарина и 1 морской фонарь. Следите за взглядами стражей.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.label": "Свет в глубине",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.lines": [
+      "У берега есть океанский монумент, сияющий там, куда не ведёт ни одна деревенская дорога.",
+      "Отметьте его положение и принесите яркий светящийся материал, который стражи хранят в глубине.",
+      "Исследуйте отмеченный океанский монумент, затем принесите 12 кристаллов призмарина и 1 морской фонарь. Награда будет стоить этих усилий."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.label": "О свете в глубине",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.lines": [
+      "Отметка монумента, 12 кристаллов призмарина и 1 морской фонарь. Следите за взглядами стражей.",
+      "Исследуйте отмеченный океанский монумент, затем принесите 12 кристаллов призмарина и 1 морской фонарь.",
+      "Отметьте его положение и принесите яркий светящийся материал, который стражи хранят в глубине."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_crystals.tracker.complete_text": "Кристаллы призмарина готовы.",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_crystals.tracker.text": "Принесите 12 кристаллов призмарина.",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_lantern.tracker.complete_text": "Морской фонарь готов.",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_lantern.tracker.text": "Принесите 1 морской фонарь.",
+    "quest.village_commissions.ocean_glass.stage.work.objective.visit_monument.tracker.complete_text": "Океанский монумент исследован.",
+    "quest.village_commissions.ocean_glass.stage.work.objective.visit_monument.tracker.text": "Доберитесь до отмеченного океанского монумента.",
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_confirm.lines": [
+      "Отложить свет в глубине?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Свет в глубине сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.decline.lines": [
+      "Разумно. В глубокой воде не лучшее место для сомнений.",
+      "Эту работу может взять кто-то другой, или ты сможешь спросить снова позже."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.leave.lines": [
+      "Отметка монумента, 12 кристаллов призмарина и 1 морской фонарь. Следите за взглядами стражей.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "Отметка монумента, 12 кристаллов призмарина и 1 морской фонарь. Следите за взглядами стражей.",
+      "Исследуйте отмеченный океанский монумент, затем принесите 12 кристаллов призмарина и 1 морской фонарь.",
+      "Отметьте его положение и принесите яркий светящийся материал, который стражи хранят в глубине."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Свет в глубине сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "Со светом в глубине пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.started": [
+      "Возьмите двери, зелья или очень хороший план, как не задохнуться.",
+      "Исследуйте отмеченный океанский монумент, затем принесите 12 кристаллов призмарина и 1 морской фонарь.",
+      "Хорошо. Я оставлю свободное место для того, что ты принесёшь."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Свет в глубине сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.ui.tracker_text": "Исследуйте отмеченный океанский монумент, затем принесите 12 кристаллов призмарина и 1 морской фонарь.",
+    "quest.village_commissions.ocean_glass.title": "Свет в глубине"
+  }
+}

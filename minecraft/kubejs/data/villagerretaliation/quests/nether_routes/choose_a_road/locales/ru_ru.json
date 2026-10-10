@@ -1,0 +1,145 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.choose_a_road.description": "Выберите маршрут через крепость или бастион в Незере.",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.metadata.title": "Выбор дороги Незера",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.step.bastion_charge.data.text": "Дорога бастиона. Следите за брутальными пиглинами, не доверяйте открытым сундукам и принесите золочёный чернит для журнала маршрутов.",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.step.fortress_charge.data.text": "Дорога крепости. Следите за огнём всполохов перед каждым переходом и принесите огненные стержни для отметки безопасных поворотов.",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.step.unroll_the_route.data.text": "Угольный маршрут определён. Теперь каждая метка должна выдержать огонь и плохие решения.",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.label": "О выборе дороги",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.lines": [
+      "Направление к бастиону верное, а золочёный чернит подтверждает, что вы пересекли его стены.",
+      "Дорога бастиона отмечена. Заключительный маршрут пройдёт через разбитое золото."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Дорога бастиона отмечена. Заключительный маршрут пройдёт через разбитое золото.",
+      "Направление к бастиону верное, а золочёный чернит подтверждает, что вы пересекли его стены."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Доберитесь до отметки бастиона, одолейте 2 брутальных пиглинов и принесите 4 золочёных чернита."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.label": "О выборе дороги",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.lines": [
+      "Доберитесь до отметки бастиона, одолейте 2 брутальных пиглинов и принесите 4 золочёных чернита.",
+      "Дорога бастиона. Наденьте золото, следите за брутальными пиглинами и не трогайте руками то, чем любуетесь."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.bring_gilded_stone.tracker.complete_text": "Золочёный чернит готов.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.bring_gilded_stone.tracker.text": "Принесите 4 золочёных чернита.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.defeat_brutes.tracker.complete_text": "2 брутальных пиглина устранены.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.defeat_brutes.tracker.text": "Одолейте 2 брутальных пиглинов.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.visit_bastion.tracker.complete_text": "Маршрут к бастиону отмечен.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.visit_bastion.tracker.text": "Доберитесь до отмеченных развалин бастиона.",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Доберитесь до отметки бастиона, одолейте 2 брутальных пиглинов и принесите 4 золочёных чернита.",
+      "Дорога бастиона. Наденьте золото, следите за брутальными пиглинами и не трогайте руками то, чем любуетесь."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.ui.tracker_text": "Доберитесь до отметки бастиона, одолейте 2 брутальных пиглинов и принесите 4 золочёных чернита.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.label": "Выбор дороги",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.lines": [
+      "Дорога через Незер может идти по мостам крепости или вдоль стен бастиона. В одном месте полно огня, в другом – хозяев.",
+      "Этот выбор закроет другую дорогу Незера. Путь крепости даёт редкий шанс получить череп визер-скелета, а более сложный путь бастиона – редкий шанс получить древние обломки."
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.bastion.action.notification.text": "Вы выбрали дорогу к развалинам бастиона.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.bastion.label": "Следовать к бастиону",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.bastion.text": "Дорога бастиона. Наденьте золото, следите за брутальными пиглинами и не трогайте руками то, чем любуетесь.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.fortress.action.notification.text": "Вы выбрали дорогу к крепости Незера.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.fortress.label": "Следовать к крепости",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.fortress.text": "Дорога крепости. Отмечайте каждый мост и не стойте там, где всполох может обстреливать вас с двух сторон.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.label": "О выборе дороги",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.lines": [
+      "Дорога через Незер может идти по мостам крепости или вдоль стен бастиона. В одном месте полно огня, в другом – хозяев.",
+      "Этот выбор закроет другую дорогу Незера. Путь крепости даёт редкий шанс получить череп визер-скелета, а более сложный путь бастиона – редкий шанс получить древние обломки."
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.bastion.action.notification.text": "Вы выбрали дорогу к развалинам бастиона.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.bastion.label": "Следовать к бастиону",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.bastion.text": "Дорога бастиона. Наденьте золото, следите за брутальными пиглинами и не трогайте руками то, чем любуетесь.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.decline.label": "Ещё нет.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.details.label": "Напомните выбор.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.fortress.action.notification.text": "Вы выбрали дорогу к крепости Незера.",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.fortress.label": "Следовать к крепости",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.fortress.text": "Дорога крепости. Отмечайте каждый мост и не стойте там, где всполох может обстреливать вас с двух сторон.",
+    "quest.nether_routes.choose_a_road.stage.choose.objective.choose_route.tracker.complete_text": "Выбранный путь: {objective_choice_value}.",
+    "quest.nether_routes.choose_a_road.stage.choose.objective.choose_route.tracker.text": "Выберите путь у выдавшего задание.",
+    "quest.nether_routes.choose_a_road.stage.choose.scene.decline.lines": [
+      "Тогда портал останется дверью без дороги."
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "Дорога через Незер может идти по мостам крепости или вдоль стен бастиона. В одном месте полно огня, в другом – хозяев.",
+      "Этот выбор закроет другую дорогу Незера. Путь крепости даёт редкий шанс получить череп визер-скелета, а более сложный путь бастиона – редкий шанс получить древние обломки."
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот выбор недоступен."
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.ui.tracker_text": "Выберите путь.",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.label": "О выборе дороги",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.lines": [
+      "Направления мостов понятны, а число всполохов записано пеплом.",
+      "Дорога крепости отмечена. Заключительный маршрут пройдёт по чёрным кирпичам."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Дорога крепости отмечена. Заключительный маршрут пройдёт по чёрным кирпичам.",
+      "Направления мостов понятны, а число всполохов записано пеплом."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Доберитесь до отметки крепости, одолейте 4 всполохов и принесите 2 огненных стержня."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.label": "О выборе дороги",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.lines": [
+      "Доберитесь до отметки крепости, одолейте 4 всполохов и принесите 2 огненных стержня.",
+      "Дорога крепости. Отмечайте каждый мост и не стойте там, где всполох может обстреливать вас с двух сторон."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.bring_rods.tracker.complete_text": "Огненные стержни готовы.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.bring_rods.tracker.text": "Принесите 2 огненных стержня.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.defeat_blazes.tracker.complete_text": "4 всполоха устранены.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.defeat_blazes.tracker.text": "Одолейте 4 всполохов.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.visit_fortress.tracker.complete_text": "Маршрут к крепости отмечен.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.visit_fortress.tracker.text": "Доберитесь до отмеченной крепости Незера.",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Доберитесь до отметки крепости, одолейте 4 всполохов и принесите 2 огненных стержня.",
+      "Дорога крепости. Отмечайте каждый мост и не стойте там, где всполох может обстреливать вас с двух сторон."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.ui.tracker_text": "Доберитесь до отметки крепости, одолейте 4 всполохов и принесите 2 огненных стержня.",
+    "quest.nether_routes.choose_a_road.title": "Выбор дороги"
+  }
+}

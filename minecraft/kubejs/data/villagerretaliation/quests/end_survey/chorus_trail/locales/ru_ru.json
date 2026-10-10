@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.end_survey.chorus_trail.description": "Нанесите ветку хоруса на карту, собрав цветки и приготовленные плоды.",
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.label": "О хорусе",
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.lines": [
+      "Тропа хоруса нанесена на карту от корня до цветка. Живая ветка завершена.",
+      "Теперь рядом с архивом можно вырастить маленький фрагмент внешнего Энда и наблюдать за ним.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Тропа хоруса нанесена на карту от корня до цветка. Живая ветка завершена.",
+      "Теперь рядом с архивом можно вырастить маленький фрагмент внешнего Энда и наблюдать за ним."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Хорус сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.turn_in_wait.lines": [
+      "Соберите 8 цветков, принесите 16 прожаренных плодов и 32 эндерняка.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.end_survey.chorus_trail.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.label": "Хорус",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.lines": [
+      "Первая отметка хоруса верна. Теперь нанесите на карту, как рощи тянутся от острова к острову.",
+      "Соберите живые цветки, приготовьте плоды и принесите камень, на котором их можно вырастить рядом с архивом.",
+      "Соберите 8 цветков хоруса и принесите 16 прожаренных плодов хоруса и 32 эндерняка."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.label": "О хорусе",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.lines": [
+      "Соберите 8 цветков, принесите 16 прожаренных плодов и 32 эндерняка.",
+      "Соберите 8 цветков хоруса и принесите 16 прожаренных плодов хоруса и 32 эндерняка.",
+      "Соберите живые цветки, приготовьте плоды и принесите камень, на котором их можно вырастить рядом с архивом."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_end_stone.tracker.complete_text": "Эндерняк готов.",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_end_stone.tracker.text": "Принесите 32 эндерняка для грядки.",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_popped_fruit.tracker.complete_text": "Прожаренные плоды хоруса готовы.",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_popped_fruit.tracker.text": "Принесите 16 прожаренных плодов хоруса.",
+    "quest.end_survey.chorus_trail.stage.work.objective.harvest_flowers.tracker.complete_text": "Цветки хоруса собраны.",
+    "quest.end_survey.chorus_trail.stage.work.objective.harvest_flowers.tracker.text": "Соберите 8 цветков хоруса.",
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_confirm.lines": [
+      "Отложить хорус?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Хорус сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.decline.lines": [
+      "Тогда пусть хорус продолжает расти сразу во всех направлениях."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.leave.lines": [
+      "Соберите 8 цветков, принесите 16 прожаренных плодов и 32 эндерняка.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "Соберите 8 цветков, принесите 16 прожаренных плодов и 32 эндерняка.",
+      "Соберите 8 цветков хоруса и принесите 16 прожаренных плодов хоруса и 32 эндерняка.",
+      "Соберите живые цветки, приготовьте плоды и принесите камень, на котором их можно вырастить рядом с архивом."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Хорус сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С хорусом пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.started": [
+      "Сначала срезайте цветки. Хорус без верхушки – всего лишь разваливающаяся фиолетовая лестница.",
+      "Соберите 8 цветков хоруса и принесите 16 прожаренных плодов хоруса и 32 эндерняка."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Хорус сейчас недоступен.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.end_survey.chorus_trail.stage.work.ui.tracker_text": "Соберите 8 цветков хоруса и принесите 16 прожаренных плодов хоруса и 32 эндерняка.",
+    "quest.end_survey.chorus_trail.title": "Хорус"
+  }
+}

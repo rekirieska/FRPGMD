@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.deep_delvers.iron_road.description": "Продлите рельсовую ветку глубже с помощью энергорельсов и грузовой вагонетки.",
+    "quest.deep_delvers.iron_road.stage.return.dialogue.turn_in.label": "О железной дороге",
+    "quest.deep_delvers.iron_road.stage.return.dialogue.turn_in.lines": [
+      "Железная дорога теперь сама тянет вагонетки вверх. Шахту можно продолжать глубже.",
+      "Полные вагонетки наружу, пустые внутрь. Вот так шахта начинает жить.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.deep_delvers.iron_road.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.deep_delvers.iron_road.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Железная дорога теперь сама тянет вагонетки вверх. Шахту можно продолжать глубже.",
+      "Полные вагонетки наружу, пустые внутрь. Вот так шахта начинает жить."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Железная дорога сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.scene.turn_in_wait.lines": [
+      "8 энергорельсов, 8 редстоуновых факелов и 1 грузовая вагонетка.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.deep_delvers.iron_road.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.offer.label": "Железная дорога",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.offer.lines": [
+      "Первые рельсы работают, но на глубоком уклоне полные вагонетки катятся назад, а пустые вообще никуда не едут.",
+      "Оснастите крутой участок энергорельсами и принесите в шахту вагонетку для грузов.",
+      "Разместите 8 энергорельсов, затем принесите 8 редстоуновых факелов и 1 грузовую вагонетку."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.reminder.label": "О железной дороге",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.reminder.lines": [
+      "8 энергорельсов, 8 редстоуновых факелов и 1 грузовая вагонетка.",
+      "Разместите 8 энергорельсов, затем принесите 8 редстоуновых факелов и 1 грузовую вагонетку.",
+      "Оснастите крутой участок энергорельсами и принесите в шахту вагонетку для грузов."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.deep_delvers.iron_road.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.deep_delvers.iron_road.stage.work.objective.bring_freight_cart.tracker.complete_text": "Грузовая вагонетка готова.",
+    "quest.deep_delvers.iron_road.stage.work.objective.bring_freight_cart.tracker.text": "Принесите 1 грузовую вагонетку.",
+    "quest.deep_delvers.iron_road.stage.work.objective.bring_torches.tracker.complete_text": "Редстоуновые факелы готовы.",
+    "quest.deep_delvers.iron_road.stage.work.objective.bring_torches.tracker.text": "Принесите 8 редстоуновых факелов.",
+    "quest.deep_delvers.iron_road.stage.work.objective.power_line.tracker.complete_text": "Энергорельсы установлены.",
+    "quest.deep_delvers.iron_road.stage.work.objective.power_line.tracker.text": "Разместите 8 энергорельсов.",
+    "quest.deep_delvers.iron_road.stage.work.scene.abandon_confirm.lines": [
+      "Отложить железную дорогу?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.deep_delvers.iron_road.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.deep_delvers.iron_road.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Железная дорога сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.decline.lines": [
+      "Тогда толкайте осторожно. Уклон уже выбрал любимое направление."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.leave.lines": [
+      "8 энергорельсов, 8 редстоуновых факелов и 1 грузовая вагонетка.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "8 энергорельсов, 8 редстоуновых факелов и 1 грузовая вагонетка.",
+      "Разместите 8 энергорельсов, затем принесите 8 редстоуновых факелов и 1 грузовую вагонетку.",
+      "Оснастите крутой участок энергорельсами и принесите в шахту вагонетку для грузов."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Железная дорога сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С железной дорогой пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.start_quest.action.start.lines.started": [
+      "Проверьте торможение до загрузки. Руда умеет ждать, вагонетки – нет.",
+      "Разместите 8 энергорельсов, затем принесите 8 редстоуновых факелов и 1 грузовую вагонетку."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Железная дорога сейчас недоступна.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.deep_delvers.iron_road.stage.work.ui.tracker_text": "Разместите 8 энергорельсов, затем принесите 8 редстоуновых факелов и 1 грузовую вагонетку.",
+    "quest.deep_delvers.iron_road.title": "Железная дорога"
+  }
+}

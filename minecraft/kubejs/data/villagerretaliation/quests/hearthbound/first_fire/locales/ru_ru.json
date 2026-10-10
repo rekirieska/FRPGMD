@@ -1,0 +1,72 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.hearthbound.first_fire.description": "Помоги повару собрать первые общие припасы для деревенского очага.",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.label": "Растопка",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.lines": [
+      "Деревня становится устойчивой не потому, что один человек хорошо поел. Она становится устойчивой, когда есть тёплое место, которому люди доверяют.",
+      "Принеси 1 костёр, 6 единиц древесного угля, 6 мисок и 6 жареных тресок. Так у первого огня появятся и место, и смысл."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.response.accept.label": "Я помогу устроить очаг.",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.response.decline.label": "В другой раз.",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.label": "О Растопке",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.lines": [
+      "Для первого огня всё ещё нужны костёр, древесный уголь, миски и жареная треска. Список не изменится, пока очаг не будет готов."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.response.details.label": "Повтори список припасов.",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.response.leave.label": "Я всё принесу.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_bowls.tracker.complete_text": "Миски готовы.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_bowls.tracker.text": "Принеси 6 мисок для первой общей трапезы.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_campfire.tracker.complete_text": "Очаг можно устанавливать.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_campfire.tracker.text": "Принеси 1 костёр для общего очага.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_charcoal.tracker.complete_text": "Для огня достаточно чистого топлива.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_charcoal.tracker.text": "Принеси 6 единиц древесного угля, чтобы первый огонь горел чисто.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_cooked_cod.tracker.complete_text": "Рыбы для еды достаточно.",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_cooked_cod.tracker.text": "Принеси 6 жареных тресок для первых котелков.",
+    "quest.hearthbound.first_fire.stage.kindle.scene.decline.lines": [
+      "Ладно. Холодный котелок может подождать, но добрее от этого он не становится."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.leave.lines": [
+      "Держи древесный уголь сухим. Сырое топливо заставляет всех притворяться, что они не жалуются."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 1 костёр, 6 единиц древесного угля, 6 мисок и 6 жареных тресок для общего очага."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас эта запись об очаге у меня не открыта."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.start_quest.action.start.lines.already_completed": [
+      "Первый огонь уже согревает деревню."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.start_quest.action.start.lines.started": [
+      "Хорошо. Принеси 1 костёр, 6 единиц древесного угля, 6 мисок и 6 жареных тресок. Это полный список для этого очага."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.start_quest.action.start.lines.unavailable": [
+      "Очаг сейчас не готов просить о помощи."
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.ui.tracker_text": "Принеси 1 костёр, 6 единиц древесного угля, 6 мисок и 6 жареных тресок.",
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.label": "О Растопке",
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.lines": [
+      "Огонь, миски и еда. Этого достаточно, чтобы помещение перестало казаться временным."
+    ],
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.response.complete.label": "Установить очаг.",
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Вот и всё. Первый огонь пока не слишком впечатляет, но люди будут стоять к нему ближе, чем готовы признать."
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Прежде чем зажечь очаг, всё ещё нужны костёр, древесный уголь, миски или жареная рыба."
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси сюда припасы для очага, прежде чем мы начнём что-либо устанавливать."
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу закрыть запись об очаге."
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.leave.lines": [
+      "Принеси всё вместе. Разбросанный уют всё ещё остаётся разбросанным."
+    ],
+    "quest.hearthbound.first_fire.stage.return.ui.tracker_text": "Вернись с припасами для очага.",
+    "quest.hearthbound.first_fire.title": "Растопка"
+  }
+}

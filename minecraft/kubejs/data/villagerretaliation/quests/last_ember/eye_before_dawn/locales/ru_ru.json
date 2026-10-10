@@ -1,0 +1,86 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.eye_before_dawn.description": "Подготовьте записи Последнего уголька к вратам, собрав ока Эндера и мужество встретить то, что откликнется на них.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.label": "Перед рассветом",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.lines": [
+      "Жемчуг и огонь указывают на дверь, которой безразлично, готов ли кто-нибудь войти.",
+      "Принесите ока Эндера и докажите, что способны встретиться со смотрящей темнотой. Деревне нужен этот урок до врат, а не после."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.response.accept.label": "Я подготовлюсь к вратам.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.label": "О времени перед рассветом",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.lines": [
+      "Одолейте эндерменов и принесите ока Эндера. Не стоит впервые дрожать от страха уже у самих врат."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.response.details.label": "Напомните работу с оками.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.response.leave.label": "Я разберусь.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.bring_eyes.tracker.complete_text": "Ока Эндера готовы.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.bring_eyes.tracker.text": "Принесите 3 ока Эндера для записей о вратах.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.defeat_endermen.tracker.complete_text": "Смотрящая темнота получила ответ.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.defeat_endermen.tracker.text": "Одолейте 3 эндерменов и не позволяйте страху написать этот урок за вас.",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.decline.lines": [
+      "Это нормально. Врата не станут добрее только потому, что вы спешите к ним."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.leave.lines": [
+      "Отводите взгляд, когда нужно. Мужество не в том, чтобы смотреть до тех пор, пока не сломаетесь."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.reminder_details.action.remind.lines.reminder": [
+      "Одолейте 3 эндерменов и принесите 3 ока Эндера для урока о вратах."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.reminder_details.action.remind.lines.unavailable": [
+      "Урок о вратах сейчас недоступен."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.start_quest.action.start.lines.already_completed": [
+      "Записи о вратах уже приведены в порядок."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.start_quest.action.start.lines.started": [
+      "Одолейте 3 эндерменов и принесите 3 ока Эндера. Сегодня мы ничего не открываем, а учимся не паниковать завтра."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.start_quest.action.start.lines.unavailable": [
+      "Урок о вратах сейчас не готов."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.ui.tracker_text": "Одолейте 3 эндерменов и принесите 3 ока Эндера.",
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.label": "О времени перед рассветом",
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.lines": [
+      "Записи готовы ждать врат. Возможно, это самая трудная часть."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.response.complete.label": "Запечатайте записи о вратах.",
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Третья запись говорит: дверь не становится судьбой, пока кто-то не пройдёт через неё."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "В уроке о вратах всё ещё чего-то не хватает."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда материалы для врат, прежде чем мы запечатаем записи."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу завершить урок о вратах."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.leave.lines": [
+      "Записи остаются открытыми, а значит, уязвимыми."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.ui.tracker_text": "Вернитесь с материалами для запечатывания записей о вратах.",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.label": "О времени перед рассветом",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.lines": [
+      "Ока достаточно хорошо указывают путь. Принесите эндер-сундук, чтобы записи могли ждать, не шепча из обычного ящика."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.response.details.label": "Напомните, что нужно для печати.",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.response.leave.label": "Я принесу это.",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.objective.bring_ender_chest.tracker.complete_text": "Эндер-сундук готов.",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.objective.bring_ender_chest.tracker.text": "Принесите 1 эндер-сундук, чтобы хранить записи Последнего уголька запечатанными.",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.scene.leave.lines": [
+      "Некоторые записи заслуживают крышки, которая умеет оставаться закрытой."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 1 эндер-сундук, чтобы запечатать записи Последнего уголька."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.scene.reminder_details.action.remind.lines.unavailable": [
+      "Урок о твёрдой руке может подождать, пока ока Эндера не будут готовы."
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.ui.tracker_text": "Принесите 1 эндер-сундук.",
+    "quest.last_ember.eye_before_dawn.title": "Перед рассветом"
+  }
+}

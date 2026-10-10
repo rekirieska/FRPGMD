@@ -1,0 +1,92 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.end_city_margin.description": {
+      "lines": [
+        "Добавьте маршрут к городу Энда в атлас и вернитесь с доказательством от шалкеров."
+      ]
+    },
+    "quest.cartographers_atlas.end_city_margin.event.atlas_finished.action.notification.text": "Поля Атласа картографа завершены.",
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.label": "О полях города Энда",
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.lines": [
+      "Вы принесли пыль внешних островов на своих сапогах. Позвольте мне переплести последнее поле атласа."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.response.complete.label": "Переплести поля города Энда",
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Вот и всё: деревенская дорога, дорога руин, выбранный горизонт, огненная дорога, последняя комната, внешний остров. Целый атлас, и вы собственными ногами превратили его линии в правду."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Для полей Энда всё ещё нужны направление к городу, шалкеры, панцири и плоды хоруса."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите панцири шалкера, прежде чем я переплету последнее поле."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "Панцири должны подтверждаться маршрутом к городу Энда."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Для полей Энда всё ещё нужно доказательство, прежде чем я смогу их завершить."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.leave.lines": [
+      "Не давайте панцирям греметь рядом с краем страницы."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.ui.tracker_text": "Вернитесь к картографу с завершённым полем атласа.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.label": "Поля города Энда",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.lines": [
+      "Город Энда не становится новым местом только потому, что его нет в этом атласе. На внешнем поле всё ещё нужна дорога туда, где расстояние перестаёт иметь привычный смысл.",
+      "Найдите город, отметьте его шалкеров и принесите панцири вместе с плодами хоруса. Так внешнее поле получит надёжную опору."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.response.accept.label": "Нанести поля Энда",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.label": "О полях города Энда",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.lines": [
+      "Для полей Энда всё ещё нужны направление к городу, доказательство от шалкеров, панцири и плоды хоруса."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.response.details.label": "Напомните, куда идти",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_chorus_fruit.tracker.complete_text": "Плоды хоруса подтверждают внешний маршрут.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_chorus_fruit.tracker.text": "Принесите 16 плодов хоруса с внешних островов.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_shulker_shells.tracker.complete_text": "Панцири шалкера готовы для обложки атласа.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_shulker_shells.tracker.text": "Принесите 2 панциря шалкера из города Энда.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.defeat_shulkers.tracker.complete_text": "Патруль шалкеров отмечен.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.defeat_shulkers.tracker.text": "Одолейте 2 шалкеров на маршруте города Энда.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.visit_end_city.tracker.complete_text": "Поля города Энда нанесены на карту.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.visit_end_city.tracker.text": "Доберитесь до города Энда возле {target_x}, {target_z}.",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.decline.lines": [
+      "Внешние острова никуда не денутся. Это одна из немногих их любезностей."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.leave.lines": [
+      "Закрепите страницу, прежде чем открывать её рядом с порталом."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "Город Энда возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}, измерение {target_dimension}. Одолейте 2 шалкеров и принесите 2 панциря шалкера и 16 плодов хоруса."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас поля Энда для вас не открыты."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "Поля города Энда уже завершены."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "Отметка города Энда слишком далеко, чтобы атлас мог определить её отсюда."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.started": [
+      "Отметка города находится возле {target_x}, {target_z}, примерно в {distance} блоках в направлении {direction}, измерение {target_dimension}. После нанесения маршрута принесите панцири шалкера и плоды хоруса."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "Атласу нужно направление к крепости, прежде чем можно будет нанести поля Энда."
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.ui.tracker_text": "Доберитесь до города Энда возле {target_x}, {target_z}, измерение {target_dimension}.",
+    "quest.cartographers_atlas.end_city_margin.title": {
+      "lines": [
+        "Поля города Энда"
+      ]
+    },
+    "quest.cartographers_atlas.end_city_margin.tracker.title": {
+      "lines": [
+        "Поля города Энда"
+      ]
+    }
+  }
+}

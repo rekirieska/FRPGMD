@@ -1,0 +1,115 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.compost_turn.description": "Поработайте с деревенскими компостницами и принесите костную муку на поля.",
+    "quest.village_commissions.compost_turn.stage.return.dialogue.turn_in.label": "О компостировании",
+    "quest.village_commissions.compost_turn.stage.return.dialogue.turn_in.lines": [
+      "Тёмная почва и полный мешок костной муки. Урожай это оценит.",
+      "Ничего не пропало зря, и ещё один ряд готов к посадке.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.village_commissions.compost_turn.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.village_commissions.compost_turn.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Тёмная почва и полный мешок костной муки. Урожай это оценит.",
+      "Ничего не пропало зря, и ещё один ряд готов к посадке.",
+      "С этим всё. Деревне это пригодится."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Чего-то всё ещё не хватает. Проверь журнал, прежде чем я закрою запись.",
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Компостирование сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.scene.turn_in_wait.lines": [
+      "Переработайте компост, затем принесите 8 костной муки в полевой сарай.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.village_commissions.compost_turn.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.offer.label": "Компостирование",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.offer.lines": [
+      "Компостницы заполнены слоями, но их содержимое давно не перемешивали.",
+      "Поработайте с компостницей 4 раза и оставьте 8 костной муки для полей.",
+      "Поработайте с компостницей 4 раза и принесите 8 костной муки. Награда будет стоить этих хлопот."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.reminder.label": "О компостировании",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.reminder.lines": [
+      "Переработайте компост, затем принесите 8 костной муки в полевой сарай.",
+      "Поработайте с компостницей 4 раза и принесите 8 костной муки.",
+      "Поработайте с компостницей 4 раза и оставьте 8 костной муки для полей."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.village_commissions.compost_turn.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.village_commissions.compost_turn.stage.work.objective.bring_bone_meal.tracker.complete_text": "Костная мука готова.",
+    "quest.village_commissions.compost_turn.stage.work.objective.bring_bone_meal.tracker.text": "Принесите 8 костной муки для полей.",
+    "quest.village_commissions.compost_turn.stage.work.objective.turn_compost.tracker.complete_text": "Компост переработан.",
+    "quest.village_commissions.compost_turn.stage.work.objective.turn_compost.tracker.text": "Поработайте с компостницей 4 раза.",
+    "quest.village_commissions.compost_turn.stage.work.scene.abandon_confirm.lines": [
+      "Отложить компостирование?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.village_commissions.compost_turn.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.village_commissions.compost_turn.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Компостирование сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.decline.lines": [
+      "Тогда компостная куча продолжит зреть без нас.",
+      "Эту работу может взять кто-то другой, или ты сможешь спросить снова позже."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.leave.lines": [
+      "Переработайте компост, затем принесите 8 костной муки в полевой сарай.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "Переработайте компост, затем принесите 8 костной муки в полевой сарай.",
+      "Поработайте с компостницей 4 раза и принесите 8 костной муки.",
+      "Поработайте с компостницей 4 раза и оставьте 8 костной муки для полей."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Компостирование сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С компостированием пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.start_quest.action.start.lines.started": [
+      "Хорошо. Этот запах означает, что компост работает, а не что вы ему понравились.",
+      "Поработайте с компостницей 4 раза и принесите 8 костной муки.",
+      "Хорошо. Я оставлю свободное место для того, что ты принесёшь."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Компостирование сейчас недоступно.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.village_commissions.compost_turn.stage.work.ui.tracker_text": "Поработайте с компостницей 4 раза и принесите 8 костной муки.",
+    "quest.village_commissions.compost_turn.title": "Компостирование"
+  }
+}

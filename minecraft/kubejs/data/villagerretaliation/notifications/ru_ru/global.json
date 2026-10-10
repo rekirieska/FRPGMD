@@ -1,0 +1,796 @@
+{
+  "notifications": [
+    {
+      "trigger": "gift.liked",
+      "text": "Подарок понравился: {item}",
+      "kind": "gift_liked",
+      "color": "green"
+    },
+    {
+      "trigger": "gift.neutral",
+      "text": "Подарок принят: {item}",
+      "kind": "gift_neutral",
+      "color": "gray"
+    },
+    {
+      "trigger": "gift.disliked",
+      "text": "Подарок не понравился: {item}",
+      "kind": "gift_disliked",
+      "color": "red"
+    },
+    {
+      "trigger": "gift.received_item",
+      "text": "Получен предмет: {item}",
+      "kind": "received_item",
+      "color": "aqua"
+    },
+    {
+      "trigger": "dialogue.map.found",
+      "text": "Найдено место назначения на карте: {target}",
+      "kind": "map_discovery",
+      "color": "#55AAFF"
+    },
+    {
+      "trigger": "dialogue.rumor.found",
+      "text": "Найдено место, о котором ходили слухи: {target}",
+      "kind": "map_discovery",
+      "color": "#55AAFF"
+    },
+    {
+      "trigger": "quest.started",
+      "text": "Начато задание: {quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.updated",
+      "text": "Задание обновлено: {quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.location_reached",
+      "text": "Достигнуто место задания: {quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.completed",
+      "text": "Задание выполнено: {quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.abandoned",
+      "text": "Задание брошено: {quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.expired",
+      "text": "Срок задания истёк: {quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.follow_start",
+      "text": "{villager} следует за вами.",
+      "kind": "villager_following",
+      "color": "#55FFAA"
+    },
+    {
+      "trigger": "recruitment.follow_stop",
+      "text": "{villager} больше не следует за вами.",
+      "kind": "villager_dismissed",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.stay_here",
+      "text": "{villager} останется здесь.",
+      "kind": "villager_following",
+      "color": "#55FFAA"
+    },
+    {
+      "trigger": "recruitment.move_freely",
+      "text": "{villager} снова может свободно перемещаться.",
+      "kind": "villager_dismissed",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.hired",
+      "text": "{villager} нанят.",
+      "kind": "villager_hired",
+      "color": "#55AAFF"
+    },
+    {
+      "trigger": "recruitment.fired",
+      "text": "{villager} уволен.",
+      "kind": "villager_fired",
+      "color": "#FFAA55"
+    },
+    {
+      "trigger": "party.villager_recruited",
+      "text": "{villager} присоединился к вашему отряду.",
+      "kind": "villager_following",
+      "color": "#55FFAA"
+    },
+    {
+      "trigger": "party.villager_dismissed",
+      "text": "{villager} покинул ваш отряд.",
+      "kind": "villager_dismissed",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.follower_death",
+      "text": "{villager} погиб, следуя за вами.",
+      "kind": "villager_death",
+      "color": "red"
+    },
+    {
+      "trigger": "recruitment.hired_death",
+      "text": "{villager} погиб, работая на вас.",
+      "kind": "villager_death",
+      "color": "red"
+    },
+    {
+      "trigger": "recruitment.betrayed_follower_death",
+      "text": "{villager} погиб после того, как вы предали его доверие.",
+      "kind": "villager_death",
+      "color": "red"
+    },
+    {
+      "trigger": "reputation.tier.royalty.improved",
+      "text": "{villager} теперь относится к вам как к королевской особе.",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.royalty.worsened",
+      "text": "{villager} больше не считает вас королевской особой.",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.improved",
+      "text": "{villager} теперь почитает вас.",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.worsened",
+      "text": "Почтение {villager_possessive} к вам ослабло.",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.respected.improved",
+      "text": "Вы чувствуете, что заслуживаете глубокое уважение {villager_possessive}.",
+      "color": "aqua"
+    },
+    {
+      "trigger": "reputation.tier.respected.worsened",
+      "text": "Вы чувствуете, что глубокое уважение {villager_possessive} к вам исчезает.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.trusted.improved",
+      "text": "Вы чувствуете, что завоёвываете доверие {villager_possessive}.",
+      "color": "green"
+    },
+    {
+      "trigger": "reputation.tier.trusted.worsened",
+      "text": "Вы чувствуете, что доверие {villager_possessive} к вам слабеет.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.improved",
+      "text": "{villager}, похоже, снова относится к вам нейтрально.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.worsened",
+      "text": "{villager}, похоже, снова относится к вам нейтрально.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.improved",
+      "text": "{villager}, похоже, меньше вас подозревает.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.worsened",
+      "text": "Вы чувствуете, что {villager} начинает вас подозревать.",
+      "color": "#FFAA55"
+    },
+    {
+      "trigger": "reputation.tier.hostile.improved",
+      "text": "{villager} больше не считает вас совершенно непростительным.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.hostile.worsened",
+      "text": "Вы чувствуете, что {villager} начинает относиться к вам враждебно.",
+      "color": "red"
+    },
+    {
+      "trigger": "reputation.tier.despised.improved",
+      "text": "Ненависть {villager_possessive} к вам ослабла.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.despised.worsened",
+      "text": "Вы чувствуете, что {villager} начинает вас презирать.",
+      "color": "dark_red"
+    },
+    {
+      "trigger": "reputation.tier.feared.improved",
+      "text": "{villager} больше не испытывает перед вами абсолютного страха.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.feared.worsened",
+      "text": "{villager} теперь боится вас.",
+      "color": "light_purple"
+    },
+    {
+      "trigger": "reputation.tier.royalty.improved.collapsed",
+      "text": "Крестьян, считающих вас королевской особой: {amount}.",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.royalty.worsened.collapsed",
+      "text": "Крестьян, больше не считающих вас королевской особой: {amount}.",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.improved.collapsed",
+      "text": "Крестьян, почитающих вас: {amount}.",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.worsened.collapsed",
+      "text": "Крестьян, чьё почтение к вам ослабло: {amount}.",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.respected.improved.collapsed",
+      "text": "Крестьян, глубоко уважающих вас: {amount}.",
+      "color": "aqua"
+    },
+    {
+      "trigger": "reputation.tier.respected.worsened.collapsed",
+      "text": "Крестьян, чьё глубокое уважение к вам ослабло: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.trusted.improved.collapsed",
+      "text": "Крестьян, доверяющих вам: {amount}.",
+      "color": "green"
+    },
+    {
+      "trigger": "reputation.tier.trusted.worsened.collapsed",
+      "text": "Крестьян, чьё доверие к вам ослабло: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.improved.collapsed",
+      "text": "Крестьян, снова относящихся к вам нейтрально: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.worsened.collapsed",
+      "text": "Крестьян, снова относящихся к вам нейтрально: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.improved.collapsed",
+      "text": "Крестьян, которые теперь меньше вас подозревают: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.worsened.collapsed",
+      "text": "Крестьян, начавших вас подозревать: {amount}.",
+      "color": "#FFAA55"
+    },
+    {
+      "trigger": "reputation.tier.hostile.improved.collapsed",
+      "text": "Крестьян, больше не считающих вас совершенно непростительным: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.hostile.worsened.collapsed",
+      "text": "Крестьян, ставших к вам враждебными: {amount}.",
+      "color": "red"
+    },
+    {
+      "trigger": "reputation.tier.despised.improved.collapsed",
+      "text": "Крестьян, чья ненависть к вам ослабла: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.despised.worsened.collapsed",
+      "text": "Крестьян, презирающих вас: {amount}.",
+      "color": "dark_red"
+    },
+    {
+      "trigger": "reputation.tier.feared.improved.collapsed",
+      "text": "Крестьян, больше не испытывающих перед вами абсолютного страха: {amount}.",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.feared.worsened.collapsed",
+      "text": "Крестьян, которые теперь боятся вас: {amount}.",
+      "color": "light_purple"
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "color": "#E9EEF5",
+      "reputation_levels": [
+        "royalty"
+      ],
+      "lines": [
+        "Наш герой",
+        "А вот и он",
+        "Добрый знак"
+      ],
+      "weight": 30
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "revered"
+      ],
+      "lines": [
+        "Хороший человек",
+        "Знакомое лицо",
+        "С возвращением"
+      ],
+      "weight": 30
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "respected"
+      ],
+      "lines": [
+        "Друг",
+        "Добрый день",
+        "Надёжные руки"
+      ],
+      "weight": 30
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "Я его знаю",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "trusted"
+      ]
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "Вроде всё нормально",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "trusted",
+        "neutral"
+      ]
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "suspicious"
+      ],
+      "lines": [
+        "Осторожно",
+        "Следите за ним"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "hostile"
+      ],
+      "lines": [
+        "Здесь не рады",
+        "Будьте начеку"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "Бейте в колокол",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "despised"
+      ]
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "Не подходи",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "feared"
+      ]
+    },
+    {
+      "trigger": "ambient.sleep_breathing",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "lines": [
+        "Хр-р-р",
+        "*храпит*"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.sleep_murmur",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "lines": [
+        "тёплая кровать",
+        "тихая ночь"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.sleep_murmur",
+      "text": "спелая пшеница",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "professions": [
+        "farmer"
+      ]
+    },
+    {
+      "trigger": "ambient.sleep_murmur",
+      "text": "свежие чернила",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "professions": [
+        "librarian"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "Рад иметь дело",
+      "world_text_kind": "trade",
+      "color": "#6BFFB4",
+      "reputation_levels": [
+        "royalty",
+        "revered"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "Хорошая сделка",
+      "world_text_kind": "trade",
+      "color": "#6BFFB4",
+      "reputation_levels": [
+        "respected",
+        "trusted",
+        "neutral"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "Побыстрее",
+      "world_text_kind": "trade",
+      "reputation_levels": [
+        "suspicious",
+        "hostile",
+        "despised"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "Прошу, уходи",
+      "world_text_kind": "trade",
+      "reputation_levels": [
+        "feared"
+      ]
+    },
+    {
+      "trigger": "trade.refused",
+      "text": "Не торгую",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "dialogue.cooldown",
+      "text": "Опять?",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "dialogue.greeting",
+      "text": "Привет",
+      "world_text_kind": "dialogue",
+      "color": "#D7C7FF"
+    },
+    {
+      "trigger": "dialogue.question",
+      "text": "Насчёт этого",
+      "world_text_kind": "dialogue",
+      "color": "#D7C7FF"
+    },
+    {
+      "trigger": "dialogue.joke.positive",
+      "text": "Хех",
+      "world_text_kind": "positive",
+      "color": "green"
+    },
+    {
+      "trigger": "dialogue.insult.negative",
+      "text": "Серьёзно?",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "gift.high_reputation",
+      "text": "Это тебе",
+      "world_text_kind": "positive",
+      "color": "green"
+    },
+    {
+      "trigger": "gift.world.liked",
+      "text": "Спасибо",
+      "world_text_kind": "positive",
+      "color": "green"
+    },
+    {
+      "trigger": "gift.world.neutral",
+      "text": "Спасибо",
+      "world_text_kind": "dialogue",
+      "color": "#D7C7FF"
+    },
+    {
+      "trigger": "gift.world.disliked",
+      "text": "Нет, спасибо",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_armed": true,
+      "chance": 0.725375,
+      "lines": [
+        "Отойди!",
+        "Взять его!",
+        "Умри, {target}!"
+      ],
+      "weight": 42
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "text": "Снова ты, {player}?",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_armed": true,
+      "target_entity_types": [
+        "minecraft:player"
+      ],
+      "chance": 0.35,
+      "weight": 8
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_unarmed": true,
+      "target_entity_types": [
+        "minecraft:pillager",
+        "minecraft:vindicator",
+        "minecraft:evoker",
+        "minecraft:ravager",
+        "minecraft:witch",
+        "minecraft:zombie",
+        "minecraft:zombie_villager",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:skeleton",
+        "minecraft:stray",
+        "minecraft:wither_skeleton",
+        "minecraft:bogged",
+        "minecraft:phantom",
+        "minecraft:creeper",
+        "minecraft:spider",
+        "minecraft:cave_spider",
+        "minecraft:slime",
+        "minecraft:magma_cube",
+        "minecraft:enderman"
+      ],
+      "chance": 0.725375,
+      "lines": [
+        "Помогите! Здесь {target_article}!",
+        "Мне нужна помощь!",
+        "Колокол! Бейте в колокол!"
+      ],
+      "weight": 48
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_unarmed": true,
+      "target_entity_types": [
+        "minecraft:player"
+      ],
+      "chance": 0.5775,
+      "lines": [
+        "Без оружия. Но я не отступлю.",
+        "Я это запомню."
+      ],
+      "weight": 24
+    },
+    {
+      "trigger": "combat.flee_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_unarmed": true,
+      "target_entity_types": [
+        "minecraft:pillager",
+        "minecraft:vindicator",
+        "minecraft:evoker",
+        "minecraft:ravager",
+        "minecraft:witch",
+        "minecraft:zombie",
+        "minecraft:zombie_villager",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:skeleton",
+        "minecraft:stray",
+        "minecraft:wither_skeleton",
+        "minecraft:bogged",
+        "minecraft:phantom",
+        "minecraft:creeper",
+        "minecraft:spider",
+        "minecraft:cave_spider",
+        "minecraft:slime",
+        "minecraft:magma_cube",
+        "minecraft:enderman"
+      ],
+      "chance": 0.725375,
+      "lines": [
+        "Помогите! Здесь {target_article}!",
+        "Мне нужна помощь!",
+        "Колокол! Бейте в колокол!"
+      ],
+      "weight": 48
+    },
+    {
+      "trigger": "combat.attack_landed",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "lines": [
+        "Получай!",
+        "Попался!",
+        "Это за деревню!"
+      ],
+      "weight": 46
+    },
+    {
+      "trigger": "combat.attack_landed",
+      "text": "Не подходи, {player}!",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "target_entity_types": [
+        "minecraft:player"
+      ],
+      "weight": 8
+    },
+    {
+      "trigger": "combat.player_killed",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "lines": [
+        "Тебя предупреждали",
+        "Лежи, {player}",
+        "Хватит"
+      ],
+      "weight": 42
+    },
+    {
+      "trigger": "alert.player_attacked_villager",
+      "text": "!",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "trigger": "alert.villager_damaged",
+      "text": "!",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "id": "baby_attacked_player_ow",
+      "lines": [
+        "Ай!",
+        "Стой!",
+        "Помогите!"
+      ],
+      "trigger": "alert.player_attacked_villager",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 38
+    },
+    {
+      "id": "baby_damaged_ow",
+      "lines": [
+        "Ай!",
+        "Помогите!",
+        "Я хочу домой!"
+      ],
+      "trigger": "alert.villager_damaged",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 34
+    },
+    {
+      "trigger": "alert.witness_attack.player",
+      "text": "Стой!",
+      "world_text_kind": "alert",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "alert.witness_attack",
+      "text": "Опасность!",
+      "world_text_kind": "alert",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "alert.witness_death.player",
+      "text": "Убийство!",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "trigger": "alert.witness_death",
+      "text": "Колокол!",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "id": "baby_witness_death_player_no_no",
+      "lines": [
+        "Нет, нет, нет!",
+        "Я видел!",
+        "Помогите!",
+        "Бегите!"
+      ],
+      "trigger": "alert.witness_death.player",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 48
+    },
+    {
+      "id": "baby_witness_death_no_no",
+      "lines": [
+        "Нет, нет, нет!",
+        "Где взрослые?",
+        "Прячьтесь!",
+        "Помогите!"
+      ],
+      "trigger": "alert.witness_death",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 46
+    }
+  ]
+}

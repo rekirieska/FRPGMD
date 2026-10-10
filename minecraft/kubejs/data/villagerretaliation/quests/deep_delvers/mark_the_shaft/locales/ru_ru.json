@@ -1,0 +1,137 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.deep_delvers.mark_the_shaft.description": "Выберите рельсы или деревянные крепи для новой деревенской шахты.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.label": "Разметка шахты",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.lines": [
+      "Шахта может перевозить руду по рельсам или держать свод на тяжёлых деревянных крепях. Пока нам не хватает ресурсов на оба варианта.",
+      "Этот выбор закроет другой план шахты. Рельсовый путь продолжится энергорельсами и грузовыми перевозками, а деревянный – зачисткой пауков и аварийными припасами."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.decline.label": "Ещё нет.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.rail.action.notification.text": "Для деревенской шахты выбраны рельсы.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.rail.label": "Проложить рельсы",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.rail.text": "Значит, рельсы. Хорошо продумайте каждый уклон, прежде чем укладывать железо.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.timber.action.notification.text": "Для деревенской шахты выбраны деревянные крепи.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.timber.label": "Укрепить свод",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.timber.text": "Значит, дерево. Медленная шахта всё равно лучше обвалившейся.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.label": "О разметке шахты",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.lines": [
+      "Шахта может перевозить руду по рельсам или держать свод на тяжёлых деревянных крепях. Пока нам не хватает ресурсов на оба варианта.",
+      "Этот выбор закроет другой план шахты. Рельсовый путь продолжится энергорельсами и грузовыми перевозками, а деревянный – зачисткой пауков и аварийными припасами."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.decline.label": "Ещё нет.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.details.label": "Напомните выбор.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.rail.action.notification.text": "Для деревенской шахты выбраны рельсы.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.rail.label": "Проложить рельсы",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.rail.text": "Значит, рельсы. Хорошо продумайте каждый уклон, прежде чем укладывать железо.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.timber.action.notification.text": "Для деревенской шахты выбраны деревянные крепи.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.timber.label": "Укрепить свод",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.timber.text": "Значит, дерево. Медленная шахта всё равно лучше обвалившейся.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.objective.choose_route.tracker.complete_text": "Выбранный путь: {objective_choice_value}.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.objective.choose_route.tracker.text": "Выберите путь у выдавшего задание.",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.scene.decline.lines": [
+      "Неразмеченная шахта – всего лишь яма с амбициями."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "Шахта может перевозить руду по рельсам или держать свод на тяжёлых деревянных крепях. Пока нам не хватает ресурсов на оба варианта.",
+      "Этот выбор закроет другой план шахты. Рельсовый путь продолжится энергорельсами и грузовыми перевозками, а деревянный – зачисткой пауков и аварийными припасами."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот выбор недоступен."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.ui.tracker_text": "Выберите путь.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.label": "О разметке шахты",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.lines": [
+      "Вагонетка свободно идёт от забоя до поверхности.",
+      "Первый шахтный путь открыт. Дальше нас поведут рельсы."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Первый шахтный путь открыт. Дальше нас поведут рельсы.",
+      "Вагонетка свободно идёт от забоя до поверхности."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Уложите 24 рельса и принесите вагонетку для проверки линии."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.label": "О разметке шахты",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.lines": [
+      "Уложите 24 рельса и принесите вагонетку для проверки линии.",
+      "Значит, рельсы. Хорошо продумайте каждый уклон, прежде чем укладывать железо."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.bring_minecart.tracker.complete_text": "Вагонетка готова.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.bring_minecart.tracker.text": "Принесите 1 вагонетку для линии.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.lay_rails.tracker.complete_text": "Первая рельсовая линия проложена.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.lay_rails.tracker.text": "Разместите 24 рельса в шахте.",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Уложите 24 рельса и принесите вагонетку для проверки линии.",
+      "Значит, рельсы. Хорошо продумайте каждый уклон, прежде чем укладывать железо."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.ui.tracker_text": "Уложите 24 рельса и принесите вагонетку для проверки линии.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.label": "О разметке шахты",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.lines": [
+      "Свод не трещит, а крепи стоят ровно. Именно такой тишины мы и хотели.",
+      "Первый шахтный путь безопасен. Дальше нас поведут деревянные крепи."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.response.complete.label": "Завершите этот путь.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.completed": [
+      "Первый шахтный путь безопасен. Дальше нас поведут деревянные крепи.",
+      "Свод не трещит, а крепи стоят ровно. Именно такой тишины мы и хотели."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "Установите 16 крепей из брёвен и повесьте 4 фонаря на первом участке."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "Принесите сюда подтверждение выбранного пути, прежде чем мы закроем карту."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "Сейчас этот путь нельзя завершить."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.leave.lines": [
+      "Этот путь останется открытым, пока вы не будете готовы."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.label": "О разметке шахты",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.lines": [
+      "Установите 16 крепей из брёвен и повесьте 4 фонаря на первом участке.",
+      "Значит, дерево. Медленная шахта всё равно лучше обвалившейся."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.response.details.label": "Напомните выбранный путь.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.bring_lanterns.tracker.complete_text": "Фонари готовы.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.bring_lanterns.tracker.text": "Принесите 4 фонаря для укреплённой шахты.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.place_braces.tracker.complete_text": "Первые крепи установлены.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.place_braces.tracker.text": "Разместите 16 брёвен в качестве шахтных крепей.",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.scene.leave.lines": [
+      "Придерживайтесь выбранного пути."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.scene.reminder_details.action.remind.lines.reminder": [
+      "Установите 16 крепей из брёвен и повесьте 4 фонаря на первом участке.",
+      "Значит, дерево. Медленная шахта всё равно лучше обвалившейся."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас этот путь неактивен."
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.ui.tracker_text": "Установите 16 крепей из брёвен и повесьте 4 фонаря на первом участке.",
+    "quest.deep_delvers.mark_the_shaft.title": "Разметка шахты"
+  }
+}

@@ -1,0 +1,46 @@
+filename = 'epic-structures-villages-2.0.0.jar'
+name = 'Epic Structures: Villages'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0+mod'
+
+[download]
+hash = 'f1c9f907b63e644d1106b61480a458c06bc68527a2278b0407a98bfbfafbe3e6f3fd17bf56b0c7aaedd69bf085c76e8679715e7937f41bde3b72a50c1c2e1789'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4OeMBkiG/versions/hCRa4eFr/epic-structures-villages-2.0.0.jar'
+
+[update.modrinth]
+mod-id = '4OeMBkiG'
+version = 'hCRa4eFr'

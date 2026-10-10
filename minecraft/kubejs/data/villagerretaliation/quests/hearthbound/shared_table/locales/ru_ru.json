@@ -1,0 +1,72 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.hearthbound.shared_table.description": "Преврати новый очаг в надёжное место для вечерней трапезы всей деревни.",
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.label": "Об Ужине для всех",
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.lines": [
+      "Этого достаточно, чтобы люди могли сесть за стол и не гадать, кому разрешено остаться."
+    ],
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.response.complete.label": "Накрыть стол.",
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Общий стол не решает всех проблем, но благодаря ему меньше людей встречают проблемы голодными."
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Прежде чем звать людей, на столе всё ещё не хватает хлеба, печёного картофеля, печенья или молока."
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси сюда еду, прежде чем мы накроем стол."
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу закрыть запись о столе."
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.leave.lines": [
+      "Наполовину накрытый стол заставляет людей топтаться в дверях. Принеси остальное, когда сможешь."
+    ],
+    "quest.hearthbound.shared_table.stage.return.ui.tracker_text": "Вернись с припасами для стола.",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.label": "Ужин для всех",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.lines": [
+      "Очаг сработал. Теперь все делают вид, что заходят только ради дыма.",
+      "Помоги мне превратить это в настоящий стол, а не диковинку. Принеси 12 хлебов, 12 печёных картофелин, 8 печений и ведро молока. Это весь список для ужина."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.response.accept.label": "Я помогу пополнить стол.",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.response.decline.label": "Не сегодня.",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.label": "Об Ужине для всех",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.lines": [
+      "Для общего стола всё ещё нужны хлеб, печёный картофель, печенье и ведро молока. Список для ужина не изменится."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.response.details.label": "Повтори список для ужина.",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.response.leave.label": "Я принесу всё.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_baked_potatoes.tracker.complete_text": "Картофель готов.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_baked_potatoes.tracker.text": "Принеси 12 печёных картофелин для сытной еды, которая хорошо хранится.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_bread.tracker.complete_text": "Хлеб готов.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_bread.tracker.text": "Принеси 12 хлебов для общего стола.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_cookies.tracker.complete_text": "Сладкое готово.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_cookies.tracker.text": "Принеси 8 печений, чтобы трапеза закончилась приятно.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_milk.tracker.complete_text": "Ведро молока готово.",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_milk.tracker.text": "Принеси 1 ведро молока для котелка.",
+    "quest.hearthbound.shared_table.stage.stock_table.scene.decline.lines": [
+      "Значит, в другой день. Хорошие привычки терпеливы, пока ими не пренебрегают слишком долго."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.leave.lines": [
+      "Еда, которая хорошо хранится, прощает неудачное время."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 12 хлебов, 12 печёных картофелин, 8 печений и 1 ведро молока для общего стола."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.reminder_details.action.remind.lines.unavailable": [
+      "Стол для ужина сейчас не готов к этой работе."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.start_quest.action.start.lines.already_completed": [
+      "Общий стол уже накрыт."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.start_quest.action.start.lines.started": [
+      "Принеси 12 хлебов, 12 печёных картофелин, 8 печений и 1 ведро молока. Это полный список для этого ужина."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.start_quest.action.start.lines.unavailable": [
+      "Стол сейчас не готов просить о дополнительной помощи."
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.ui.tracker_text": "Принеси 12 хлебов, 12 печёных картофелин, 8 печений и 1 ведро молока.",
+    "quest.hearthbound.shared_table.title": "Ужин для всех"
+  }
+}

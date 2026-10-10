@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.fortress_line.description": "Обезопасьте путь крепости от патрулей визер-скелетов.",
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.label": "О чёрных мостах",
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.lines": [
+      "Путь крепости размечен, снабжён припасами и стал тише, чем был.",
+      "Теперь дорога через пламя и чёрные кости ведёт обратно в деревню.",
+      "Покажи мне всю работу, прежде чем я закрою запись."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.response.complete.label": "Передай всё необходимое.",
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Путь крепости размечен, снабжён припасами и стал тише, чем был.",
+      "Теперь дорога через пламя и чёрные кости ведёт обратно в деревню."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Пока нельзя пересчитать всю выполненную работу."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси подтверждение, прежде чем мы рассчитаемся.",
+      "Мне нужен весь результат работы, а не только рассказ о нём."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "У припасов должно быть реальное место назначения.",
+      "Доберись до отмеченного места, прежде чем мы назовём работу завершённой."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Чёрные мосты сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.turn_in_wait.lines": [
+      "5 визер-скелетов, 32 незерских кирпича и 16 незерского нароста.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.nether_routes.fortress_line.stage.return.ui.tracker_text": "Вернись к тому, кто выдал задание.",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.label": "Чёрные мосты",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.lines": [
+      "Направление к крепости верное, но те же мосты нашли визер-скелеты.",
+      "Устраните патруль и сделайте метки из чёрных кирпичей самой крепости.",
+      "Одолейте 5 визер-скелетов и принесите 32 незерских кирпича и 16 незерского нароста."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.response.accept.label": "Я сделаю это.",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.response.decline.label": "Не сейчас.",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.label": "О чёрных мостах",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.lines": [
+      "5 визер-скелетов, 32 незерских кирпича и 16 незерского нароста.",
+      "Одолейте 5 визер-скелетов и принесите 32 незерских кирпича и 16 незерского нароста.",
+      "Устраните патруль и сделайте метки из чёрных кирпичей самой крепости."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.response.abandon.label": "Отложить это задание.",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.response.details.label": "Повторить задание.",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.response.leave.label": "У меня всё есть.",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_bricks.tracker.complete_text": "Кирпичи для маршрута готовы.",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_bricks.tracker.text": "Принесите 32 незерских кирпича для меток маршрута.",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_wart.tracker.complete_text": "Незерский нарост готов.",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_wart.tracker.text": "Принесите 16 незерского нароста для сундука с припасами.",
+    "quest.nether_routes.fortress_line.stage.work.objective.clear_wither_skeletons.tracker.complete_text": "Патруль крепости устранён.",
+    "quest.nether_routes.fortress_line.stage.work.objective.clear_wither_skeletons.tracker.text": "Одолейте 5 визер-скелетов на маршруте.",
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_confirm.lines": [
+      "Отложить чёрные мосты?",
+      "Если уверен, я могу убрать твоё имя из задания."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_confirm.response.cancel.label": "Оставить активным.",
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_confirm.response.confirm.label": "Отложить.",
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Хорошо. Я уберу твоё имя из задания.",
+      "Запись убрана. Позже сможешь спросить снова."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "Я уберу запись на некоторое время, прежде чем снова разместить её.",
+      "Дай заданию немного полежать, прежде чем просить его снова."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Чёрные мосты сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.decline.lines": [
+      "Тогда чёрные мосты ещё немного останутся под охраной патрулей."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.leave.lines": [
+      "5 визер-скелетов, 32 незерских кирпича и 16 незерского нароста.",
+      "Вернись, когда всё будет готово к проверке."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "5 визер-скелетов, 32 незерских кирпича и 16 незерского нароста.",
+      "Одолейте 5 визер-скелетов и принесите 32 незерских кирпича и 16 незерского нароста.",
+      "Устраните патруль и сделайте метки из чёрных кирпичей самой крепости."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "Чёрные мосты сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "С чёрными мостами пока всё решено.",
+      "Эта работа уже засчитана."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "Отсюда я не вижу надёжной отметки. Спроси снова, когда путь станет яснее.",
+      "Сегодня карта не показывает безопасного места назначения."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.started": [
+      "Отмечайте безопасные повороты низко на стене. Гасты любят исправлять высокие указатели.",
+      "Одолейте 5 визер-скелетов и принесите 32 незерских кирпича и 16 незерского нароста."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "Чёрные мосты сейчас недоступны.",
+      "Деревня пока не готова доверить тебе эту работу."
+    ],
+    "quest.nether_routes.fortress_line.stage.work.ui.tracker_text": "Одолейте 5 визер-скелетов и принесите 32 незерских кирпича и 16 незерского нароста.",
+    "quest.nether_routes.fortress_line.title": "Чёрные мосты"
+  }
+}

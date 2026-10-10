@@ -1,0 +1,109 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.roads_that_remember.description": {
+      "lines": [
+        "Запишите воспоминание об обороне деревни и превратите его в дорогу, понятную атласу."
+      ]
+    },
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.label": "Дороги, которые помнят",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.lines": [
+      "Карты помнят места. Деревни помнят, что там произошло. Хорошему атласу нужно научиться и тому, и другому.",
+      "Когда деревня переживёт опасность, принесите это воспоминание вместе с письменным рассказом. Дороги важнее всего, когда людям нужно по ним возвращаться."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.response.accept.label": "Записать память дороги",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.response.decline.label": "В другой раз",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.label": "О дорогах, которые помнят",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.lines": [
+      "Атласу всё ещё нужна живая дорога: воспоминание об обороне деревни и затем письменный рассказ."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.response.abandon.label": "Отказаться от задания",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.response.details.label": "Напомните задание",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.objective.witness_defense.tracker.complete_text": "Воспоминание об обороне деревни готово для атласа.",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.objective.witness_defense.tracker.text": "Помогите защитить деревню или станьте свидетелем её обороны, чтобы атлас получил живую дорогу для записи.",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_confirm.lines": [
+      "Пока оставить это воспоминание незаписанным?"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_confirm.response.cancel.label": "Продолжать слушать",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_confirm.response.confirm.label": "Отказаться от задания",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "Я оставлю страницу пустой, пока дороге не появится что рассказать."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "Сейчас нет открытого воспоминания о дороге."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.decline.lines": [
+      "Ладно. За некоторыми историями не стоит гнаться, пока они ещё происходят."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.leave.lines": [
+      "Слушайте внимательно. После опасности дороги начинают говорить."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.reminder_details.action.remind.lines.reminder": [
+      "Помогите защитить деревню или станьте свидетелем обороны, затем принесите книгу, чтобы я записал рассказ в атлас."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас это воспоминание о дороге для вас не открыто."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.start_quest.action.start.lines.already_completed": [
+      "В атласе уже есть первая живая дорога."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.start_quest.action.start.lines.started": [
+      "Ищите деревню, пережившую опасность. Пока воспоминание свежо, принесите книгу, и я запишу его как следует."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.start_quest.action.start.lines.unavailable": [
+      "Первую полевую отметку нужно нанести чернилами, прежде чем атлас сможет оценивать воспоминания."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.ui.tracker_text": "Помогите в обороне деревни или станьте её свидетелем.",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.label": "О дорогах, которые помнят",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.lines": [
+      "Защищённая деревня, письменный рассказ и атлас, который знает разницу между расстоянием и значением."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.response.record.label": "Записать память дороги",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Теперь у атласа есть дорога, которая помнит, почему была важна. Это изменит то, как он будет оценивать все будущие отметки."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Атласу нужны и воспоминание об обороне, и книга, прежде чем я смогу записать этот рассказ."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принесите сюда книгу, и мы сохраним воспоминание без искажений."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Этому воспоминанию о дороге всё ещё нужен ваш рассказ, прежде чем я смогу его завершить."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.leave.lines": [
+      "Не спешите. Некоторым воспоминаниям нужна спокойная рука."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.ui.tracker_text": "Вернитесь к картографу с рассказом о дороге.",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.label": "О дорогах, которые помнят",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.lines": [
+      "Воспоминание уже есть. Принесите книгу, чтобы атлас сохранил его и не превратил в слух."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.response.details.label": "Напомните задание",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.response.leave.label": "Неважно",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.objective.bring_book.tracker.complete_text": "Рассказ о дороге можно записать.",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.objective.bring_book.tracker.text": "Принесите 1 книгу для рассказа о дороге.",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.scene.leave.lines": [
+      "Дорога, которую помнят, заслуживает чистой страницы."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.scene.reminder_details.action.remind.lines.reminder": [
+      "Принесите 1 книгу. Воспоминание об обороне готово, но рассказу всё ещё нужна страница."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.scene.reminder_details.action.remind.lines.unavailable": [
+      "Сейчас это воспоминание о дороге для вас не открыто."
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.ui.tracker_text": "Принесите 1 книгу, чтобы записать воспоминание об обороне деревни.",
+    "quest.cartographers_atlas.roads_that_remember.title": {
+      "lines": [
+        "Дороги, которые помнят"
+      ]
+    },
+    "quest.cartographers_atlas.roads_that_remember.tracker.title": {
+      "lines": [
+        "Дороги, которые помнят"
+      ]
+    }
+  }
+}

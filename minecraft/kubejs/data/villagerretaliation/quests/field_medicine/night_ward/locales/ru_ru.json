@@ -1,0 +1,91 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.field_medicine.night_ward.description": "Помоги деревне подготовить лекарства и доказательства того, что оставляют после себя ночные раны.",
+    "quest.field_medicine.night_ward.scene.night_ward_attack.metadata.title": "Атака на ночной лазарет",
+    "quest.field_medicine.night_ward.scene.night_ward_attack.step.samples_reminder.data.text": "В лазарете снова тихо. Собери шесть образцов с мёртвых, пока они не испортились.",
+    "quest.field_medicine.night_ward.scene.night_ward_attack.step.ward_warning.data.text": "Двери лазарета заперты. Трое мертвецов лезут из темноты, встреть их снаружи.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.label": "Ночной лазарет",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.lines": [
+      "Бинты полезны после ранения. Хороший лазарет старается встретить беду до того, как сломают дверь.",
+      "Разберись с мертвецами, которые подошли слишком близко, и принеси образцы. Потом приготовим более сильное лекарство, о котором не принято спрашивать вежливо."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.response.accept.label": "Я сохраню тишину в лазарете.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.response.decline.label": "Не сегодня ночью.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.label": "О ночном лазарете",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.lines": [
+      "Зомби не ждут чистых палат. Прореди их и принеси образцы."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.response.details.label": "Повтори работу для лазарета.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.response.leave.label": "Я разберусь.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.bring_rotten_flesh.tracker.complete_text": "Образцы готовы.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.bring_rotten_flesh.tracker.text": "Принеси 6 образцов гнилой плоти, чтобы в лазарете знали, что укусило первым.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.defeat_zombies.tracker.complete_text": "Ночной напор ослаб.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.defeat_zombies.tracker.text": "Убей 3 зомби, прежде чем они станут пациентами или воспоминаниями.",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.decline.lines": [
+      "А если пройдёшь мимо окна, зажги там свет. Это тоже кое-что значит."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.leave.lines": [
+      "Вернись до того, как перевязки понадобятся уже твоим рукам."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.reminder_details.action.remind.lines.reminder": [
+      "Убей 3 зомби и принеси 6 образцов гнилой плоти для ночного лазарета."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.reminder_details.action.remind.lines.unavailable": [
+      "Лазарет сейчас не готов к этой работе."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.start_quest.action.start.lines.already_completed": [
+      "Ночной лазарет уже укомплектован, а всё записано."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.start_quest.action.start.lines.started": [
+      "Убей 3 зомби и принеси 6 образцов гнилой плоти. Мрачный подсчёт, но полезный."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.start_quest.action.start.lines.unavailable": [
+      "Лазарет сейчас не готов просить тебя об этом."
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.ui.tracker_text": "Убей 3 зомби и принеси 6 образцов гнилой плоти.",
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.label": "О ночном лазарете",
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.lines": [
+      "Этого хватит, чтобы плохая ночь стала историей, а не могилой."
+    ],
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.response.complete.label": "Пополнить ночной лазарет.",
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.response.leave.label": "Ещё нет.",
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "Хорошо. Надеюсь, припасы в лазарете покроются пылью. Подготовка к боли не означает приглашать её внутрь."
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "Прежде чем закрыть сундук, нужно ещё очистить патрульную зону или принести яблоко и сахар."
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "Принеси сюда припасы для лазарета, чтобы я отложил их отдельно."
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "Сейчас я не могу закрыть ночной лазарет."
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.leave.lines": [
+      "Сундук останется открытым, пока список не будет выполнен."
+    ],
+    "quest.field_medicine.night_ward.stage.return.ui.tracker_text": "Вернись с припасами для ночного лазарета.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.label": "О ночном лазарете",
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.lines": [
+      "Теперь лазарету нужно лекарство с небольшой долей надежды. Принеси золотое яблоко и сахар."
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.response.details.label": "Повтори список лекарства.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.response.leave.label": "Я принесу.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_golden_apple.tracker.complete_text": "Золотое яблоко готово.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_golden_apple.tracker.text": "Принеси 1 золотое яблоко для сундука лазарета.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_sugar.tracker.complete_text": "Сахар готов.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_sugar.tracker.text": "Принеси 8 единиц сахара для горького лекарства, которое так легче проглотить.",
+    "quest.field_medicine.night_ward.stage.strong_medicine.scene.leave.lines": [
+      "Лучшее лекарство то, которое сегодня никому не понадобится."
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.scene.reminder_details.action.remind.lines.reminder": [
+      "Принеси 1 золотое яблоко и 8 единиц сахара для сундука ночного лазарета."
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.scene.reminder_details.action.remind.lines.unavailable": [
+      "Более сильное лекарство может подождать, пока лазарет не будет очищен."
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.ui.tracker_text": "Принеси 1 золотое яблоко и 8 единиц сахара.",
+    "quest.field_medicine.night_ward.title": "Ночной лазарет"
+  }
+}

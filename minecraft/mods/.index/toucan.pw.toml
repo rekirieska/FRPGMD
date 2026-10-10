@@ -1,0 +1,21 @@
+filename = 'toucanlib-neoforge-1.21.1-0.5.0.jar'
+name = 'toucanLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5.0'
+
+[download]
+hash = '480df5c5e21be09c780d3db4864659d3d4513644c615ddf6f5044bfc7073782ee62316c2c851313ab5fe76f1c4137ea754593fac2019e20ea9af1ec1d7151b87'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dXwOQg6L/versions/jW4mP1dI/toucanlib-neoforge-1.21.1-0.5.0.jar'
+
+[update.modrinth]
+mod-id = 'dXwOQg6L'
+version = 'jW4mP1dI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

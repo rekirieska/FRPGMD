@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.librarian",
+      "section.messages"
+    ],
+    "topic": "professions.librarian.messages"
+  },
+  "messages": [
+    {
+      "id": "librarian_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "Возьми {gift_item}. Думаю, тебе это пригодится.",
+        "Я отложил {gift_item} специально для тебя.",
+        "Вот {gift_item}. Это подарок, не взаймы.",
+        "Можешь забрать {gift_item}. Я выбирал внимательно.",
+        "Оставь себе {gift_item}. На доброту иногда стоит отвечать.",
+        "Я нашёл {gift_item} и сразу подумал о тебе.",
+        "Забирай {gift_item}, пока я не передумал, где этому место.",
+        "Надеюсь, {gift_item} пригодится тебе в дороге.",
+        "Держи {gift_item}. Никакой торговли.",
+        "Лучше пусть {gift_item} будет у тебя, чем пылится здесь.",
+        "Прими {gift_item} в знак моей благодарности.",
+        "Мне показалось, что {gift_item} больше подходит тебе, чем моей полке.",
+        "Я сохранил {gift_item} к твоему следующему визиту.",
+        "Береги {gift_item}, а если получится – пусть и оно бережёт тебя.",
+        "К {gift_item} на этот раз никаких советов не прилагается.",
+        "Перед тем как принести {gift_item}, я всё проверил дважды.",
+        "Ты заслуживаешь {gift_item}. Моё доверие заслужить куда сложнее.",
+        "Считай {gift_item} небольшой благодарностью за всё, что ты сделал.",
+        "Я почти завернул {gift_item}, но пожалел бумагу.",
+        "Возьми {gift_item}. Речь по этому поводу произносить не обязательно."
+      ],
+      "weight": 48
+    },
+    {
+      "id": "librarian_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "Хорошо. Значит, с подарком {gift_item} для {tested_villager} мы всё-таки угадали.",
+        "Значит, с {gift_item} для {tested_villager} мы не ошиблись.",
+        "Рад, что для {gift_item} у {tested_villager} нашлось применение.",
+        "Раз подарок {gift_item} остался у {tested_villager}, это говорит больше, чем вежливая благодарность.",
+        "Похоже, я правильно понял, что нужно {tested_villager}: {gift_item}.",
+        "Отлично. Улыбка {tested_villager} была не только из вежливости. Значит, выбор оказался удачным: {gift_item}.",
+        "Совет оказался верным. Для {tested_villager} это был удачный подарок: {gift_item}.",
+        "Запомню: {tested_villager} ценит такие подарки. Конкретно – {gift_item}.",
+        "С {gift_item} мы угадали по времени. Для {tested_villager} момент оказался подходящим.",
+        "Похоже, с {tested_villager} я не ошибся, когда предложил {gift_item}.",
+        "Хорошо, что из-за {gift_item} {tested_villager} не пришлось изображать радость из вежливости.",
+        "Раз у {tested_villager} действительно нашлось применение для {gift_item}, лучшего ответа и не нужно.",
+        "Теперь мы знаем: для {tested_villager} вариант {gift_item} стоит оставить в списке.",
+        "По твоему рассказу видно: подарок для {tested_villager} приняли хорошо. Это был {gift_item}.",
+        "Совет насчёт {gift_item} для {tested_villager} оказался удачным.",
+        "Я надеялся, что {tested_villager} поймёт, почему я предложил именно {gift_item}.",
+        "Тогда запомни {gift_item} на случай, если {tested_villager} снова понадобится поднять настроение.",
+        "{tested_villager} и {gift_item} подошли друг другу лучше, чем я решался обещать.",
+        "Можно отметить совет как удачный: с {gift_item} для {tested_villager} мы угадали.",
+        "Спасибо, что проверил. С {gift_item} для {tested_villager} мы не ошиблись."
+      ],
+      "weight": 44
+    },
+    {
+      "id": "librarian_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "Теперь ясно: для {gift_subject} вариант {gift_item} не годится. Попробуй {alternative_gift}.",
+        "Я неправильно понял {gift_subject}, когда посоветовал {gift_item}. В следующий раз принеси {alternative_gift}.",
+        "Для {gift_subject} вариант {gift_item} отложим. Следующая попытка – {alternative_gift}.",
+        "Для {gift_subject} выбор {gift_item} оказался ошибкой. Попробуем {alternative_gift}.",
+        "Я исправлю запись про {gift_subject}: выбирай {alternative_gift}, а не {gift_item}.",
+        "Реакция {gift_subject} на {gift_item} была плохой. Теперь безопаснее выбрать {alternative_gift}.",
+        "Мы узнали кое-что полезное про {gift_subject}: замени {gift_item} на {alternative_gift}.",
+        "Я ожидал, что {gift_item} подойдёт для {gift_subject}, но {alternative_gift} теперь выглядит разумнее.",
+        "С {gift_subject} больше не пробуй {gift_item}. Попробуй {alternative_gift}.",
+        "Этот совет не сработал. Для {gift_subject} меняем {gift_item} на {alternative_gift}.",
+        "Я должен исправиться насчёт {gift_subject}: после {gift_item} лучше попробовать {alternative_gift}.",
+        "Оставь {gift_item} кому-нибудь другому. Возможно, {gift_subject} больше понравится {alternative_gift}.",
+        "Теперь мы знаем, чего {gift_subject} не хочет: {gift_item}. Следующая проверка – {alternative_gift}.",
+        "Сначала я предположил для {gift_subject} вариант {gift_item}. Теперь считаю, что лучше {alternative_gift}.",
+        "Хорошо, что ты рассказал. Для {gift_subject} вариант {gift_item} не сработал, так что выбирай {alternative_gift}.",
+        "Я вычеркну {gift_item} из записи про {gift_subject} и впишу {alternative_gift}.",
+        "Плохой совет незачем защищать. Для {gift_subject} нужно {alternative_gift}, а не {gift_item}.",
+        "Реакция на {gift_item} всё прояснила насчёт {gift_subject}. Принеси {alternative_gift}.",
+        "Я принял вежливость за интерес. Для {gift_subject} замени {gift_item} на {alternative_gift}.",
+        "В следующий раз с {gift_subject} начни с {alternative_gift}, а {gift_item} оставь в стороне."
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "Ты последовал моей неудачной записи про {gift_subject}. Убери {gift_item} и принеси {alternative_gift}.",
+        "Мне стоило всё проверить, прежде чем отправлять {gift_item} к {gift_subject}. Теперь используй {alternative_gift}.",
+        "Эта ошибка началась с моего совета. Для {gift_subject} замени {gift_item} на {alternative_gift}.",
+        "Не люблю ошибаться, но для {gift_subject} вариант {gift_item} явно не подходит. Попробуй {alternative_gift}.",
+        "Поспорим потом. Держи {gift_item} подальше от {gift_subject} и найди {alternative_gift}.",
+        "Мой источник про {gift_subject} оказался плохим: он советовал {gift_item}, хотя нужно было {alternative_gift}.",
+        "Признаю ошибку. Для {gift_subject} нужно {alternative_gift}, а не {gift_item}.",
+        "Хватит гадать про {gift_subject}. Отложи {gift_item} и выбери {alternative_gift}.",
+        "Ты доверился моему совету про {gift_item} для {gift_subject}. Теперь мой совет – {alternative_gift}.",
+        "Доказательства ясны: {gift_item} раздражает {gift_subject}, а {alternative_gift}, возможно, нет.",
+        "Я переоценил {gift_item} и неправильно понял {gift_subject}. Принеси {alternative_gift}.",
+        "Пусть неудача с {gift_item} научит нас осторожности с {gift_subject}. Следующим будет {alternative_gift}.",
+        "После реакции {gift_subject} я не стану защищать совет про {gift_item}. Попробуй {alternative_gift}.",
+        "Исправь ошибку прямо: забери у {gift_subject} {gift_item} и предложи {alternative_gift}.",
+        "Вот зачем советы нужно проверять: для {gift_subject} вариант {gift_item} не подошёл, значит используй {alternative_gift}.",
+        "Мои записи подвели тебя с {gift_subject}. Вычеркни {gift_item} и впиши {alternative_gift}.",
+        "Я понимаю твоё раздражение. Для {gift_subject} нужно было {alternative_gift}, а не {gift_item}.",
+        "Не навязывай {gift_subject} тот же вариант снова: {gift_item}. У нас ещё есть {alternative_gift}.",
+        "Перед советом про {gift_item} для {gift_subject} я сверился не с той записью. Выбирай {alternative_gift}.",
+        "Исправим совет так: дадим {gift_subject} шанс с {alternative_gift} вместо {gift_item}."
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.librarian.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "Надо было сначала проверить выбор: {gift_item}. И только потом предлагать его {gift_subject}. Теперь используй {alternative_gift}.",
+        "Реакция {gift_subject} ясна: {gift_item} не подходит. Не дави и попробуй {alternative_gift}.",
+        "Я говорил, что насчёт {gift_item} для {gift_subject} уверенности нет. Теперь принеси {alternative_gift}.",
+        "Упрямство не делает плохой совет лучше. Для {gift_subject} оставь {gift_item} и попробуй {alternative_gift}.",
+        "Оставь {gift_subject} в покое, пока не уберёшь {gift_item} и не найдёшь {alternative_gift}.",
+        "Ты видел реакцию {gift_subject} на {gift_item}. Следующим разумно попробовать {alternative_gift}.",
+        "Не превращай неудачу с {gift_item} в спор с {gift_subject}. Предложи {alternative_gift}.",
+        "Ты слишком быстро согласился на {gift_item} для {gift_subject}. Перед новой попыткой проверь {alternative_gift}.",
+        "С {gift_subject} вариант {gift_item} был небрежным решением. Выбирай {alternative_gift}.",
+        "Я помогу исправить это один раз. Для {gift_subject} забери {gift_item} и принеси {alternative_gift}.",
+        "Если хочешь ещё один шанс с {gift_subject}, забудь про {gift_item} и подумай о {alternative_gift}.",
+        "Твоя уверенность в {gift_item} не убедила {gift_subject}. Возможно, с {alternative_gift} получится лучше.",
+        "Теперь всё просто: {gift_subject} не хочет {gift_item}, значит попробуй {alternative_gift}.",
+        "Лекцией ты не заставишь {gift_subject} полюбить {gift_item}. Найди {alternative_gift}.",
+        "У меня нет терпения снова предлагать {gift_item} после отказа {gift_subject}. Используй {alternative_gift}.",
+        "Реакция {gift_subject} на {gift_item} была отрицательной, но с {alternative_gift} может повезти больше.",
+        "Одной неудачи с {gift_item} достаточно, чтобы сделать вывод про {gift_subject}. Переходи к {alternative_gift}.",
+        "Оставь гордость в стороне. Для {gift_subject} нужно {alternative_gift}, а не {gift_item}.",
+        "В следующий раз с {gift_subject} сначала убери {gift_item} и принеси {alternative_gift}.",
+        "Теперь я жду от тебя более здравого решения. Не дави на {gift_subject}, а потом предложи {alternative_gift} вместо {gift_item}."
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.librarian.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

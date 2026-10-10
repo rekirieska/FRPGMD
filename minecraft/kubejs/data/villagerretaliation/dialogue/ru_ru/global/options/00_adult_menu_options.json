@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.global",
+      "section.options"
+    ],
+    "topic": "global.menu_options.adult"
+  },
+  "options": [
+    {
+      "id": "adult_general_question",
+      "label": "Поговорить",
+      "type": "dialogue_option",
+      "request": "question",
+      "order": 1,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_greeting",
+      "label": "Поздороваться",
+      "type": "dialogue_option",
+      "request": "greeting",
+      "order": 0,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_question",
+      "label": "Задать вопрос",
+      "type": "dialogue_option",
+      "request": "question",
+      "order": 2,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_gift_preferences",
+      "label": "Спросить о подарках",
+      "type": "dialogue_option",
+      "request": "gift_preferences",
+      "order": 3,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_story",
+      "label": "Попросить рассказать историю",
+      "type": "dialogue_option",
+      "request": "story",
+      "order": 4,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_share_story",
+      "label": "Поделиться историей",
+      "type": "dialogue_option",
+      "request": "share_story",
+      "order": 5,
+      "requires_shareable_story": true,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_joke",
+      "label": "Рассказать шутку",
+      "type": "dialogue_option",
+      "request": "joke",
+      "order": 6,
+      "show_for_babies": false
+    },
+    {
+      "id": "adult_insult",
+      "label": "Оскорбить",
+      "type": "dialogue_option",
+      "request": "insult",
+      "order": 7,
+      "show_for_babies": false
+    }
+  ]
+}
